@@ -1,0 +1,530 @@
+**Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
+----------
+
+                         Brasília - DF  2017 - 2018
+
+
+## **Sumário**
+
+[TOC] 
+
+
+## **I) Introdução**
+------
+
+Na sociedade em rede, os dados produzidos pelos cidadãos, ou em seu nome, são a força motriz da economia e da nação — o governo tem a responsabilidade de tratar esta informação como precioso recurso nacional. Os cidadãos, hoje, interagem uns com os outros pela rede como nunca antes, e estão desenvolvendo as habilidades e o entusiasmo para resolver os problemas que os afetam localmente, assim como nacionalmente. No século 21, informações e serviços públicos devem estar disponíveis aos cidadãos onde e quando eles precisem. Mais do que nunca, os cidadãos estão desenvolvendo o poder de desencadear a inovação, que resultará em uma melhor abordagem para a governança do Estado. Neste modelo, o governo atua como organizador e facilitador, e não mais como o motor fundamental de cada ação/iniciativa.
+
+Entendemos que a maneira correta de encaminhar uma estratégia moderna para a questão das aplicações e serviços públicos é por meio de uma plataforma aberta baseada no modelo ‘open data’ (dados abertos), que promova a inovação dentro e fora do governo. 
+
+Na busca em aprimorar continuamente seu papel na sociedade, o Estado deve implementar ações de modernização de suas plataformas digitais, aumentar o compartilhamento de seus recursos informacionais e estimular a colaboração e a participação social na construção de melhores serviços públicos. Acreditamos vivamente que a abertura de dados é importante ferramenta de democratização do acesso à informações públicas e contribuirá para o exercício da cidadania. 
+
+Ademais, é importante salientar a transparência que será alcançada por meio da abertura de dados, que contribuirá para o combate de eventuais desvios. Não à toa, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, é a responsável por assegurar a publicação e a atualização do Plano de Dados Abertos. 
+
+O Sistema MinC, por meio deste documento, institui seu Plano de Dados Abertos (PDA), o qual estabelece ações para a implementação e promoção de abertura de dados do campo cultural.
+
+O Plano abrange tanto o do Ministério da Cultura como também de suas instituições vinculadas. A decisão por um Plano conjunto visa promover a atuação integrada e sistêmica no sistema MinC, e contribuirá para uma maior padronização na abertura de dados do órgão central e das instituições vinculadas, além de aumentar a quantidade de dados culturais abertos.
+
+Os principais normativos aplicáveis para a confecção deste Plano são:
+
+- A [Lei nº 12.527](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm), de 18 de Novembro de 2011, Lei de Acesso à Informação – LAI;
+- O [Decreto nº 8.777,](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm) de 11 de maio de 2016, que institui a Política de Dados Abertos do Poder Executivo Federal;
+- O disposto no art. 48 da [Lei Complementar nº 101](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm), de 4 de maio de 2000, que determina ao Poder Público a adoção de instrumentos de transparência na gestão fiscal  em meios eletrônicos de acesso público às informações orçamentárias e prestações de contas;
+- O [Decreto Presidencial nº 6.666](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm), de 27 de novembro de 2008, que instituiu a criação da Infraestrutura Nacional de Dados Espaciais – INDE, e determina que o compartilhamento e disseminação dos dados geoespaciais e seus metadados é obrigatório para todos os órgãos e entidades do Poder Executivo Federal, salvo os protegidos por sigilo;
+- [Decreto s/nº de 15 de setembro de 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/dsn/dsn13117.htm), que institui o Plano de Ação Nacional sobre Governo Aberto, o qual estabelece o compromisso do governo de implantar a Infraestrutura Nacional de Dados Abertos (INDA);
+- A [Instrução Normativa nº 4 de 13 de abril de 2012](http://dados.gov.br/paginas/instrucao-normativa-da-inda), que cria a INDA e estabelece conceitos referentes a dado, informação, dado público, formato aberto, licença aberta, dados abertos e metadado;
+- O Plano de Ação da INDA , que institui a necessidade de os órgãos de instituírem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e institui os elementos mínimos do documento, bem como orienta que a abertura de dados deve observar a relevância para o cidadão;
+- O Plano de Ação Nacional sobre Governo Aberto (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
+- Os parâmetros estabelecidos na e-PING - arquitetura de interoperabilidade do governo eletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
+- Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](https://www.governoeletronico.gov.br/egd/estrategia-de-governanca-digital).
+
+
+### *Cenário Institucional*
+
+####O Sistema MinC
+O Ministério da Cultura é o órgão central de um sistema que agrega sete instituições vinculadas responsáveis pela implementações das políticas culturais no âmbito da Administração Pública Federal. São elas:
+
+ - Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN;
+ - Instituto Brasileiro de Museus - IBRAM;
+ - Fundação Cultural Palmares - FCP;
+ - Agência Nacional do Cinema - Ancine;
+ - Fundação Nacional das Artes - Funarte;
+ - Fundação Biblioteca Nacional - FBN; e 
+ - Fundação Casa de Rui Barbosa - FCRB.
+
+Como parte da estratégia de abertura de dados culturais, o Ministério da Cultura apoiará a produção e execução do Plano de Dados Abertos das instituições vinculadas. Prentende-se desta forma, aumentar a quantidade de dados culturais abertos e garantir a padronização entre os mesmos.
+
+####A Lei Rouanet e o Incentivo cultural
+O Incentivo à produção cultural por meio da Lei Rouanet ([Lei nº 8.313/91](http://www.planalto.gov.br/ccivil_03/leis/L8313cons.htm)) é a política ofertada pelo Ministério da Cultura com maior destaque. O serviço é prestado por meio digital por meio do SALIC - Sistema de Apoio às Leis de Incentivo Cultural. A demanda constante por transparência das informações dos projetos culturais e do processo de aprovação destes tem estimulado ao MinC a implementar novos mecanismos de acesso à informação e aos dados do sistema SALIC.
+
+####Sistema Nacional de Informações e Indicadores Culturais - SNIIC
+O SNIIC, de criação pela [Lei nº  12.343/10](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12343.htm), é um repositório de bens, serviços, infraestrutura, investimentos, produção, acesso, consumo, agentes, programas, instituições e gestão cultural, e transparência, entre outros, e está disponível para toda a sociedade. A plataforma cumpre também o importante papel de suporte à implementação do [Plano Nacional de Cultura - PNC](http://pnc.culturadigital.br/), que define metas públicas de cultura até 2020.
+
+O conceito que orienta a implementação da plataforma introduz a importante novidade da participação direta dos usuários interessados, seja na complementação dos dados apresentados no sistema pela dimensão publica ou na participação direta na formulação e monitoramento dos projetos e políticas culturais, o que chamamos de governança colaborativa. Cabe ao Ministério da Cultura coordenar um processo de estruturação para os sistemas de informações locais desde uma rede nacional.
+
+A partir das oportunidades que a formatação em rede implicam, o SNIIC se propõe a ser uma interface dinâmica e viva, que contribua para a produção, gestão e difusão da produção e da diversidade cultural e artística brasileira. Dentro das novas estruturas de governança, o SNIIC será, também, um instrumento de transparência dos investimentos públicos no setor cultural, servindo como ferramenta de monitoramento e avaliação para os gestores e para toda a sociedade. Mais sobre o SNIIC em http://i.cultura.gov.br.
+
+
+### *Objetivo Geral*
+
+A abertura dos dados do Ministério da Cultura, de maneira a garantir a transparência das políticas públicas realizadas pelo Sistema MinC, visa estimular a inovação e a geração de novos serviços digitais para e pela sociedade, contribuindo com a consolidação do governo como plataforma. 
+
+### *Objetivos Específicos*
+
+ - Identificar e priorizar a abertura de dados com maior grau de relevância para o cidadão;
+ - Incrementar os processos de transparência e de acesso a informações públicas;
+ - Fornecer dados atualizados implementando as melhores práticas de publicação de dados e por meio de padrões consolidados;
+ - Estimular a interoperabilidade informacional entre instituições públicas;
+ - Reduzir a assimetria de informações entre a sociedade e o governo;
+ - Fomentar a participação social e a inovação tecnológica;
+ - Estimular o crescimento da economia pela produção de novos serviços digitais e a reutilização dos recursos informacionais de caráter público.
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+## **II) Dados para Abertura**
+----------
+Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
+
+- Relevância para a sociedade
+- Pincipais solicitações por intermédio da LAI
+- Obrigações legais
+- Alinhamento estratégico
+- Facilidade para abertura
+
+Como resultado desta dinâmica obtivemos a seguinte tabela:
+
+| Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
+|--:|:--:|:--:|:--:|:--:|:--:|
+| **SALIC** | 2 | 2 | 2 | 1 | **7** |
+| **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
+| **Mapa da Cultura - SNIIC** | 1 | 1 | 2 | 2 | **6** |
+| **Rede Cultura Viva** | 1 | 1 | 2 | 2 | **6** |
+| **Sistema Nacional de Bibliotecas Públicas** | 1 | 1 | 2 | 2 | **6** |
+| **Plataforma Museus BR** | 1 | 1 | 2 | 2 | **6** |
+| **Sistema Nacional de Cultura - SNC** | 1 | 1 | 2 | 2 | **6** |
+| **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** | 
+| **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
+
+
+Uma vez realizada a priorização, foi definido em conjunto com a Coordenação-Geral de Instraestrutura Tecnológica - CGTEC quais destes sistemas de informação terão abertas as respectivas bases de dados durante a vigência deste PDA.
+
+### *Critérios de Publicidade para Escolha dos conjutos de dados*
+
+Via de regra, todos os conjuntos de dados produzidos ou de responsabilidade do Ministério da Cultura são candidatos para abertura. De acordo com a Lei de Acesso à Informação - LAI (Lei nº 12.527/2011), a transparência é a regra e o sigilo a exceção. Nesse sentido, são passíveis de abertura todos os conjuntos de dados não classificados em algum nível de sigilo previstos no Art. nº 24 da referida Lei.
+
+Para a abertura de dados com informações de caráter pessoal, ou seja, que dizem respeito a vida privada da pessoa, serão usadas estratégias de ofuscamento de identificadores, como a aplicação de máscaras nos dados e agregação de registros.   
+
+## **III) Estratégias para Abertura de Dados **
+
+### *Premissas*
+
+1. Publicar os dados o mais rápido possível fornecendo documentação de qualidade garantindo a precisão na interpretação e reutilização destes;
+2. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA, que institui que cada conjunto de dados deve conter, no mínimo:
+    a. Nome ou título do conjunto de dados;
+    b. Descrição sucinta;
+    c. Palavras-chave (etiquetas);
+    d. Assuntos relacionados do VCGE - Vocabulário Controlado do Governo Eletrônico;
+    e. Nome e e-mail do setor responsável pelos dados;
+    f. Periodicidade de atualização;
+    g. Escopo temporal (anual, mensal, diário, bimestral etc. exemplo: dados referentes ao censo de 2011, dados de um indicador mensal);
+    h. Escopo geopolítico (por cidade, por estado, por região);
+3. No caso de dados geoespaciais, deve-se levar em conta as normas e padrões da INDE;
+4. Publicar os dados do Ministério seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA e pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
+5. Catalogar os dados abertos do Ministério no Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do Governo Federal;
+6. Catalogar os dados geoespaciais na INDE;
+7. Promover a integração entre os catálogos de metadados INDA e INDE;
+8. Manter os dados atualizados com a menor periodicidade e maior granularidade possível;
+9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação a extrações pontuais;
+10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal 18 e, quando houver, utilizar também a página institucional de dados abertos do MP (dados.planejamento.gov.br), mantendo URL fixa.
+
+### *Formatos e Interfaces de acesso aos dados*
+
+A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações. 
+O MinC adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - APIs.  
+
+### *Processos de Desenvolvimento de Softwares *
+
+Projetos de TI para abertura de dados constituem, à primeira vista, investimento de recursos com baixo retorno para o alcance dos objetivos mínimos de um determinado sistema de informação. A transparência e o reuso de dados pelos diversos setores da sociedade geralmente trazem benefícios a longo prazo, fatores que diminuem a prioridade dessas iniciativas frente às necessidades de TI da instituição e à limitada capacidade de atendimento.
+
+Diante dessa realidade a Coordeção-Geral de Infraestrutura Tecnológica do MinC concebe o desenho arquitetural das soluções buscando, por meio do uso de padrões e tecnologias modernas, sempre alinhar as necessidades de negócio com os critérios técnicos de abertura de dados. Projetos de desenvolvimento de novos sistemas de informação incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os aplicativos e interfaces daquele sistema de informações.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## **IV) Catalogação no Portal Brasileiro de Dados Abertos **
+
+----------
+O Ministério da Cultura disponibilizou um portal de dados abertos em versão *beta* (http://dados.cultura.gov.br). A decisão por criar o Portal de Dados da Cultura tem o objetivo de apresentar os dados culturais de maneira centralizada e simplificar os esforços de curadoria dos mesmos. A publicação destes dados no Portal Brasileiro de Dados Abertos (http://dados.gov.br) será realizada de maneira automática, utilizando tecnologia já disponível de integração entre os catálogos. 
+
+É importante lembrar que para catalogação devem-se observar os critérios mencionados no item 2  da seção III deste documento ( Premissas - Estratégia para Abertura de Dados), que contém o conjunto de metadados mínimos estabelecido pela INDA. 
+
+
+
+## **V) Ontologia da Gestão Cultural**
+----------
+
+Ainda em 2015, o Ministério da Cultura instituiu um Grupo de Trabalho multirepresentado, com o objetivo de desenvolver uma Ontologia da Gestão Cultural destinada a estruturar a dimensão conceitual do Sistema Nacional de Indicadores e Informações Culturais - SNIIC, aprimorando, assim, a capacidade de organização de informações pelas instituições do campo cultural.
+
+O objetivo da construção de ontologias, conceito desenvolvido no âmbito das Ciências da Informação e da Computação, é viabilizar a estruturação de redes semânticas que integrem e promovam intercâmbio, comparabilidade e aprendizado a partir de diferentes fontes de dados e informações. O intuito é garantir que as soluções tecnológicas de produção, disponibilização e consulta de dados e informações, incluam estratégias bem resolvidas de conceituação/significação, estabelecimento de relações e tratamento dos dados, assegurando confiabilidade e consistência na comunicação e compartilhamento de dados realizada no espaço informacional digital.
+
+O desenvolvimento da ontologia da gestão cultural tem o objetivo de estabelecer uma rede de conceitos comuns que facilite e qualifique a comunicação e compartilhamento de dados e informações relacionadas à gestão cultural, sem impedir ou limitar a criatividade e diversidade que caracterizam a área da cultura em todo o país.
+
+O projeto Ontologia da Gestão Cultural tem a coordenação técnica de especialistas da Ciência da Informação da Universidade Federal de Goiás - UFG. A primeira versão da ontologia será publicada ainda no primeiro semestre de 2017. Em seguida, a ontologia será implementada no modelo de dados do software Mapas Culturais.
+
+O processo de desenvolvimento da ontologia está sendo [documentado no portal do SNIIC](http://i.cultura.gov.br/vocabulario/).
+
+## **VI) Governança**
+----------
+**[REVISAR - Incluir a formalização correta]** Será instituído por meio de Portaria um comitê responsável pela governança das ações de abertura de dados no MinC. Este comitê deverá ser presidido pela autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI, e contará com representantes de cada secretaria e subsecretaria deste Ministério. O comitê contará também com representante da Coordenação Geral de Infraestrutura tecnológica - CGTEC.  As principais responsabilidades deste comitê serão: 
+
+### *Catalogação dos Conjuntos de Dados no Portal de Dados Abertos do Sistema MinC*
+
+O processo de abertura dos dados de um sistema consiste basicamente de duas etapas: 
+
+ 1. O desenvolvimento, caso necessário, de customização do sistema para acesso automatizado dos dados públicos; e
+ 2. A catalogação de metadados possibilitando aos usuários encontrarem e utilizarem os dados.
+
+Cada conjunto de dados passará por um processo de catalogação no portal de dados do MinC, observando os padrões mínimos que a INDA estabelece.
+
+A participação dos gestores dos sistemas de informação no processo de catalogação visa garantir a boa qualidade da documentação disponibilizada para os usuários consumidores dos dados;
+
+### *Monitoramento e Controle*
+
+A autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Lei nº 12.527/11) é a responsável por assegurar a publicação, o monitoramento e a atualização do Plano de Dados Abertos, que deverá ser executada com o apoio da Subsecretaria de Gestão Estratégica – SGE, por intermédio da  Coordenação-Geral de Infraestrutura Tecnológica - CGTEC,  e demais órgãos competentes. 
+
+O monitoramento e controle consiste em garantir a priorização e realização dos projetos de TI necessários para as ações previstas neste plano e realizar continuamente as atividades de curadoria dos metadados dos Conjuntos de Dados catalogados no Portal de Dados Abertos da Cultura, garantindo a disponibilidade e a atualização dos dados de acordo com frequência pré-definida, além do atendimento às normas e padrões especificados pela INDA.  
+
+### *Melhoria da qualidade dos dados*
+
+A melhoria da qualidade dos dados é um processo contínuo cujo objetivo é aprimorar a solução tecnológica de publicação e acesso estruturado desenvolvida para cada conjunto de dados abertos. Dependendo da complexidade de um sistema de informação, o projeto de abertura de seus dados pode ser dividido em várias etapas, de forma a realizar aberturas parciais rápidas, com escopos incrementais e em formatos de arquivos simplificados. 
+
+O Plano de Dados Abertos do MinC se constitui um instrumento vivo, de constante revisão, tendo como diretriz a contínua evolução das interfaces de acesso aos dados abertos pela sociedade, orientado pelo princípio de que os dados públicos têm seu valor amplificado quando compartilhados abertamente.
+
+Uma estratégia evolutiva a ser seguida é utilizar como referência o esquema de implementação das **5 estrelas dos Dados Abertos**, disponível em http://5stardata.info/pt-BR/. Em seu nível mais aprimorado, o esquema recomenda a publicação de dados em formato RDF (Resource Description Framework) e interligados à Web Semântica.
+
+O processo de melhoria contínua levará também em consideração as práticas sugeridas pelo guia de **Melhores Práticas para Publicação de Dados na Web**, documento construído pelo W3C e disponível em https://www.w3.org/TR/dwbp/.
+
+
+### *Comunicação e Participação social*
+
+A Política de Dados Abertos, junto com o Portal, tem como um dos principais objetivos permitir que o Ministério funcione como uma grande plataforma de transparência ativa para a sociedade. Abrindo à população possibilidades de criar diversas formas de apresentação e cruzamento de dados, não só para formação de informações valiosos, como também de conhecimentos, os quais os gestores mais experientes nunca irão conseguir pensar ou implantar.  
+Além do portal, o MinC pretende dentro de suas ações, tornar o processo de abertura de dados o mais automático possível, ou seja, com o mínimo necessário de intervenção humana. Essa iniciativa garante que os dados estejam sempre atualizados e com grande valor informacional. Passando para a sociedade a confiança necessária para ela construir soluções com garantia de longevidade no tempo.  Esse é um ponto fundamental na construção de uma cadeia de valor para o grande potencial de geração de negócio com essa plataforma. 
+Por fim é intenção deste ministério promover incentivos a desenvolvimento de soluções que usufruam dos dados abertos, entre as formas de promoção, destacamos os eventos de programações abertos (Hackatons); desenvolvimentos de  produtos em parcerias com Universidades; Editais em modalidade de concursos, com prêmios remuneratórios para os vencedores.  
+
+
+
+## **VII) Plano de Ação e Matriz de Responsabilidades**
+----------
+* **Ação 01 - Lançamento do Portal de Dados Abertos do MinC**
+O portal de dados abertos do MinC em **versão beta já está disponível** no endereço http://dados.cultura.gov.br e ganhará uma nova interface de navegação voltada aos desenvolvedores de software e demais especialistas em manipulação de dados.  
+
+   **Atividades:**
+        a) Customizar Arquitetura da informação e Identidade visual do Portal
+        b) Realizar treinamento com administradores do Portal
+        c) Planejar formulação de termo de uso dos dados
+    **Etapas:**
+        - Ajustar e corrigir registros no catálogo do portal beta
+        - Desenvolvimento e Aplicação da Identidade Visual
+    **Prazo Final:** Setembro de 2017
+    **Responsável:** CGTEC
+
+* **Ação 02 - Abertura de Dados do SALIC**
+A API permitirá acesso aos principais dados relativos à execução  da política federal de incentivo cultural, a Lei Rouanet. Serão disponibilizados os dados de Proponentes e Incentivadores, além das Propostas e Projetos com alto teor de detalhamento. A API permitirá consultas avançadas, ordenação dos resultados, navegação paginada e acesso aos recursos em vários formatos (JSON, CSV e XML).
+
+   **Atividades:**
+    a) Desenvolvimento da API de Dados Abertos do Salic
+    **Etapas:**
+        - Desenvolvimento da 1ª versão da API
+        - Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** Em tempo real
+    **Prazo Final:** Abril de 2017
+    **Responsável:** SEFIC e CGTEC
+
+* **Ação 03 - Abertura de Dados do Vale Cultura**
+A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dados que serão ser abertos, levando em consideração o parecer nº 486/2016/CONJUR-MinC/CGU/AGU que trata sobre a abertura de dados das empresas beneficiárias da política. 
+
+    **Atividades:**  
+    a) Revisar modelo de abertura de dados do Vale Cultura
+    b) Evolução da API de dados abertos do Vale Cultura
+    c) Atualização da catalogação no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** Em tempo real
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** SEFIC e CGTEC
+
+* **Ação 04 - Abertura de Dados do Mapa da Cultura - SNIIC**
+O Mapa da Cultura é um espaço para integrar e dar visibilidade à projetos, artistas, espaços, eventos culturais e seus produtores. Ele se propõe a ser a principal base de informações e para formulação de indicadores do Ministério da Cultura, agregando cadastros de diferentes programas e ações.
+O Mapa, disponível em http://mapas.cultura.gov.br, faz uso do software livre [Mapas Culturais](https://institutotim.org.br/project/mapas-culturais/)  que disponibiliza uma API nativa de acesso aberto aos dados. O objetivo desta ação é catalogar o conjunto de dados no portal de dados abertos da cultura, dando maior visibilidade e potencializando o valor destes dados.
+
+   **Atividades:**  
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** tempo real
+    **Prazo Final:** Junho de 2017
+    **Responsável:** CGEST e CGTEC
+
+* **Ação 05 - Publicação da 1ª versão da Ontologia da Gestão Cultural**
+A [Ontologia da Gestão Cultural](#v-ontologia-da-gestão-cultural) vem sendo desenvolvida por um Grupo de Trabalho multirepresentada e publicará a primeira versão no primeiro semestre de 2017. Esta ação prevê também a incorporação desta ontologia no software Mapas Culturais.
+
+   **Atividades:**  
+    a) Publicar na Web documentação e OWL da Ontologia
+    b) Implementar Ontologia nativamente no Mapas Culturais
+    **Prazo Final:** Junho de 2017
+    **Responsável:** CGEST e CGTEC
+
+* **Ação 06 - Abertura de Dados da Plataforma Rede Cultura Viva**
+A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultura-viva/) é sustentada essencialmente por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
+
+   **Atividades:**  
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** tempo real
+    **Prazo Final:** Junho de 2017
+    **Responsável:** SCDC e CGTEC
+
+* **Ação 07 - Abertura de Dados do Sistema Nacional de Bibliotecas Públicas - SNBP**
+ O [SNBP](http://snbp.culturadigital.br/) possui um [Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
+ 
+    **Atividades:**  
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** tempo real
+    **Prazo Final:** Junho de 2017
+    **Responsável:** DLLLB e CGTEC
+
+* **Ação 08 - Abertura de Dados do Sistema Nacional de Cultura - SNC**
+			  O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://snc.cultura.gov.br/) que já disponibiliza os dados do cadastro em formato CSV e ODS.  O objetivo desta ação é o de ampliar os dados disponíveis e catalogar os metadados e documentações no portal de dados abertos da cultura.
+ 
+    **Atividades:**  
+    a) Desenvolver novo modelo de abertura de Dados
+    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** tempo real
+    **Prazo Final:** Setembro de 2017
+    **Responsável:** SADI e CGTEC
+
+* **Ação 09 - Abertura dos Dados do Cadastro de Centros de Artes e Esportes Unificados - CEUS**
+[Descrever a ação]
+
+  **Atividades:**  
+    a) Criar modelo de abertura de Dados do Sistema Nacional de Cultura-SNC
+    b) Desenvolvimento da solução para de Abertura de Sistema Nacional de Cultura-SNC
+    c) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** tempo real
+    **Prazo Final:** Agosto de 2017
+    **Responsável:** SEINFRA e CGTEC
+
+* **Ação 10 - Abertura de Dados do Processo Eleitoral CNPC - 2015**
+
+	**Atividades:**  
+    a) Preparar e publicar dados e dicionário de dados
+    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** dados estáticos (2015)
+    **Prazo Final:** Maio de 2017
+    **Responsável:** SADI e CGTEC
+
+### Ações dos Órgãos Vinculados
+
+* **Ação 11 - Abertura de Dados da Plataforma Museus BR**
+    O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
+ 
+    **Atividades:**  
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    **Frequência de Atualização:** tempo real
+    **Prazo Final:** Junho de 2017
+    **Responsável:** IBRAM e CGTEC/MinC
+    
+* **Ação 12 - Planejamento das Iniciativas de Dados Abertos do IBRAM**
+    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto Brasileiro de Museus - IBRAM.
+ 
+    **Atividades:**  
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pelo IBRAM
+    **Prazo Final:** Julho de 2017
+    **Responsável:** IBRAM e OUV/MinC
+
+* **Ação 13 - Planejamento das Iniciativas de Dados Abertos da ANCINE**
+    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Agência Nacional de Cinema - ANCINE.
+ 
+    **Atividades:**  
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela ANCINE
+    **Prazo Final:** XXX de 2017
+    **Responsável:** ANCINE e OUV/MinC
+
+* **Ação 14 - Planejamento das Iniciativas de Dados Abertos do IPHAN**
+    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN.
+ 
+    **Atividades:**  
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela IPHAN
+    **Prazo Final:** XXX de 2017
+    **Responsável:** IPHAN e OUV/MinC
+
+* **Ação 15 - Planejamento das Iniciativas de Dados Abertos da Palmares**
+    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Cultural Palmares - FCP.
+ 
+    **Atividades:**  
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCP
+    **Prazo Final:** XXX de 2017
+    **Responsável:** FPC e OUV/MinC
+
+* **Ação 16 - Planejamento das Iniciativas de Dados Abertos da Funarte**
+    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Nacional das Artes - Funarte.
+ 
+    **Atividades:**  
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela Funarte
+    **Prazo Final:** XXX de 2017
+    **Responsável:** Funarte e OUV/MinC
+
+* **Ação 17 - Planejamento das Iniciativas de Dados Abertos da FBN**
+    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
+ 
+    **Atividades:**  
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN
+    **Prazo Final:** XXX de 2017
+    **Responsável:** FBN e OUV/MinC
+
+* **Ação 18 - Planejamento das Iniciativas de Dados Abertos da FCRB**
+    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Casa de Rui Barbosa - FCRB.
+ 
+    **Atividades:**  
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR
+    **Prazo Final:** XXX de 2017
+    **Responsável:** FCBR e OUV/MinC
+
+
+ - Fundação Casa de Rui Barbosa - FCRB.
+
+## **VIII ) Disposições Finais**
+----------
+O Plano de Dados Abertos do Ministério da Cultura será revisado a cada 6 (seis) meses, ou quando houver necessidade.
+
+O Plano entra em vigor na data de sua publicação
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+## **Glossário**
+----------
+**CNPC:** Conselho Nacional de Política Cultural - O CNPC é um órgão colegiado que compõe o Sistema Nacional de Cultura e integra a estrutura básica do Ministério da Cultura. O CNPC tem por finalidade propor a formulação de políticas públicas, com vistas a promover a articulação e o debate dos diferentes níveis de governo e a sociedade civil organizada, para o desenvolvimento e o fomento das atividades culturais no território nacional. Mais informações em http://cnpc.cultura.gov.br/.
+
+**Dado:** sequência de símbolos ou valores, representados em algum meio, produzidos como resultado de um processo natural ou artificial. Entende-se que dados são observações ou o resultado de uma medida (por investigação, cálculo ou pesquisa) de aspectos característicos da natureza, estado ou condição de algo de interesse, que são descritos através de representações formais e, ao serem apresentados de forma direta ou indireta à consciência, servem de base ou pressuposto no processo cognitivo (HOUAISS, 2001; SETZER, 2001;).
+
+**Dado ou informação geoespacial:** aquele que se distingue essencialmente pela componente de localização espacializada, que associa a cada registro uma localização na Terra, traduzido por sistema geodésico de referência, em um momento ou período de tempo, podendo ser derivado dentre outras fontes, das tecnologias de levantamento, inclusive as associadas a Sistemas Globais de Posicionamento (GPS) apoiados por satélites, bem como de mapeamento ou de sensoriamento remoto (Decreto 6.666/2008).
+
+**Dado público:** qualquer dado gerado ou sob a guarda governamental que não tenha o seu acesso restrito por legislação específica.
+
+**Dados Abertos:** dados públicos representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento.
+
+**e-PING:** padrões de Interoperabilidade de Governo Eletrônico – define um conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação (TIC) na interoperabilidade de serviços de Governo Eletrônico, estabelecendo as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral.
+
+**e-VoG:** Vocabulários e Ontologias do Governo Eletrônico é um conjunto de padrões, ferramentas e metodologias para possibilitar: o intercâmbio de informações com acordo semântico, de forma a viabilizar o pronto cruzamento de dados de diversas fontes; o uso de metodologias de modelagem conceitual como forma de elicitação do conhecimento tácito das áreas de negócio de governo; o uso de ontologias como ferramenta para explicitar conhecimentos de maneira formal e coerente; o alinhamento conceitual das diversas áreas do conhecimento do governo. Um dos produtos do e-VoG é o Repositório de Vocabulários e Ontologias de Governo Eletrônico (http://vocab.e.gov.br/), local para acesso a todas as referências ontológicas do Governo Eletrônico Federal.
+
+**Formato aberto:** formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou qualquer outra restrição legal quanto à sua utilização.
+
+**Informação:** dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato; A informação é gerada a partir de algum tratamento ou processamento dos dados por parte do seu usuário, envolvendo, além de procedimentos formais (tradução, formatação, fusão, exibição, etc.), os processos cognitivos de cada indivíduo (MACHADO, 2002; SETZER, 2001).
+
+**Licença aberta:** acordo de fornecimento de dados que conceda amplo acesso para que qualquer pessoa os utilize, os reutilize, e os redistribua, estando sujeito a, no máximo, a exigência de creditar a sua autoria e compartilhar pela mesma licença.
+
+**Linked Data:** conjunto de boas práticas para publicação de dados estruturados de maneira a facilitar seu compartilhamento e integração.
+
+**Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso.
+
+**OWL - Web Ontology Language:** A OWL é uma linguagem para definir e instanciar [ontologias](https://pt.wikipedia.org/wiki/Ontologia_(ciência_da_computação)) na Web. Uma ontologia OWL pode incluir descrições de classes e suas respectivas propriedades e seus relacionamentos.
+
+**RDF - Resource Description Framework:** o Resource Description Framework (RDF) é uma família de especificações do World Wide Web Consortium (W3C) originalmente concebida como um modelo de dados de metadados. A utilização deste formato possibilita a publicação de dados na Web Semântica.
+
+**SALIC - Sistema de Apoio às Leis de Incentivo Cultural:** O SALIC é o sistema de informação de gestão da Lei Rouanet ([Lei nº 8.313/91](http://www.planalto.gov.br/ccivil_03/leis/L8313cons.htm)). Mais sobre o incentivo cultural do governo federal em http://cultura.gov.br/incentivofiscal. 
+
+**SNC - Sistema Nacional de Cultura:** O SNC é o processo de gestão e promoção das políticas públicas de cultura, em regime de colaboração entre os três entes federados (União, estados e municípios) e a sociedade civil, tendo por objetivo promover o desenvolvimento humano, social e econômico com pleno exercício dos direitos culturais. Mais informações em http://cultura.gov.br/snc.
+
+**W3C:** O *World Wide Web Consortium* (W3C) é a principal organização de padronização da World Wide Web. Consiste em um consórcio internacional com quase 400 membros, agrega empresas, órgãos governamentais e organizações independentes com a finalidade de estabelecer padrões para a criação e a interpretação de conteúdos para a Web.
+
+**Web Semântica:** A Web Semântica é uma extensão da Web através de padrões definidos pelo World Wide Web Consortium (W3C). Os padrões promovem o uso de formatos comuns de dados e protocolos de troca na Web, mais fundamentalmente o Resource Description Framework (RDF). 
+
+
+## **ANEXO A - Catálogo de Sistemas do MINC**
+
+
+### **Sistemas das Áreas Meio**
+
+| Sistema | Fase | Área | Descrição | licensa | 
+| ---------- | ------ | :------ | :------ | ------------: |
+| **Ocs Inventory** | Implantação | TI | Inventário de Hardware e Software | GPL2 | 
+| **OTRS** | Produção | TI | Central de Serviços de TI - ITIL | AGPL3 | 
+| **RHSis** | Produção | RH | Gestão de Recursos Humanos | MinC | 
+| **SADWEB** | Congelado | Protocolo | Gestão de Protocolo | Governo | 
+| **SEI** | Produção | Processos do Órgão | Gestão de Processo por meio Eletrônico  | Privado de Governo | 
+| **Siminc** | Descontinuação | Planejamento e Orçamento | Gestão Orçamentária e Financeira  | GPL2 | 
+| **SIMEC** | Implantação | Gestão Orçamentária e Financeira | Gestão Orçamentária e Financeira  | GPL2 | 
+| **Sipac** | Descontinuação | Administração | Gestão de Patrimônio e Almoxarifado  | Privado | 
+| **Sisep** | Produção |  |   |  | 
+| **Sistel** | Desenvolvimento | TI | Gestão de Faturas e Empréstimo de Equipamentos de Telecom  | GPL3 |
+
+
+### **Sistemas Finalísticos**
+
+| Sistema | Fase | Área | Descrição | licença | 
+| ---------- | ------ | :------ | :------ | ------------: |
+|**Sistema de Apoio às Leis de Incentivo à Cultura - SALIC**| 
+|**Vale Cultura**|
+|**Mapa da Cultura - SNIIC**|
+|**Rede Cultura Viva**|
+|**Sistema Nacional de Bibliotecas Públicas**|
+|**Plataforma Museus BR**|
+|**Sistema Nacional de Cultura - SNC**|
+|**Cadastro de Centros de Artes e Esportes Unificados - CEUS**|
+|**Plataforma de Gestão do Conselho Nacional de Política Cultural - CNPC**|
