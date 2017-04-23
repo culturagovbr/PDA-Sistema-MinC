@@ -1,7 +1,7 @@
 **Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
 ----------
 
-                         Brasília - DF  2017 - 2018
+Versão v.1 de mar/17 - 2017 - 2018
 
 
 ## **Sumário**
@@ -9,8 +9,10 @@
 [TOC] 
 
 
+----------
+
+
 ## **I) Introdução**
-------
 
 Na sociedade em rede, os dados produzidos pelos cidadãos, ou em seu nome, são a força motriz da economia e da nação — o governo tem a responsabilidade de tratar esta informação como precioso recurso nacional. Os cidadãos, hoje, interagem uns com os outros pela rede como nunca antes, e estão desenvolvendo as habilidades e o entusiasmo para resolver os problemas que os afetam localmente, assim como nacionalmente. No século 21, informações e serviços públicos devem estar disponíveis aos cidadãos onde e quando eles precisem. Mais do que nunca, os cidadãos estão desenvolvendo o poder de desencadear a inovação, que resultará em uma melhor abordagem para a governança do Estado. Neste modelo, o governo atua como organizador e facilitador, e não mais como o motor fundamental de cada ação/iniciativa.
 
@@ -40,7 +42,7 @@ Os principais normativos aplicáveis para a confecção deste Plano são:
 
 ### *Cenário Institucional*
 
-####O Sistema MinC
+#### O Sistema MinC
 O Ministério da Cultura é o órgão central de um sistema que agrega sete instituições vinculadas responsáveis pela implementações das políticas culturais no âmbito da Administração Pública Federal. São elas:
 
  - Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN;
@@ -53,16 +55,15 @@ O Ministério da Cultura é o órgão central de um sistema que agrega sete inst
 
 Como parte da estratégia de abertura de dados culturais, o Ministério da Cultura apoiará a produção e execução do Plano de Dados Abertos das instituições vinculadas. Prentende-se desta forma, aumentar a quantidade de dados culturais abertos e garantir a padronização entre os mesmos.
 
-####A Lei Rouanet e o Incentivo cultural
+#### A Lei Rouanet e o Incentivo cultural
 O Incentivo à produção cultural por meio da Lei Rouanet ([Lei nº 8.313/91](http://www.planalto.gov.br/ccivil_03/leis/L8313cons.htm)) é a política ofertada pelo Ministério da Cultura com maior destaque. O serviço é prestado por meio digital por meio do SALIC - Sistema de Apoio às Leis de Incentivo Cultural. A demanda constante por transparência das informações dos projetos culturais e do processo de aprovação destes tem estimulado ao MinC a implementar novos mecanismos de acesso à informação e aos dados do sistema SALIC.
 
-####Sistema Nacional de Informações e Indicadores Culturais - SNIIC
+#### Sistema Nacional de Informações e Indicadores Culturais - SNIIC
 O SNIIC, de criação pela [Lei nº  12.343/10](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12343.htm), é um repositório de bens, serviços, infraestrutura, investimentos, produção, acesso, consumo, agentes, programas, instituições e gestão cultural, e transparência, entre outros, e está disponível para toda a sociedade. A plataforma cumpre também o importante papel de suporte à implementação do [Plano Nacional de Cultura - PNC](http://pnc.culturadigital.br/), que define metas públicas de cultura até 2020.
 
 O conceito que orienta a implementação da plataforma introduz a importante novidade da participação direta dos usuários interessados, seja na complementação dos dados apresentados no sistema pela dimensão publica ou na participação direta na formulação e monitoramento dos projetos e políticas culturais, o que chamamos de governança colaborativa. Cabe ao Ministério da Cultura coordenar um processo de estruturação para os sistemas de informações locais desde uma rede nacional.
 
 A partir das oportunidades que a formatação em rede implicam, o SNIIC se propõe a ser uma interface dinâmica e viva, que contribua para a produção, gestão e difusão da produção e da diversidade cultural e artística brasileira. Dentro das novas estruturas de governança, o SNIIC será, também, um instrumento de transparência dos investimentos públicos no setor cultural, servindo como ferramenta de monitoramento e avaliação para os gestores e para toda a sociedade. Mais sobre o SNIIC em http://i.cultura.gov.br.
-
 
 ### *Objetivo Geral*
 
@@ -79,39 +80,11 @@ A abertura dos dados do Ministério da Cultura, de maneira a garantir a transpar
  - Estimular o crescimento da economia pela produção de novos serviços digitais e a reutilização dos recursos informacionais de caráter público.
 
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+----------
 
 
 ## **II) Dados para Abertura**
-----------
+
 Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
 
 - Relevância para a sociedade
@@ -124,7 +97,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 
 | Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
-| **SALIC** | 2 | 2 | 2 | 1 | **7** |
+| **SALIC - Lei Rouanet** | 2 | 2 | 2 | 1 | **7** |
 | **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
 | **Mapa da Cultura - SNIIC** | 1 | 1 | 2 | 2 | **6** |
 | **Rede Cultura Viva** | 1 | 1 | 2 | 2 | **6** |
@@ -143,7 +116,11 @@ Via de regra, todos os conjuntos de dados produzidos ou de responsabilidade do M
 
 Para a abertura de dados com informações de caráter pessoal, ou seja, que dizem respeito a vida privada da pessoa, serão usadas estratégias de ofuscamento de identificadores, como a aplicação de máscaras nos dados e agregação de registros.   
 
-## **III) Estratégias para Abertura de Dados **
+
+----------
+
+
+## **III) Estratégias para Abertura de Dados**
 
 ### *Premissas*
 
@@ -171,33 +148,27 @@ Para a abertura de dados com informações de caráter pessoal, ou seja, que diz
 A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações. 
 O MinC adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - APIs.  
 
-### *Processos de Desenvolvimento de Softwares *
+### *Processos de Desenvolvimento de Softwares*
 
 Projetos de TI para abertura de dados constituem, à primeira vista, investimento de recursos com baixo retorno para o alcance dos objetivos mínimos de um determinado sistema de informação. A transparência e o reuso de dados pelos diversos setores da sociedade geralmente trazem benefícios a longo prazo, fatores que diminuem a prioridade dessas iniciativas frente às necessidades de TI da instituição e à limitada capacidade de atendimento.
 
 Diante dessa realidade a Coordeção-Geral de Infraestrutura Tecnológica do MinC concebe o desenho arquitetural das soluções buscando, por meio do uso de padrões e tecnologias modernas, sempre alinhar as necessidades de negócio com os critérios técnicos de abertura de dados. Projetos de desenvolvimento de novos sistemas de informação incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os aplicativos e interfaces daquele sistema de informações.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-## **IV) Catalogação no Portal Brasileiro de Dados Abertos **
 
 ----------
+
+
+## **IV) Catalogação no Portal Brasileiro de Dados Abertos**
+
 O Ministério da Cultura disponibilizou um portal de dados abertos em versão *beta* (http://dados.cultura.gov.br). A decisão por criar o Portal de Dados da Cultura tem o objetivo de apresentar os dados culturais de maneira centralizada e simplificar os esforços de curadoria dos mesmos. A publicação destes dados no Portal Brasileiro de Dados Abertos (http://dados.gov.br) será realizada de maneira automática, utilizando tecnologia já disponível de integração entre os catálogos. 
 
 É importante lembrar que para catalogação devem-se observar os critérios mencionados no item 2  da seção III deste documento ( Premissas - Estratégia para Abertura de Dados), que contém o conjunto de metadados mínimos estabelecido pela INDA. 
 
 
+----------
+
 
 ## **V) Ontologia da Gestão Cultural**
-----------
 
 Ainda em 2015, o Ministério da Cultura instituiu um Grupo de Trabalho multirepresentado, com o objetivo de desenvolver uma Ontologia da Gestão Cultural destinada a estruturar a dimensão conceitual do Sistema Nacional de Indicadores e Informações Culturais - SNIIC, aprimorando, assim, a capacidade de organização de informações pelas instituições do campo cultural.
 
@@ -209,8 +180,12 @@ O projeto Ontologia da Gestão Cultural tem a coordenação técnica de especial
 
 O processo de desenvolvimento da ontologia está sendo [documentado no portal do SNIIC](http://i.cultura.gov.br/vocabulario/).
 
-## **VI) Governança**
+
 ----------
+
+
+## **VI) Governança**
+
 **[REVISAR - Incluir a formalização correta]** Será instituído por meio de Portaria um comitê responsável pela governança das ações de abertura de dados no MinC. Este comitê deverá ser presidido pela autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI, e contará com representantes de cada secretaria e subsecretaria deste Ministério. O comitê contará também com representante da Coordenação Geral de Infraestrutura tecnológica - CGTEC.  As principais responsabilidades deste comitê serão: 
 
 ### *Catalogação dos Conjuntos de Dados no Portal de Dados Abertos do Sistema MinC*
@@ -240,7 +215,6 @@ Uma estratégia evolutiva a ser seguida é utilizar como referência o esquema d
 
 O processo de melhoria contínua levará também em consideração as práticas sugeridas pelo guia de **Melhores Práticas para Publicação de Dados na Web**, documento construído pelo W3C e disponível em https://www.w3.org/TR/dwbp/.
 
-
 ### *Comunicação e Participação social*
 
 A Política de Dados Abertos, junto com o Portal, tem como um dos principais objetivos permitir que o Ministério funcione como uma grande plataforma de transparência ativa para a sociedade. Abrindo à população possibilidades de criar diversas formas de apresentação e cruzamento de dados, não só para formação de informações valiosos, como também de conhecimentos, os quais os gestores mais experientes nunca irão conseguir pensar ou implantar.  
@@ -248,10 +222,12 @@ Além do portal, o MinC pretende dentro de suas ações, tornar o processo de ab
 Por fim é intenção deste ministério promover incentivos a desenvolvimento de soluções que usufruam dos dados abertos, entre as formas de promoção, destacamos os eventos de programações abertos (Hackatons); desenvolvimentos de  produtos em parcerias com Universidades; Editais em modalidade de concursos, com prêmios remuneratórios para os vencedores.  
 
 
+----------
+
 
 ## **VII) Plano de Ação e Matriz de Responsabilidades**
-----------
-* **Ação 01 - Lançamento do Portal de Dados Abertos do MinC**
+
+* ##### **Ação 01 - Lançamento do Portal de Dados Abertos do MinC**
 O portal de dados abertos do MinC em **versão beta já está disponível** no endereço http://dados.cultura.gov.br e ganhará uma nova interface de navegação voltada aos desenvolvedores de software e demais especialistas em manipulação de dados.  
 
    **Atividades:**
@@ -264,7 +240,7 @@ O portal de dados abertos do MinC em **versão beta já está disponível** no e
     **Prazo Final:** Setembro de 2017
     **Responsável:** CGTEC
 
-* **Ação 02 - Abertura de Dados do SALIC**
+* ##### **Ação 02 - Abertura de Dados do SALIC**
 A API permitirá acesso aos principais dados relativos à execução  da política federal de incentivo cultural, a Lei Rouanet. Serão disponibilizados os dados de Proponentes e Incentivadores, além das Propostas e Projetos com alto teor de detalhamento. A API permitirá consultas avançadas, ordenação dos resultados, navegação paginada e acesso aos recursos em vários formatos (JSON, CSV e XML).
 
    **Atividades:**
@@ -276,10 +252,10 @@ A API permitirá acesso aos principais dados relativos à execução  da políti
     **Prazo Final:** Abril de 2017
     **Responsável:** SEFIC e CGTEC
 
-* **Ação 03 - Abertura de Dados do Vale Cultura**
-A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dados que serão ser abertos, levando em consideração o parecer nº 486/2016/CONJUR-MinC/CGU/AGU que trata sobre a abertura de dados das empresas beneficiárias da política. 
+* ##### **Ação 03 - Abertura de Dados do Vale Cultura**
+A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dados que serão ser abertos, levando em consideração o parecer nº 486/2016/CONJUR-MinC/CGU/AGU que trata sobre a abertura de dados das empresas beneficiárias da política.
 
-    **Atividades:**  
+   **Atividades:**  
     a) Revisar modelo de abertura de dados do Vale Cultura
     b) Evolução da API de dados abertos do Vale Cultura
     c) Atualização da catalogação no Portal de Dados Abertos da Cultura
@@ -287,7 +263,7 @@ A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dado
     **Prazo Final:** Dezembro de 2017
     **Responsável:** SEFIC e CGTEC
 
-* **Ação 04 - Abertura de Dados do Mapa da Cultura - SNIIC**
+* ##### **Ação 04 - Abertura de Dados do Mapa da Cultura - SNIIC**
 O Mapa da Cultura é um espaço para integrar e dar visibilidade à projetos, artistas, espaços, eventos culturais e seus produtores. Ele se propõe a ser a principal base de informações e para formulação de indicadores do Ministério da Cultura, agregando cadastros de diferentes programas e ações.
 O Mapa, disponível em http://mapas.cultura.gov.br, faz uso do software livre [Mapas Culturais](https://institutotim.org.br/project/mapas-culturais/)  que disponibiliza uma API nativa de acesso aberto aos dados. O objetivo desta ação é catalogar o conjunto de dados no portal de dados abertos da cultura, dando maior visibilidade e potencializando o valor destes dados.
 
@@ -297,7 +273,7 @@ O Mapa, disponível em http://mapas.cultura.gov.br, faz uso do software livre [M
     **Prazo Final:** Junho de 2017
     **Responsável:** CGEST e CGTEC
 
-* **Ação 05 - Publicação da 1ª versão da Ontologia da Gestão Cultural**
+* ##### **Ação 05 - Publicação da 1ª versão da Ontologia da Gestão Cultural**
 A [Ontologia da Gestão Cultural](#v-ontologia-da-gestão-cultural) vem sendo desenvolvida por um Grupo de Trabalho multirepresentada e publicará a primeira versão no primeiro semestre de 2017. Esta ação prevê também a incorporação desta ontologia no software Mapas Culturais.
 
    **Atividades:**  
@@ -315,7 +291,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** Junho de 2017
     **Responsável:** SCDC e CGTEC
 
-* **Ação 07 - Abertura de Dados do Sistema Nacional de Bibliotecas Públicas - SNBP**
+* ##### **Ação 07 - Abertura de Dados do Sistema Nacional de Bibliotecas Públicas - SNBP**
  O [SNBP](http://snbp.culturadigital.br/) possui um [Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
  
     **Atividades:**  
@@ -324,8 +300,8 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** Junho de 2017
     **Responsável:** DLLLB e CGTEC
 
-* **Ação 08 - Abertura de Dados do Sistema Nacional de Cultura - SNC**
-			  O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://snc.cultura.gov.br/) que já disponibiliza os dados do cadastro em formato CSV e ODS.  O objetivo desta ação é o de ampliar os dados disponíveis e catalogar os metadados e documentações no portal de dados abertos da cultura.
+* ##### **Ação 08 - Abertura de Dados do Sistema Nacional de Cultura - SNC**
+O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://snc.cultura.gov.br/) que já disponibiliza os dados do cadastro em formato CSV e ODS.  O objetivo desta ação é o de ampliar os dados disponíveis e catalogar os metadados e documentações no portal de dados abertos da cultura.
  
     **Atividades:**  
     a) Desenvolver novo modelo de abertura de Dados
@@ -334,7 +310,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** Setembro de 2017
     **Responsável:** SADI e CGTEC
 
-* **Ação 09 - Abertura dos Dados do Cadastro de Centros de Artes e Esportes Unificados - CEUS**
+* ##### **Ação 09 - Abertura dos Dados do Cadastro de Centros de Artes e Esportes Unificados - CEUS**
 [Descrever a ação]
 
   **Atividades:**  
@@ -345,18 +321,18 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** Agosto de 2017
     **Responsável:** SEINFRA e CGTEC
 
-* **Ação 10 - Abertura de Dados do Processo Eleitoral CNPC - 2015**
+* ##### **Ação 10 - Abertura de Dados do Processo Eleitoral CNPC - 2015**
 
 	**Atividades:**  
     a) Preparar e publicar dados e dicionário de dados
     b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** dados estáticos (2015)
-    **Prazo Final:** Maio de 2017
+    **Prazo Final:** Junho de 2017
     **Responsável:** SADI e CGTEC
 
-### Ações dos Órgãos Vinculados
+#### Ações dos Órgãos Vinculados
 
-* **Ação 11 - Abertura de Dados da Plataforma Museus BR**
+* ##### **Ação 11 - Abertura de Dados da Plataforma Museus BR**
     O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
  
     **Atividades:**  
@@ -365,7 +341,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** Junho de 2017
     **Responsável:** IBRAM e CGTEC/MinC
     
-* **Ação 12 - Planejamento das Iniciativas de Dados Abertos do IBRAM**
+* ##### **Ação 12 - Planejamento das Iniciativas de Dados Abertos do IBRAM**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto Brasileiro de Museus - IBRAM.
  
     **Atividades:**  
@@ -374,7 +350,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** Julho de 2017
     **Responsável:** IBRAM e OUV/MinC
 
-* **Ação 13 - Planejamento das Iniciativas de Dados Abertos da ANCINE**
+* ##### **Ação 13 - Planejamento das Iniciativas de Dados Abertos da ANCINE**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Agência Nacional de Cinema - ANCINE.
  
     **Atividades:**  
@@ -383,7 +359,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** XXX de 2017
     **Responsável:** ANCINE e OUV/MinC
 
-* **Ação 14 - Planejamento das Iniciativas de Dados Abertos do IPHAN**
+* ##### **Ação 14 - Planejamento das Iniciativas de Dados Abertos do IPHAN**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN.
  
     **Atividades:**  
@@ -392,7 +368,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** XXX de 2017
     **Responsável:** IPHAN e OUV/MinC
 
-* **Ação 15 - Planejamento das Iniciativas de Dados Abertos da Palmares**
+* ##### **Ação 15 - Planejamento das Iniciativas de Dados Abertos da Palmares**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Cultural Palmares - FCP.
  
     **Atividades:**  
@@ -401,7 +377,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** XXX de 2017
     **Responsável:** FPC e OUV/MinC
 
-* **Ação 16 - Planejamento das Iniciativas de Dados Abertos da Funarte**
+* ##### **Ação 16 - Planejamento das Iniciativas de Dados Abertos da Funarte**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Nacional das Artes - Funarte.
  
     **Atividades:**  
@@ -410,7 +386,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** XXX de 2017
     **Responsável:** Funarte e OUV/MinC
 
-* **Ação 17 - Planejamento das Iniciativas de Dados Abertos da FBN**
+* ##### **Ação 17 - Planejamento das Iniciativas de Dados Abertos da FBN**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
  
     **Atividades:**  
@@ -419,7 +395,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Prazo Final:** XXX de 2017
     **Responsável:** FBN e OUV/MinC
 
-* **Ação 18 - Planejamento das Iniciativas de Dados Abertos da FCRB**
+* ##### **Ação 18 - Planejamento das Iniciativas de Dados Abertos da FCRB**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Casa de Rui Barbosa - FCRB.
  
     **Atividades:**  
@@ -429,36 +405,21 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
     **Responsável:** FCBR e OUV/MinC
 
 
- - Fundação Casa de Rui Barbosa - FCRB.
+----------
+
 
 ## **VIII ) Disposições Finais**
-----------
+
 O Plano de Dados Abertos do Ministério da Cultura será revisado a cada 6 (seis) meses, ou quando houver necessidade.
 
-O Plano entra em vigor na data de sua publicação
+O Plano entra em vigor na data de sua publicação!
 
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+----------
 
 
 ## **Glossário**
-----------
+
 **CNPC:** Conselho Nacional de Política Cultural - O CNPC é um órgão colegiado que compõe o Sistema Nacional de Cultura e integra a estrutura básica do Ministério da Cultura. O CNPC tem por finalidade propor a formulação de políticas públicas, com vistas a promover a articulação e o debate dos diferentes níveis de governo e a sociedade civil organizada, para o desenvolvimento e o fomento das atividades culturais no território nacional. Mais informações em http://cnpc.cultura.gov.br/.
 
 **Dado:** sequência de símbolos ou valores, representados em algum meio, produzidos como resultado de um processo natural ou artificial. Entende-se que dados são observações ou o resultado de uma medida (por investigação, cálculo ou pesquisa) de aspectos característicos da natureza, estado ou condição de algo de interesse, que são descritos através de representações formais e, ao serem apresentados de forma direta ou indireta à consciência, servem de base ou pressuposto no processo cognitivo (HOUAISS, 2001; SETZER, 2001;).
