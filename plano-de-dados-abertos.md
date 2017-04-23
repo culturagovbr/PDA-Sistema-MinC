@@ -67,7 +67,7 @@ A partir das oportunidades que a formatação em rede implicam, o SNIIC se prop�
 
 ### *Objetivo Geral*
 
-A abertura dos dados do Ministério da Cultura, de maneira a garantir a transparência das políticas públicas realizadas pelo Sistema MinC, visa estimular a inovação e a geração de novos serviços digitais para e pela sociedade, contribuindo com a consolidação do governo como plataforma. 
+A abertura dos dados do Ministério da Cultura, de maneira a garantir a transparência das políticas públicas realizadas pelo Sistema MinC, visa estimular a inovação e a geração de novos serviços digitais para e pela sociedade, contribuindo com a consolidação do um governo mais aberto. 
 
 ### *Objetivos Específicos*
 
