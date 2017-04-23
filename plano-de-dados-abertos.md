@@ -254,7 +254,7 @@ A API permitirá acesso aos principais dados relativos à execução  da políti
         - Desenvolvimento da 1ª versão da API
         - Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** Em tempo real
-    **Prazo Final:** Abril de 2017
+    **Prazo Final:** Maio de 2017
     **Responsável:** SEFIC e CGTEC
 
 * ##### **Ação 03 - Abertura de Dados do Vale Cultura**
