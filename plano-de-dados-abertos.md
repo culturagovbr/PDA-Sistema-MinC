@@ -1,7 +1,7 @@
 **Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
 ----------
 
-Versão v.1 de mar/17 - 2017 - 2018
+Versão 1.0 de abr/17 - [histórico de versões](https://github.com/culturagovbr/PDA-Sistema-MinC/commits/master/plano-de-dados-abertos.md)
 
 
 ## **Sumário**
@@ -186,7 +186,7 @@ O processo de desenvolvimento da ontologia está sendo [documentado no portal do
 
 ## **VI) Governança**
 
-**[REVISAR - Incluir a formalização correta]** Será instituído por meio de Portaria um comitê responsável pela governança das ações de abertura de dados no MinC. Este comitê deverá ser presidido pela autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI, e contará com representantes de cada secretaria e subsecretaria deste Ministério. O comitê contará também com representante da Coordenação Geral de Infraestrutura tecnológica - CGTEC.  As principais responsabilidades deste comitê serão: 
+A governança deste PDA é coordenada pela autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Ouvidoria/GM) com apoio técnico da unidade de TIC (CGTEC/SGE). As principais responsabilidades deste comitê serão: 
 
 ### *Catalogação dos Conjuntos de Dados no Portal de Dados Abertos do Sistema MinC*
 
@@ -195,19 +195,19 @@ O processo de abertura dos dados de um sistema consiste basicamente de duas etap
  1. O desenvolvimento, caso necessário, de customização do sistema para acesso automatizado dos dados públicos; e
  2. A catalogação de metadados possibilitando aos usuários encontrarem e utilizarem os dados.
 
-Cada conjunto de dados passará por um processo de catalogação no portal de dados do MinC, observando os padrões mínimos que a INDA estabelece.
+Cada conjunto de dados passará por um processo de catalogação no portal de dados do Sistema MinC, observando os [padrões mínimos](http://dados.gov.br/paginas/cartilha-publicacao-dados-abertos) que a INDA estabelece.
 
-A participação dos gestores dos sistemas de informação no processo de catalogação visa garantir a boa qualidade da documentação disponibilizada para os usuários consumidores dos dados;
+A participação dos gestores dos sistemas de informação no processo de catalogação visa garantir a boa qualidade da documentação disponibilizada para os usuários consumidores dos dados. Os órgãos vinculados são responsáveis pela catalogação de seus conjuntos de dados no portal de dados abertos do sistema MinC.
 
 ### *Monitoramento e Controle*
 
 A autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Lei nº 12.527/11) é a responsável por assegurar a publicação, o monitoramento e a atualização do Plano de Dados Abertos, que deverá ser executada com o apoio da Subsecretaria de Gestão Estratégica – SGE, por intermédio da  Coordenação-Geral de Infraestrutura Tecnológica - CGTEC,  e demais órgãos competentes. 
 
-O monitoramento e controle consiste em garantir a priorização e realização dos projetos de TI necessários para as ações previstas neste plano e realizar continuamente as atividades de curadoria dos metadados dos Conjuntos de Dados catalogados no Portal de Dados Abertos, garantindo a disponibilidade e a atualização dos dados de acordo com frequência pré-definida, além do atendimento às normas e padrões especificados pela INDA.  
+O monitoramento e controle consiste em **garantir a priorização e realização dos projetos** de TI necessários para as ações previstas neste plano e realizar continuamente as atividades de curadoria dos metadados dos Conjuntos de Dados catalogados no Portal de Dados Abertos, garantindo a disponibilidade e a atualização dos dados de acordo com frequência pré-definida, além do atendimento às normas e padrões especificados pela INDA.  
 
 ### *Melhoria da qualidade dos dados*
 
-A melhoria da qualidade dos dados é um processo contínuo cujo objetivo é aprimorar a solução tecnológica de publicação e acesso estruturado desenvolvida para cada conjunto de dados abertos. Dependendo da complexidade de um sistema de informação, o projeto de abertura de seus dados pode ser dividido em várias etapas, de forma a realizar aberturas parciais rápidas, com escopos incrementais e em formatos de arquivos simplificados. 
+A melhoria da qualidade dos dados é um processo contínuo cujo objetivo é **aprimorar a interface de acesso** desenvolvida para cada conjunto de dados abertos. Dependendo da complexidade de um sistema de informação, o projeto de abertura de seus dados pode ser dividido em várias etapas, de forma a realizar aberturas parciais rápidas, com escopos incrementais e em formatos de arquivos simplificados. 
 
 O Plano de Dados Abertos do MinC se constitui um instrumento vivo, de constante revisão, tendo como diretriz a contínua evolução das interfaces de acesso aos dados abertos pela sociedade, orientado pelo princípio de que os dados públicos têm seu valor amplificado quando compartilhados abertamente.
 
