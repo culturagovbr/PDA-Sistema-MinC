@@ -203,7 +203,7 @@ A participação dos gestores dos sistemas de informação no processo de catalo
 
 A autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Lei nº 12.527/11) é a responsável por assegurar a publicação, o monitoramento e a atualização do Plano de Dados Abertos, que deverá ser executada com o apoio da Subsecretaria de Gestão Estratégica – SGE, por intermédio da  Coordenação-Geral de Infraestrutura Tecnológica - CGTEC,  e demais órgãos competentes. 
 
-O monitoramento e controle consiste em garantir a priorização e realização dos projetos de TI necessários para as ações previstas neste plano e realizar continuamente as atividades de curadoria dos metadados dos Conjuntos de Dados catalogados no Portal de Dados Abertos da Cultura, garantindo a disponibilidade e a atualização dos dados de acordo com frequência pré-definida, além do atendimento às normas e padrões especificados pela INDA.  
+O monitoramento e controle consiste em garantir a priorização e realização dos projetos de TI necessários para as ações previstas neste plano e realizar continuamente as atividades de curadoria dos metadados dos Conjuntos de Dados catalogados no Portal de Dados Abertos, garantindo a disponibilidade e a atualização dos dados de acordo com frequência pré-definida, além do atendimento às normas e padrões especificados pela INDA.  
 
 ### *Melhoria da qualidade dos dados*
 
@@ -217,9 +217,14 @@ O processo de melhoria contínua levará também em consideração as práticas 
 
 ### *Comunicação e Participação social*
 
-A Política de Dados Abertos, junto com o Portal, tem como um dos principais objetivos permitir que o Ministério funcione como uma grande plataforma de transparência ativa para a sociedade. Abrindo à população possibilidades de criar diversas formas de apresentação e cruzamento de dados, não só para formação de informações valiosos, como também de conhecimentos, os quais os gestores mais experientes nunca irão conseguir pensar ou implantar.  
-Além do portal, o MinC pretende dentro de suas ações, tornar o processo de abertura de dados o mais automático possível, ou seja, com o mínimo necessário de intervenção humana. Essa iniciativa garante que os dados estejam sempre atualizados e com grande valor informacional. Passando para a sociedade a confiança necessária para ela construir soluções com garantia de longevidade no tempo.  Esse é um ponto fundamental na construção de uma cadeia de valor para o grande potencial de geração de negócio com essa plataforma. 
-Por fim é intenção deste ministério promover incentivos a desenvolvimento de soluções que usufruam dos dados abertos, entre as formas de promoção, destacamos os eventos de programações abertos (Hackatons); desenvolvimentos de  produtos em parcerias com Universidades; Editais em modalidade de concursos, com prêmios remuneratórios para os vencedores.  
+A formação de um ecossistema de dados culturais próspero, só é possível com um Estado presente e interativo, disponibilizando canais de comunicação diversos. É através da interação que a sociedade se apropria e aprimora o Estado.
+Seguindo as melhores práticas, os conjuntos de dados abertos devem dispor de documentação mais completa possível. Além disso, devem disponibilizar **email** da unidade gestora daquela base de dados para responder à eventuais dúvidas.
+
+O Ministério da Cultura dispõe de um **serviço de [Ouvidoria para Manifestações](http://ouvidoria.cultura.gov.br)** que também pode ser utilizado para solicitação de informações.
+
+O MinC desenvolve **software livre**. Os dados de seu interesse podem estar sendo providos por uma das soluções em [github.com/culturagovbr](http://github.com/culturagovbr) ou [git.cultura.gov.br](http://git.cultura.gov.br).
+
+Além da abertura de bases de dados, faz parte da estratégia a realização de eventos presenciais e maratonas Hackers (**Hachathons**) com o objetivo de estimular o consumo dos dados e fortalecer a interação entre as pessoas.
 
 
 ----------
