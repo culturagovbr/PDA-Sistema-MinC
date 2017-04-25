@@ -254,7 +254,7 @@ A API permitirá acesso aos principais dados relativos à execução  da políti
         - Desenvolvimento da 1ª versão da API
         - Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** Em tempo real
-    **Prazo Final:** Maio de 2017
+    **Prazo Final:** Abril de 2017
     **Responsável:** SEFIC e CGTEC
 
 * ##### **Ação 03 - Abertura de Dados do Vale Cultura**
@@ -485,12 +485,12 @@ O Plano entra em vigor na data de sua publicação!
 
 | Sistema | Fase | Área | Descrição | licença | 
 | ---------- | ------ | :------ | :------ | ------------: |
-|**Sistema de Apoio às Leis de Incentivo à Cultura - SALIC**| 
-|**Vale Cultura**|
-|**Mapa da Cultura - SNIIC**|
-|**Rede Cultura Viva**|
-|**Sistema Nacional de Bibliotecas Públicas**|
-|**Plataforma Museus BR**|
-|**Sistema Nacional de Cultura - SNC**|
-|**Cadastro de Centros de Artes e Esportes Unificados - CEUS**|
-|**Plataforma de Gestão do Conselho Nacional de Política Cultural - CNPC**|
+|**Sistema de Apoio às Leis de Incentivo à Cultura - SALIC**| | | | |
+|**Vale Cultura**| | | | |
+|**Mapa da Cultura - SNIIC**| | | | |
+|**Rede Cultura Viva**| | | | |
+|**Sistema Nacional de Bibliotecas Públicas**| | | | |
+|**Plataforma Museus BR**| | | | |
+|**Sistema Nacional de Cultura - SNC**| | | | |
+|**Cadastro de Centros de Artes e Esportes Unificados - CEUS**| | | | |
+|**Plataforma de Gestão do Conselho Nacional de Política Cultural - CNPC**| | | | |
