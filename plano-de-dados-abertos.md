@@ -57,6 +57,7 @@ Como parte da estratégia de abertura de dados culturais, o Ministério da Cultu
 
 #### A Lei Rouanet e o Incentivo cultural
 O Incentivo à produção cultural por meio da Lei Rouanet ([Lei nº 8.313/91](http://www.planalto.gov.br/ccivil_03/leis/L8313cons.htm)) é a política ofertada pelo Ministério da Cultura com maior destaque. O serviço é prestado por meio digital por meio do SALIC - Sistema de Apoio às Leis de Incentivo Cultural. A demanda constante por transparência das informações dos projetos culturais e do processo de aprovação destes tem estimulado ao MinC a implementar novos mecanismos de acesso à informação e aos dados do sistema SALIC.
+Mais informações estão disponíveis no [Portal da Lei Rouanet](http://rouanet.cultura.gov.br).
 
 #### Sistema Nacional de Informações e Indicadores Culturais - SNIIC
 O SNIIC, de criação pela [Lei nº  12.343/10](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12343.htm), é um repositório de bens, serviços, infraestrutura, investimentos, produção, acesso, consumo, agentes, programas, instituições e gestão cultural, e transparência, entre outros, e está disponível para toda a sociedade. A plataforma cumpre também o importante papel de suporte à implementação do [Plano Nacional de Cultura - PNC](http://pnc.culturadigital.br/), que define metas públicas de cultura até 2020.
@@ -254,7 +255,7 @@ A API permitirá acesso aos principais dados relativos à execução  da políti
         - Desenvolvimento da 1ª versão da API
         - Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** Em tempo real
-    **Prazo Final:** Abril de 2017
+    **Prazo Final:** Maio de 2017
     **Responsável:** SEFIC e CGTEC
 
 * ##### **Ação 03 - Abertura de Dados do Vale Cultura**
@@ -316,12 +317,11 @@ O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://
     **Responsável:** SADI e CGTEC
 
 * ##### **Ação 09 - Abertura dos Dados do Cadastro de Centros de Artes e Esportes Unificados - CEUS**
-[Descrever a ação]
+A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada orientada a serviço de dados. Na prática o sistema já possui API de dados abertos. Nesse sentido o objetivo desta Ação é o de catalogar este conjunto de dados no portal de Dados da Cultura.
 
   **Atividades:**  
-    a) Criar modelo de abertura de Dados do Sistema Nacional de Cultura-SNC
-    b) Desenvolvimento da solução para de Abertura de Sistema Nacional de Cultura-SNC
-    c) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    a) Criação de documentação e demais recursos para reuso dos dados
+    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Agosto de 2017
     **Responsável:** SEINFRA e CGTEC
@@ -361,52 +361,34 @@ O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela ANCINE
-    **Prazo Final:** XXX de 2017
+    **Prazo Final:** Agosto de 2017
     **Responsável:** ANCINE e OUV/MinC
 
-* ##### **Ação 14 - Planejamento das Iniciativas de Dados Abertos do IPHAN**
-    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN.
- 
-    **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela IPHAN
-    **Prazo Final:** XXX de 2017
-    **Responsável:** IPHAN e OUV/MinC
-
-* ##### **Ação 15 - Planejamento das Iniciativas de Dados Abertos da Palmares**
-    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Cultural Palmares - FCP.
- 
-    **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCP
-    **Prazo Final:** XXX de 2017
-    **Responsável:** FPC e OUV/MinC
-
-* ##### **Ação 16 - Planejamento das Iniciativas de Dados Abertos da Funarte**
+* ##### **Ação 14 - Planejamento das Iniciativas de Dados Abertos da Funarte**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Nacional das Artes - Funarte.
  
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela Funarte
-    **Prazo Final:** XXX de 2017
+    **Prazo Final:** Junho de 2017
     **Responsável:** Funarte e OUV/MinC
 
-* ##### **Ação 17 - Planejamento das Iniciativas de Dados Abertos da FBN**
+* ##### **Ação 15 - Planejamento das Iniciativas de Dados Abertos da FBN**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
  
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN
-    **Prazo Final:** XXX de 2017
+    **Prazo Final:** Agosto de 2017
     **Responsável:** FBN e OUV/MinC
 
-* ##### **Ação 18 - Planejamento das Iniciativas de Dados Abertos da FCRB**
+* ##### **Ação 16 - Planejamento das Iniciativas de Dados Abertos da FCRB**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Casa de Rui Barbosa - FCRB.
  
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR
-    **Prazo Final:** XXX de 2017
+    **Prazo Final:** Agosto de 2017
     **Responsável:** FCBR e OUV/MinC
 
 
@@ -462,35 +444,35 @@ O Plano entra em vigor na data de sua publicação!
 **Web Semântica:** A Web Semântica é uma extensão da Web através de padrões definidos pelo World Wide Web Consortium (W3C). Os padrões promovem o uso de formatos comuns de dados e protocolos de troca na Web, mais fundamentalmente o Resource Description Framework (RDF). 
 
 
-## **ANEXO A - Catálogo de Sistemas do MINC**
+## **ANEXO A - Catálogo de Sistemas**
 
 
-### **Sistemas das Áreas Meio**
+### **Sistemas dos Serviços Digitais Internos ao MinC**
 
 | Sistema | Fase | Área | Descrição | licensa | 
 | ---------- | ------ | :------ | :------ | ------------: |
-| **Ocs Inventory** | Implantação | TI | Inventário de Hardware e Software | GPL2 | 
-| **OTRS** | Produção | TI | Central de Serviços de TI - ITIL | AGPL3 | 
-| **RHSis** | Produção | RH | Gestão de Recursos Humanos | MinC | 
-| **SADWEB** | Congelado | Protocolo | Gestão de Protocolo | Governo | 
-| **SEI** | Produção | Processos do Órgão | Gestão de Processo por meio Eletrônico  | Privado de Governo | 
+| **Ocs Inventory** | Implantação | TI | Compõe a solução para inventário de Hardware e Software do parque computacional do MinC | GPL2 | 
+| **OTRS** | Produção | TI | Painel para solicitação de serviços de TI - ITIL | AGPL3 | 
+| **RHSis** | Produção | Gestão de Pessoas | Sistema de Gestão de Recursos Humanos | MinC | 
+| **SEI** | Produção | Documentação e Informação | Gestão de Processo por meio Eletrônico  | Privado de Governo | 
 | **Siminc** | Descontinuação | Planejamento e Orçamento | Gestão Orçamentária e Financeira  | GPL2 | 
-| **SIMEC** | Implantação | Gestão Orçamentária e Financeira | Gestão Orçamentária e Financeira  | GPL2 | 
-| **Sipac** | Descontinuação | Administração | Gestão de Patrimônio e Almoxarifado  | Privado | 
-| **Sisep** | Produção |  |   |  | 
+| **SIMEC** | Implantação  | Gestão Orçamentária, Financeira e outras| Plataforma desenvolvida pelo MEC para gestão Orçamentária, Financeira, e outros  | GPL2 | 
+| **Sipac** | Descontinuação | Almoxarifado | Solução legada para gestão de Patrimônio, Almoxarifado e outros  | Proprietário | 
 | **Sistel** | Desenvolvimento | TI | Gestão de Faturas e Empréstimo de Equipamentos de Telecom  | GPL3 |
 
 
-### **Sistemas Finalísticos**
+### **Sistemas dos Serviços Digitais Externos ao MinC**
 
 | Sistema | Fase | Área | Descrição | licença | 
 | ---------- | ------ | :------ | :------ | ------------: |
-|**Sistema de Apoio às Leis de Incentivo à Cultura - SALIC**| | | | |
-|**Vale Cultura**| | | | |
-|**Mapa da Cultura - SNIIC**| | | | |
-|**Rede Cultura Viva**| | | | |
-|**Sistema Nacional de Bibliotecas Públicas**| | | | |
-|**Plataforma Museus BR**| | | | |
-|**Sistema Nacional de Cultura - SNC**| | | | |
-|**Cadastro de Centros de Artes e Esportes Unificados - CEUS**| | | | |
-|**Plataforma de Gestão do Conselho Nacional de Política Cultural - CNPC**| | | | |
+|**[Sistema de Apoio às Leis de Incentivo à Cultura - SALIC](#a-lei-rouanet-e-o-incentivo-cultural)** |Produção |Fomento e Incentivo |O sistema fornece os mecanismos para gestão do incentivo fiscal à projetos culturais pelos mecanismos da Lei Rouanet, mediando as diversas etapas **(proposta, admissão, captação de recursos, execução e prestação de contas)** envolvendo os vários atores **(Proponente, Avaliadores, Incentivador e Fornecedores)** |AGPL3 |
+|**[Vale Cultura](http://vale.cultura.gov.br/)**|Produção |Fomento e Incentivo |Sistema para gestão do Programa Vale Cultura que beneficia trabalhadores através de recursos de incentivo fiscal dos empregadores |MinC |
+|**[Gestão de Ouvidoria Governamental - GOG](http://ouvidoria.cultura.gov.br/)** |Produção |Ouvidoria |Sistematiza o fluxo de recepção e tratamento das manifestações à ouvidoria entre as unidades do MinC |AGPL3 |
+|**[Mapa da Cultura](http://mapas.cultura.gov.br/) - [SNIIC](#sistema-nacional-de-informações-e-indicadores-culturais-sniic)**|Produção |Estatísticas e Indicadores Culturais |Plataforma para mapeamento coletivo de projetos, artistas, espaços, eventos culturais e seus produtores. |AGPL3 |
+|**SalicWeb**|Desconti. |Fomento e Incentivo Cultural |Ferramenta para realização de Editais de Fomento |MinC |
+|**[Plataforma Rede Cultura Viva](http://culturaviva.gov.br/)**|Produção |Cidadania e Diversidade Cultural |Cadastro dos Pontos e Pontões de Cultura para atendimento à [Lei Cultura Viva](http://www.cultura.gov.br/cultura-viva1)|AGPL3 |
+|**[Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/)**|Produção |Livro, Leitura, Literatura e Bibliotecas |Cadastro de bibliotecas públicas e comunitárias utilizando o Mapas Culturais |AGPL3 |
+|**Arches Lib**|Desconti. |Livro, Leitura, Literatura e Bibliotecas |Gestão de acervo e circulação para bibliotecas |Propriet. |
+|**[Sistema Nacional de Cultura - SNC](http://cultura.gov.br/snc)**|Produção |Articulação e Desenvolvimento Institucional |Platforma de cadastro e articulação com os **Entes Federados** para gestão e promoção de políticas culturais  |AGPL3 |
+|**e-Praças - Gestão das [praças CEUS](http://ceus.cultura.gov.br/)**|Desenvolv. |Infraestrutura Cultural |Plataforma na nuvem para uso dos administradores das praças CEUs, registro de atividades e articulação com o MinC |AGPL3 |
+|**[Plataforma de Gestão do Conselho Nacional de Política Cultural - CNPC](http://cnpc.cultura.gov.br/)**|Produção |Articulação e Desenvolvimento Institucional |Plataforma para Comunicação, Transparência e Participação do Conselho Nacional de Politica Cultural |MinC |
