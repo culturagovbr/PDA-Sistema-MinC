@@ -1,7 +1,7 @@
 **Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
 ----------
 
-Versão 1.0 de abr/17 - [histórico de versões](https://github.com/culturagovbr/PDA-Sistema-MinC/commits/master/plano-de-dados-abertos.md)
+Versão 1.0 de maio/17
 
 
 ## **Sumário**
@@ -327,6 +327,7 @@ A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada or
     **Responsável:** SEINFRA e CGTEC
 
 * ##### **Ação 10 - Abertura de Dados do Processo Eleitoral CNPC - 2015**
+Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC através da [plataforma online](http://www.cultura.gov.br/votacultura/) que contou com mais de 70 mil eleitores. A plataforma online também possibilitou debates entre candidatos e eleitores.
 
 	**Atividades:**  
     a) Preparar e publicar dados e dicionário de dados
@@ -335,7 +336,7 @@ A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada or
     **Prazo Final:** Junho de 2017
     **Responsável:** SADI e CGTEC
 
-#### Ações dos Órgãos Vinculados
+#### Ações dos Órgãos Vinculados:
 
 * ##### **Ação 11 - Abertura de Dados da Plataforma Museus BR**
     O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
