@@ -1,7 +1,7 @@
 **Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
 ----------
 
-Versão 1.0 de maio/17
+Versão 1.0 de maio/17 - 
 
 
 ## **Sumário**
@@ -470,10 +470,10 @@ O Plano entra em vigor na data de sua publicação!
 |**[Vale Cultura](http://vale.cultura.gov.br/)**|Produção |Fomento e Incentivo |Sistema para gestão do Programa Vale Cultura que beneficia trabalhadores através de recursos de incentivo fiscal dos empregadores |MinC |
 |**[Gestão de Ouvidoria Governamental - GOG](http://ouvidoria.cultura.gov.br/)** |Produção |Ouvidoria |Sistematiza o fluxo de recepção e tratamento das manifestações à ouvidoria entre as unidades do MinC |AGPL3 |
 |**[Mapa da Cultura](http://mapas.cultura.gov.br/) - [SNIIC](#sistema-nacional-de-informações-e-indicadores-culturais-sniic)**|Produção |Estatísticas e Indicadores Culturais |Plataforma para mapeamento coletivo de projetos, artistas, espaços, eventos culturais e seus produtores. |AGPL3 |
-|**SalicWeb**|Desconti. |Fomento e Incentivo Cultural |Ferramenta para realização de Editais de Fomento |MinC |
+|**SalicWeb**|Descontinuação |Fomento e Incentivo Cultural |Ferramenta para realização de Editais de Fomento |MinC |
 |**[Plataforma Rede Cultura Viva](http://culturaviva.gov.br/)**|Produção |Cidadania e Diversidade Cultural |Cadastro dos Pontos e Pontões de Cultura para atendimento à [Lei Cultura Viva](http://www.cultura.gov.br/cultura-viva1)|AGPL3 |
 |**[Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/)**|Produção |Livro, Leitura, Literatura e Bibliotecas |Cadastro de bibliotecas públicas e comunitárias utilizando o Mapas Culturais |AGPL3 |
-|**Arches Lib**|Desconti. |Livro, Leitura, Literatura e Bibliotecas |Gestão de acervo e circulação para bibliotecas |Propriet. |
+|**Arches Lib**|Descontinuação |Livro, Leitura, Literatura e Bibliotecas |Gestão de acervo e circulação para bibliotecas |Propriet. |
 |**[Sistema Nacional de Cultura - SNC](http://cultura.gov.br/snc)**|Produção |Articulação e Desenvolvimento Institucional |Platforma de cadastro e articulação com os **Entes Federados** para gestão e promoção de políticas culturais  |AGPL3 |
-|**e-Praças - Gestão das [praças CEUS](http://ceus.cultura.gov.br/)**|Desenvolv. |Infraestrutura Cultural |Plataforma na nuvem para uso dos administradores das praças CEUs, registro de atividades e articulação com o MinC |AGPL3 |
+|**e-Praças - Gestão das [praças CEUS](http://ceus.cultura.gov.br/)**|Desenvolvimento |Infraestrutura Cultural |Plataforma na nuvem para uso dos administradores das praças CEUs, registro de atividades e articulação com o MinC |AGPL3 |
 |**[Plataforma de Gestão do Conselho Nacional de Política Cultural - CNPC](http://cnpc.cultura.gov.br/)**|Produção |Articulação e Desenvolvimento Institucional |Plataforma para Comunicação, Transparência e Participação do Conselho Nacional de Politica Cultural |MinC |
