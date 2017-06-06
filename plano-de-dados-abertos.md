@@ -450,7 +450,7 @@ O Plano entra em vigor na data de sua publicação!
 
 ### **Sistemas dos Serviços Digitais Internos ao MinC**
 
-| Sistema | Fase | Área | Descrição | licensa | 
+| Sistema | Fase | Área | Descrição | licença | 
 | ---------- | ------ | :------ | :------ | ------------: |
 | **Ocs Inventory** | Implantação | TI | Compõe a solução para inventário de Hardware e Software do parque computacional do MinC | GPL2 | 
 | **OTRS** | Produção | TI | Painel para solicitação de serviços de TI - ITIL | AGPL3 | 
