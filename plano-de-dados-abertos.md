@@ -288,7 +288,7 @@ A [Ontologia da Gestão Cultural](#v-ontologia-da-gestão-cultural) vem sendo de
     **Prazo Final:** Junho de 2017
     **Responsável:** CGEST e CGTEC
 
-* **Ação 06 - Abertura de Dados da Plataforma Rede Cultura Viva**
+* ##### **Ação 06 - Abertura de Dados da Plataforma Rede Cultura Viva**
 A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultura-viva/) é sustentada essencialmente por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
    **Atividades:**  
