@@ -257,6 +257,7 @@ A API permitirá acesso aos principais dados relativos à execução  da políti
     **Frequência de Atualização:** Em tempo real
     **Prazo Final:** Maio de 2017
     **Responsável:** SEFIC e CGTEC
+    Resultado: [http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet](http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet)
 
 * ##### **Ação 03 - Abertura de Dados do Vale Cultura**
 A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dados que serão ser abertos, levando em consideração o parecer nº 486/2016/CONJUR-MinC/CGU/AGU que trata sobre a abertura de dados das empresas beneficiárias da política.
