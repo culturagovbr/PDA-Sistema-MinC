@@ -6,7 +6,7 @@ Versão 1.0 de maio/17 - Vigência 2017/2018
 
 ## **Sumário**
 
-[TOC] 
+[TOC]
 
 
 ----------
@@ -16,11 +16,11 @@ Versão 1.0 de maio/17 - Vigência 2017/2018
 
 Na sociedade em rede, os dados produzidos pelos cidadãos, ou em seu nome, são a força motriz da economia e da nação — o governo tem a responsabilidade de tratar esta informação como precioso recurso nacional. Os cidadãos, hoje, interagem uns com os outros pela rede como nunca antes, e estão desenvolvendo as habilidades e o entusiasmo para resolver os problemas que os afetam localmente, assim como nacionalmente. No século 21, informações e serviços públicos devem estar disponíveis aos cidadãos onde e quando eles precisem. Mais do que nunca, os cidadãos estão desenvolvendo o poder de desencadear a inovação, que resultará em uma melhor abordagem para a governança do Estado. Neste modelo, o governo atua como organizador e facilitador, e não mais como o motor fundamental de cada ação/iniciativa.
 
-Entendemos que a maneira correta de encaminhar uma estratégia moderna para a questão das aplicações e serviços públicos é por meio de uma plataforma aberta baseada no modelo ‘open data’ (dados abertos), que promova a inovação dentro e fora do governo. 
+Entendemos que a maneira correta de encaminhar uma estratégia moderna para a questão das aplicações e serviços públicos é por meio de uma plataforma aberta baseada no modelo ‘open data’ (dados abertos), que promova a inovação dentro e fora do governo.
 
-Na busca em aprimorar continuamente seu papel na sociedade, o Estado deve implementar ações de modernização de suas plataformas digitais, aumentar o compartilhamento de seus recursos informacionais e estimular a colaboração e a participação social na construção de melhores serviços públicos. Acreditamos vivamente que a abertura de dados é importante ferramenta de democratização do acesso à informações públicas e contribuirá para o exercício da cidadania. 
+Na busca em aprimorar continuamente seu papel na sociedade, o Estado deve implementar ações de modernização de suas plataformas digitais, aumentar o compartilhamento de seus recursos informacionais e estimular a colaboração e a participação social na construção de melhores serviços públicos. Acreditamos vivamente que a abertura de dados é importante ferramenta de democratização do acesso à informações públicas e contribuirá para o exercício da cidadania.
 
-Ademais, é importante salientar a transparência que será alcançada por meio da abertura de dados, que contribuirá para o combate de eventuais desvios. Não à toa, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, é a responsável por assegurar a publicação e a atualização do Plano de Dados Abertos. 
+Ademais, é importante salientar a transparência que será alcançada por meio da abertura de dados, que contribuirá para o combate de eventuais desvios. Não à toa, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, é a responsável por assegurar a publicação e a atualização do Plano de Dados Abertos.
 
 O Sistema MinC, por meio deste documento, institui seu Plano de Dados Abertos (PDA), o qual estabelece ações para a implementação e promoção de abertura de dados do campo cultural.
 
@@ -50,7 +50,7 @@ O Ministério da Cultura é o órgão central de um sistema que agrega sete inst
  - Fundação Cultural Palmares - FCP;
  - Agência Nacional do Cinema - Ancine;
  - Fundação Nacional das Artes - Funarte;
- - Fundação Biblioteca Nacional - FBN; e 
+ - Fundação Biblioteca Nacional - FBN; e
  - Fundação Casa de Rui Barbosa - FCRB.
 
 Como parte da estratégia de abertura de dados culturais, o Ministério da Cultura apoiará a produção e execução do Plano de Dados Abertos das instituições vinculadas. Prentende-se desta forma, aumentar a quantidade de dados culturais abertos e garantir a padronização entre os mesmos.
@@ -68,7 +68,7 @@ A partir das oportunidades que a formatação em rede implicam, o SNIIC se prop�
 
 ### *Objetivo Geral*
 
-A abertura dos dados do Ministério da Cultura, de maneira a garantir a transparência das políticas públicas realizadas pelo Sistema MinC, visa estimular a inovação e a geração de novos serviços digitais para e pela sociedade, contribuindo com a consolidação do um governo mais aberto. 
+A abertura dos dados do Ministério da Cultura, de maneira a garantir a transparência das políticas públicas realizadas pelo Sistema MinC, visa estimular a inovação e a geração de novos serviços digitais para e pela sociedade, contribuindo com a consolidação do um governo mais aberto.
 
 ### *Objetivos Específicos*
 
@@ -105,7 +105,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Sistema Nacional de Bibliotecas Públicas** | 1 | 1 | 2 | 2 | **6** |
 | **Plataforma Museus BR** | 1 | 1 | 2 | 2 | **6** |
 | **Sistema Nacional de Cultura - SNC** | 1 | 1 | 2 | 2 | **6** |
-| **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** | 
+| **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 
@@ -146,7 +146,7 @@ Para a abertura de dados com informações de caráter pessoal, ou seja, que diz
 
 ### *Formatos e Interfaces de acesso aos dados*
 
-A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações. 
+A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações.
 O MinC adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - APIs.  
 
 ### *Processos de Desenvolvimento de Softwares*
@@ -161,9 +161,9 @@ Diante dessa realidade a Coordeção-Geral de Infraestrutura Tecnológica do Min
 
 ## **IV) Catalogação no Portal Brasileiro de Dados Abertos**
 
-O Ministério da Cultura disponibilizou um portal de dados abertos em versão *beta* (http://dados.cultura.gov.br). A decisão por criar o Portal de Dados da Cultura tem o objetivo de apresentar os dados culturais de maneira centralizada e simplificar os esforços de curadoria dos mesmos. A publicação destes dados no Portal Brasileiro de Dados Abertos (http://dados.gov.br) será realizada de maneira automática, utilizando tecnologia já disponível de integração entre os catálogos. 
+O Ministério da Cultura disponibilizou um portal de dados abertos em versão *beta* (http://dados.cultura.gov.br). A decisão por criar o Portal de Dados da Cultura tem o objetivo de apresentar os dados culturais de maneira centralizada e simplificar os esforços de curadoria dos mesmos. A publicação destes dados no Portal Brasileiro de Dados Abertos (http://dados.gov.br) será realizada de maneira automática, utilizando tecnologia já disponível de integração entre os catálogos.
 
-É importante lembrar que para catalogação devem-se observar os critérios mencionados no item 2  da seção III deste documento ( Premissas - Estratégia para Abertura de Dados), que contém o conjunto de metadados mínimos estabelecido pela INDA. 
+É importante lembrar que para catalogação devem-se observar os critérios mencionados no item 2  da seção III deste documento ( Premissas - Estratégia para Abertura de Dados), que contém o conjunto de metadados mínimos estabelecido pela INDA.
 
 
 ----------
@@ -187,11 +187,11 @@ O processo de desenvolvimento da ontologia está sendo [documentado no portal do
 
 ## **VI) Governança**
 
-A governança deste PDA é coordenada pela autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Ouvidoria/GM) com apoio técnico da unidade de TIC (CGTEC/SGE). As principais responsabilidades deste comitê serão: 
+A governança deste PDA é coordenada pela autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Ouvidoria/GM) com apoio técnico da unidade de TIC (CGTEC/SGE). As principais responsabilidades deste comitê serão:
 
 ### *Catalogação dos Conjuntos de Dados no Portal de Dados Abertos do Sistema MinC*
 
-O processo de abertura dos dados de um sistema consiste basicamente de duas etapas: 
+O processo de abertura dos dados de um sistema consiste basicamente de duas etapas:
 
  1. O desenvolvimento, caso necessário, de customização do sistema para acesso automatizado dos dados públicos; e
  2. A catalogação de metadados possibilitando aos usuários encontrarem e utilizarem os dados.
@@ -202,13 +202,13 @@ A participação dos gestores dos sistemas de informação no processo de catalo
 
 ### *Monitoramento e Controle*
 
-A autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Lei nº 12.527/11) é a responsável por assegurar a publicação, o monitoramento e a atualização do Plano de Dados Abertos, que deverá ser executada com o apoio da Subsecretaria de Gestão Estratégica – SGE, por intermédio da  Coordenação-Geral de Infraestrutura Tecnológica - CGTEC,  e demais órgãos competentes. 
+A autoridade designada pelo art. 40 da Lei de Acesso à Informação - LAI (Lei nº 12.527/11) é a responsável por assegurar a publicação, o monitoramento e a atualização do Plano de Dados Abertos, que deverá ser executada com o apoio da Subsecretaria de Gestão Estratégica – SGE, por intermédio da  Coordenação-Geral de Infraestrutura Tecnológica - CGTEC,  e demais órgãos competentes.
 
 O monitoramento e controle consiste em **garantir a priorização e realização dos projetos** de TI necessários para as ações previstas neste plano e realizar continuamente as atividades de curadoria dos metadados dos Conjuntos de Dados catalogados no Portal de Dados Abertos, garantindo a disponibilidade e a atualização dos dados de acordo com frequência pré-definida, além do atendimento às normas e padrões especificados pela INDA.  
 
 ### *Melhoria da qualidade dos dados*
 
-A melhoria da qualidade dos dados é um processo contínuo cujo objetivo é **aprimorar a interface de acesso** desenvolvida para cada conjunto de dados abertos. Dependendo da complexidade de um sistema de informação, o projeto de abertura de seus dados pode ser dividido em várias etapas, de forma a realizar aberturas parciais rápidas, com escopos incrementais e em formatos de arquivos simplificados. 
+A melhoria da qualidade dos dados é um processo contínuo cujo objetivo é **aprimorar a interface de acesso** desenvolvida para cada conjunto de dados abertos. Dependendo da complexidade de um sistema de informação, o projeto de abertura de seus dados pode ser dividido em várias etapas, de forma a realizar aberturas parciais rápidas, com escopos incrementais e em formatos de arquivos simplificados.
 
 O Plano de Dados Abertos do MinC se constitui um instrumento vivo, de constante revisão, tendo como diretriz a contínua evolução das interfaces de acesso aos dados abertos pela sociedade, orientado pelo princípio de que os dados públicos têm seu valor amplificado quando compartilhados abertamente.
 
@@ -257,7 +257,7 @@ A API permitirá acesso aos principais dados relativos à execução  da políti
     **Frequência de Atualização:** Em tempo real
     **Prazo Final:** Maio de 2017
     **Responsável:** SEFIC e CGTEC
-    
+
     Resultado: [http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet](http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet)
 
 * ##### **Ação 03 - Abertura de Dados do Vale Cultura**
@@ -301,7 +301,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
 
 * ##### **Ação 07 - Abertura de Dados do Sistema Nacional de Bibliotecas Públicas - SNBP**
  O [SNBP](http://snbp.culturadigital.br/) possui um [Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
- 
+
     **Atividades:**  
     a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** tempo real
@@ -310,7 +310,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
 
 * ##### **Ação 08 - Abertura de Dados do Sistema Nacional de Cultura - SNC**
 O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://snc.cultura.gov.br/) que já disponibiliza os dados do cadastro em formato CSV e ODS.  O objetivo desta ação é o de ampliar os dados disponíveis e catalogar os metadados e documentações no portal de dados abertos da cultura.
- 
+
     **Atividades:**  
     a) Desenvolver novo modelo de abertura de Dados
     b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
@@ -342,16 +342,16 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
 
 * ##### **Ação 11 - Abertura de Dados da Plataforma Museus BR**
     O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
- 
+
     **Atividades:**  
     a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Junho de 2017
     **Responsável:** IBRAM e CGTEC/MinC
-    
+
 * ##### **Ação 12 - Planejamento das Iniciativas de Dados Abertos do IBRAM**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto Brasileiro de Museus - IBRAM.
- 
+
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pelo IBRAM
@@ -360,7 +360,7 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
 
 * ##### **Ação 13 - Planejamento das Iniciativas de Dados Abertos da ANCINE**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Agência Nacional de Cinema - ANCINE.
- 
+
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela ANCINE
@@ -369,7 +369,7 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
 
 * ##### **Ação 14 - Planejamento das Iniciativas de Dados Abertos da Funarte**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Nacional das Artes - Funarte.
- 
+
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela Funarte
@@ -378,7 +378,7 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
 
 * ##### **Ação 15 - Planejamento das Iniciativas de Dados Abertos da FBN**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
- 
+
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN
@@ -387,14 +387,21 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
 
 * ##### **Ação 16 - Planejamento das Iniciativas de Dados Abertos da FCRB**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Casa de Rui Barbosa - FCRB.
- 
+
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR
     **Prazo Final:** Agosto de 2017
     **Responsável:** FCBR e OUV/MinC
 
+* ##### **Ação 17 - [Funarte] Publicação dos dados do Mapa da música**
+    Publicação dos cadastros de bandas, orquestras musicais, escolas de música, associações e sociedades de música.
 
+    **Atividades:**
+    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
+    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
+    **Prazo Final:** Agosto de 2017
+    **Responsável:** Funarte
 ----------
 
 
@@ -438,13 +445,13 @@ O Plano entra em vigor na data de sua publicação!
 
 **RDF - Resource Description Framework:** o Resource Description Framework (RDF) é uma família de especificações do World Wide Web Consortium (W3C) originalmente concebida como um modelo de dados de metadados. A utilização deste formato possibilita a publicação de dados na Web Semântica.
 
-**SALIC - Sistema de Apoio às Leis de Incentivo Cultural:** O SALIC é o sistema de informação de gestão da Lei Rouanet ([Lei nº 8.313/91](http://www.planalto.gov.br/ccivil_03/leis/L8313cons.htm)). Mais sobre o incentivo cultural do governo federal em http://cultura.gov.br/incentivofiscal. 
+**SALIC - Sistema de Apoio às Leis de Incentivo Cultural:** O SALIC é o sistema de informação de gestão da Lei Rouanet ([Lei nº 8.313/91](http://www.planalto.gov.br/ccivil_03/leis/L8313cons.htm)). Mais sobre o incentivo cultural do governo federal em http://cultura.gov.br/incentivofiscal.
 
 **SNC - Sistema Nacional de Cultura:** O SNC é o processo de gestão e promoção das políticas públicas de cultura, em regime de colaboração entre os três entes federados (União, estados e municípios) e a sociedade civil, tendo por objetivo promover o desenvolvimento humano, social e econômico com pleno exercício dos direitos culturais. Mais informações em http://cultura.gov.br/snc.
 
 **W3C:** O *World Wide Web Consortium* (W3C) é a principal organização de padronização da World Wide Web. Consiste em um consórcio internacional com quase 400 membros, agrega empresas, órgãos governamentais e organizações independentes com a finalidade de estabelecer padrões para a criação e a interpretação de conteúdos para a Web.
 
-**Web Semântica:** A Web Semântica é uma extensão da Web através de padrões definidos pelo World Wide Web Consortium (W3C). Os padrões promovem o uso de formatos comuns de dados e protocolos de troca na Web, mais fundamentalmente o Resource Description Framework (RDF). 
+**Web Semântica:** A Web Semântica é uma extensão da Web através de padrões definidos pelo World Wide Web Consortium (W3C). Os padrões promovem o uso de formatos comuns de dados e protocolos de troca na Web, mais fundamentalmente o Resource Description Framework (RDF).
 
 
 ## **ANEXO A - Catálogo de Sistemas**
@@ -452,21 +459,21 @@ O Plano entra em vigor na data de sua publicação!
 
 ### **Sistemas dos Serviços Digitais Internos ao MinC**
 
-| Sistema | Fase | Área | Descrição | licença | 
+| Sistema | Fase | Área | Descrição | licença |
 | ---------- | ------ | :------ | :------ | ------------: |
-| **Ocs Inventory** | Implantação | TI | Compõe a solução para inventário de Hardware e Software do parque computacional do MinC | GPL2 | 
-| **OTRS** | Produção | TI | Painel para solicitação de serviços de TI - ITIL | AGPL3 | 
-| **RHSis** | Produção | Gestão de Pessoas | Sistema de Gestão de Recursos Humanos | MinC | 
-| **SEI** | Produção | Documentação e Informação | Gestão de Processo por meio Eletrônico  | Privado de Governo | 
-| **Siminc** | Descontinuação | Planejamento e Orçamento | Gestão Orçamentária e Financeira  | GPL2 | 
-| **SIMEC** | Implantação  | Gestão Orçamentária, Financeira e outras| Plataforma desenvolvida pelo MEC para gestão Orçamentária, Financeira, e outros  | GPL2 | 
-| **Sipac** | Descontinuação | Almoxarifado | Solução legada para gestão de Patrimônio, Almoxarifado e outros  | Proprietário | 
+| **Ocs Inventory** | Implantação | TI | Compõe a solução para inventário de Hardware e Software do parque computacional do MinC | GPL2 |
+| **OTRS** | Produção | TI | Painel para solicitação de serviços de TI - ITIL | AGPL3 |
+| **RHSis** | Produção | Gestão de Pessoas | Sistema de Gestão de Recursos Humanos | MinC |
+| **SEI** | Produção | Documentação e Informação | Gestão de Processo por meio Eletrônico  | Privado de Governo |
+| **Siminc** | Descontinuação | Planejamento e Orçamento | Gestão Orçamentária e Financeira  | GPL2 |
+| **SIMEC** | Implantação  | Gestão Orçamentária, Financeira e outras| Plataforma desenvolvida pelo MEC para gestão Orçamentária, Financeira, e outros  | GPL2 |
+| **Sipac** | Descontinuação | Almoxarifado | Solução legada para gestão de Patrimônio, Almoxarifado e outros  | Proprietário |
 | **Sistel** | Desenvolvimento | TI | Gestão de Faturas e Empréstimo de Equipamentos de Telecom  | GPL3 |
 
 
 ### **Sistemas dos Serviços Digitais Externos ao MinC**
 
-| Sistema | Fase | Área | Descrição | licença | 
+| Sistema | Fase | Área | Descrição | licença |
 | ---------- | ------ | :------ | :------ | ------------: |
 |**[Sistema de Apoio às Leis de Incentivo à Cultura - SALIC](#a-lei-rouanet-e-o-incentivo-cultural)** |Produção |Fomento e Incentivo |O sistema fornece os mecanismos para gestão do incentivo fiscal à projetos culturais pelos mecanismos da Lei Rouanet, mediando as diversas etapas **(proposta, admissão, captação de recursos, execução e prestação de contas)** envolvendo os vários atores **(Proponente, Avaliadores, Incentivador e Fornecedores)** |AGPL3 |
 |**[Vale Cultura](http://vale.cultura.gov.br/)**|Produção |Fomento e Incentivo |Sistema para gestão do Programa Vale Cultura que beneficia trabalhadores através de recursos de incentivo fiscal dos empregadores |MinC |
