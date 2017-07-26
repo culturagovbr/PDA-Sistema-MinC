@@ -402,6 +402,19 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
     **Prazo Final:** Agosto de 2017
     **Responsável:** Funarte
+
+* ##### **Ação 18 - [Funarte] Abertura do catálogo do acervo  da Funarte**
+    * Cerca de 70.000 títulos distribuídos entre o Acervo geral, coleções especiais: Paschoal, Carlos Magno, João Angelo Labanca, Roberto Pontual, Roberto Wagner Pereira, Martinez Corrêa; obras raras
+    * Cerca de 4.000 exemplares distribuídos entre o acervo geral, coleções especiais
+    * Aproximadamente 29.200 dossiês contendo material de divulgação, artigos de periódicos, programas, etc.
+    * 10.236 textos do teatro brasileiro
+    * 1.699 documentos musicais
+
+    **Atividades:**
+    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
+    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
+    **Prazo Final:** Setembro de 2017
+    **Responsável:** Funarte
 ----------
 
 
