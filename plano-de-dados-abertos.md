@@ -415,6 +415,23 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
     **Prazo Final:** Setembro de 2017
     **Responsável:** Funarte
+
+* ##### **Ação 19 - [Funarte] Abertura dos dados dos editais e prêmios da Funarte**
+    * Conexão Artes Vusiais Funarte
+    * Prêmio Funarte Marc Ferrez de fotografia
+    * Prêmio de artes plásticas Marcantonio Vilaça
+    * Prêmio de arte contemporânea
+    * Edital Prêmio Funarte Carequinha de Estímulo ao Circo
+    * Edital Prêmio Funarte de Teatro Myriam Muniz
+    * Edital Prêmio Funarte de Dança Klauss Vianna
+    * Outros editais para concessão de bolsas e prêmios
+
+    **Atividades:**
+    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
+    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
+    **Prazo Final:** Novembro de 2017
+    **Responsável:** Funarte
+
 ----------
 
 
