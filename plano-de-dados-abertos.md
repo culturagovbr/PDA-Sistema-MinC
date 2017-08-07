@@ -427,8 +427,9 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     * Outros editais para concessão de bolsas e prêmios
 
     **Atividades:**
-    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
+    a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)
+    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
+    c) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
     **Prazo Final:** Novembro de 2017
     **Responsável:** Funarte
 
