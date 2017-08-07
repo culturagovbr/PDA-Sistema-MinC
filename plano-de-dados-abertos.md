@@ -417,7 +417,7 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     **Responsável:** Funarte
 
 * ##### **Ação 19 - [Funarte] Abertura dos dados dos editais e prêmios da Funarte**
-    * Conexão Artes Vusiais Funarte
+    * Conexão Artes Visuais Funarte
     * Prêmio Funarte Marc Ferrez de fotografia
     * Prêmio de artes plásticas Marcantonio Vilaça
     * Prêmio de arte contemporânea
@@ -433,6 +433,15 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     **Prazo Final:** Novembro de 2017
     **Responsável:** Funarte
 
+* ##### **Ação 20 - [Funarte] Abertura dos dados do Mapa do teatro**
+    Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil", os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
+
+    **Atividades:**
+    a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)
+    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
+    c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** Funarte
 ----------
 
 
