@@ -350,13 +350,13 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 #### Ações de planejamento para as Entidades Vinculadas:
 
 * ##### **Ação 12 - Planejamento das Iniciativas de Dados Abertos do IBRAM**
-    Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto Brasileiro de Museus - IBRAM.
+  Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto Brasileiro de Museus - IBRAM.
 
-    **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pelo IBRAM
-    **Prazo Final:** Julho de 2017
-    **Responsável:** IBRAM e OUV/MinC
+  **Atividades:**  
+  a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
+  b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pelo IBRAM
+  **Prazo Final:** Julho de 2017
+  **Responsável:** IBRAM e OUV/MinC
 
 * ##### **Ação 13 - Planejamento das Iniciativas de Dados Abertos da ANCINE**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Agência Nacional de Cinema - ANCINE.
