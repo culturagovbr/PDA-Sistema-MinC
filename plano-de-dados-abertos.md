@@ -338,16 +338,16 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     **Prazo Final:** Junho de 2017
     **Responsável:** SADI e CGTEC
 
-#### Ações dos Órgãos Vinculados:
-
 * ##### **Ação 11 - Abertura de Dados da Plataforma Museus BR**
-    O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
+O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
     **Atividades:**  
     a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Junho de 2017
     **Responsável:** IBRAM e CGTEC/MinC
+
+#### Ações de planejamento para as Entidades Vinculadas:
 
 * ##### **Ação 12 - Planejamento das Iniciativas de Dados Abertos do IBRAM**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto Brasileiro de Museus - IBRAM.
@@ -393,30 +393,32 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR
     **Prazo Final:** Agosto de 2017
     **Responsável:** FCBR e OUV/MinC
+----------
 
-* ##### **Ação 17 - [Funarte] Publicação dos dados do Mapa da música**
+#### Ações das Entidades Vinculadas:
+
+##### Funarte
+
+* ##### **Ação 1 - [Funarte] Abertura dos dados do Mapa do teatro**
+    Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil", os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
+
+    **Atividades:**
+    a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)
+    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
+    c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)
+    **Prazo Final:** Setembro de 2017
+    **Responsável:** Funarte
+
+* ##### **Ação 2 - Publicação dos dados do Mapa da música**
     Publicação dos cadastros de bandas, orquestras musicais, escolas de música, associações e sociedades de música.
 
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Prazo Final:** Agosto de 2017
+    **Prazo Final:** Outubro de 2017
     **Responsável:** Funarte
 
-* ##### **Ação 18 - [Funarte] Abertura do catálogo do acervo  da Funarte**
-    * Cerca de 70.000 títulos distribuídos entre o Acervo geral, coleções especiais: Paschoal, Carlos Magno, João Angelo Labanca, Roberto Pontual, Roberto Wagner Pereira, Martinez Corrêa; obras raras
-    * Cerca de 4.000 exemplares distribuídos entre o acervo geral, coleções especiais
-    * Aproximadamente 29.200 dossiês contendo material de divulgação, artigos de periódicos, programas, etc.
-    * 10.236 textos do teatro brasileiro
-    * 1.699 documentos musicais
-
-    **Atividades:**
-    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Prazo Final:** Setembro de 2017
-    **Responsável:** Funarte
-
-* ##### **Ação 19 - [Funarte] Abertura dos dados dos editais e prêmios da Funarte**
+* ##### **Ação 3 - [Funarte] Abertura dos dados dos editais e prêmios da Funarte**
     * Conexão Artes Visuais Funarte
     * Prêmio Funarte Marc Ferrez de fotografia
     * Prêmio de artes plásticas Marcantonio Vilaça
@@ -433,15 +435,19 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
     **Prazo Final:** Novembro de 2017
     **Responsável:** Funarte
 
-* ##### **Ação 20 - [Funarte] Abertura dos dados do Mapa do teatro**
-    Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil", os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
+* ##### **Ação 4 - Abertura do catálogo do acervo  da Funarte**
+    * Cerca de 70.000 títulos distribuídos entre o Acervo geral, coleções especiais: Paschoal, Carlos Magno, João Angelo Labanca, Roberto Pontual, Roberto Wagner Pereira, Martinez Corrêa; obras raras
+    * Cerca de 4.000 exemplares distribuídos entre o acervo geral, coleções especiais
+    * Aproximadamente 29.200 dossiês contendo material de divulgação, artigos de periódicos, programas, etc.
+    * 10.236 textos do teatro brasileiro
+    * 1.699 documentos musicais
 
     **Atividades:**
-    a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)
-    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)
-    **Prazo Final:** Dezembro de 2017
+    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
+    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
+    **Prazo Final:** Dezembro de 2017 
     **Responsável:** Funarte
+
 ----------
 
 
