@@ -258,7 +258,7 @@ A API permitirá acesso aos principais dados relativos à execução  da políti
     **Prazo Final:** Maio de 2017
     **Responsável:** SEFIC e CGTEC
 
-    Resultado: [http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet](http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet)
+Resultado: [http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet](http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet)
 
 * ##### **Ação 03 - Abertura de Dados do Vale Cultura**
 A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dados que serão ser abertos, levando em consideração o parecer nº 486/2016/CONJUR-MinC/CGU/AGU que trata sobre a abertura de dados das empresas beneficiárias da política.
@@ -302,7 +302,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
 * ##### **Ação 07 - Abertura de Dados do Sistema Nacional de Bibliotecas Públicas - SNBP**
  O [SNBP](http://snbp.culturadigital.br/) possui um [Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
-    **Atividades:**  
+   **Atividades:**  
     a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Junho de 2017
@@ -311,7 +311,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
 * ##### **Ação 08 - Abertura de Dados do Sistema Nacional de Cultura - SNC**
 O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://snc.cultura.gov.br/) que já disponibiliza os dados do cadastro em formato CSV e ODS.  O objetivo desta ação é o de ampliar os dados disponíveis e catalogar os metadados e documentações no portal de dados abertos da cultura.
 
-    **Atividades:**  
+  **Atividades:**  
     a) Desenvolver novo modelo de abertura de Dados
     b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** tempo real
@@ -331,7 +331,7 @@ A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada or
 * ##### **Ação 10 - Abertura de Dados do Processo Eleitoral CNPC - 2015**
 Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC através da [plataforma online](http://www.cultura.gov.br/votacultura/) que contou com mais de 70 mil eleitores. A plataforma online também possibilitou debates entre candidatos e eleitores.
 
-	**Atividades:**  
+  **Atividades:**  
     a) Preparar e publicar dados e dicionário de dados
     b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** dados estáticos (2015)
@@ -341,7 +341,7 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
 * ##### **Ação 11 - Abertura de Dados da Plataforma Museus BR**
 O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
-    **Atividades:**  
+  **Atividades:**  
     a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Junho de 2017
