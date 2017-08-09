@@ -445,7 +445,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Prazo Final:** Dezembro de 2017 
+    **Prazo Final:** Dezembro de 2017
     **Responsável:** Funarte
 
 ----------
