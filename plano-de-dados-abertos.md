@@ -399,7 +399,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 ##### Funarte
 
-* ##### **Ação 1 - [Funarte] Abertura dos dados do Mapa do teatro**
+* ##### **Ação 1 - Abertura dos dados do Mapa do teatro**
     Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil", os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
 
     **Atividades:**
