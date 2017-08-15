@@ -448,6 +448,216 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Dezembro de 2017
     **Responsável:** Funarte
 
+##### IBRAM
+
+* ##### **IBRAM01  -  Formulário de Visitação Anual (FVA) **
+    **Produtos:**
+    1) Planilha com dados de visitação anual dos museus brasileiros em formato aberto
+    2) Publicação dos dados
+ 
+    **Atividades:**
+    Limpeza e ajuste do banco de dados para disponibilização;
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+    Conferência dos Dados;
+    Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dez/2017 
+    Atualização anual, sempre em agosto.
+    **Responsável:** IBRAM/CPAI
+
+* ##### **IBRAM02  -  Formulário de Visitação Mensal (FVM) **
+    **Produtos:**
+    1) Planilha com dados de visitação mensal dos museus do Ibram em formato aberto
+    2) Publicação dos dados
+ 
+    **Atividades:**
+    Limpeza e ajuste do banco de dados para disponibilização;
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+	Conferência dos Dados;
+	Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dez/2017 
+	Atualização semestral, sempre em março e agosto.
+
+    **Responsável:** IBRAM/CPAI
+
+* ##### **IBRAM03  -  Museusbr **
+    **Produtos:**
+    Publicação de link em Dados.cultura.gov.br para acesso à plataforma Museusbr (já construída em formato aberto). 
+
+    **Atividades:**
+    Ajustes na ferramenta tecnológica para possibilitar download de dados em formato aberto;
+	Realização de testes para verificação do correto funcionamento da ferramenta;
+	Disponibilização da funcionalidade na plataforma Museusbr;
+	Divulgação da plataforma com a publicação de link em Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação:
+	Agosto/2017
+	Atualização contínua
+    **Responsável:** IBRAM/CPAI
+
+* ##### **IBRAM04  -  Cadastro de Bens Culturais Musealizados Desaparecidos - CBMD **
+    **Produtos:**
+    Lista de bens culturais musealizados desaparecidos – CBMD publicados em Dados.cultura.gov.br 
+
+    **Atividades:**
+    Solicitação à CTINF para geração de relatório a partir da indicação dos campos. 
+    Conferência dos Dados
+	Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: 
+	Dezembro 2018
+	Atualização: Anual - dezembro.
+
+    **Responsável:** IBRAM/COPRES
+
+* ##### **IBRAM05  -  Pontos de Memória **
+    **Produtos:**
+    Publicação em Dados.cultura.gov.br de link para acesso à plataforma Culturabr (já construída em formato aberto). 
+
+    **Atividades:**
+    Inclusão dos dados na plataforma Culturabr
+	Definição do layout
+	Atualização e complementação dos dados pelos Pontos de Memória
+	Envio para publicação do Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dezembro/2017
+	Atualização contínua
+    **Responsável:** IBRAM/COMUSE
+
+* ##### **IBRAM06  -  Semana Nacional de Museus (Número de museus e municípios participantes, e eventos realizados) **
+    **Produtos:**
+    1) Planilha com dados da Semana Nacional de Museus em formato aberto
+	2) Publicação dos dados
+ 
+    **Atividades:**
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+	Conferência dos Dados;
+	Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017
+	Atualização anual sempre em Julho
+    **Responsável:** IBRAM/CPGII/ DDFEM
+
+* ##### **IBRAM07  -  Primavera dos Museus (Número de museus e municípios participantes e eventos realizados) **
+    **Produtos:**
+    1) Planilha com dados da Primavera de Museus em formato aberto
+	2) Publicação dos dados
+ 
+    **Atividades:**
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+	Conferência dos Dados;
+	Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017
+	Atualização anual sempre Dezembro/ 2017.
+    **Responsável:** IBRAM/CPGII/ DDFEM
+
+* ##### **IBRAM08  -  Fórum Nacional de Museus: Número de participantes (dados da inscrição - participante, cidade/ estado, instituição em que atua, escolaridade) **
+    **Produtos:**
+    1) Planilha com dados do Fórum Nacional de Museus em formato aberto
+	2) Publicação dos dados
+ 
+    **Atividades:**
+    Limpeza e ajuste das tabelas para disponibilização;
+	Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+	Conferência dos Dados;
+	Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017
+	Atualização anual, sempre em dezembro.
+    **Responsável:** IBRAM/CPGII/ DDFEM
+
+* ##### **IBRAM09  -  Estatísticas do serviços de Biblioteca do IBRAM **
+    **Produtos:**
+    1) Planilha com estatísticas dos serviços da Biblioteca central do IBRAM em formato aberto
+	2) Publicação dos dados  
+
+    **Atividades:**
+    Organização dos dados para disponibilização;
+	Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+	Conferência dos dados;
+	Envio para publicação do Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Mar/2018
+	Atualização anual, sempre em março.
+    **Responsável:** IBRAM/CAB
+
+* ##### **IBRAM10  -  Cadastro Nacional de Museus **
+    **Produtos:**
+    Planilha com informações cadastrais dos museus brasileiros em formato aberto
+	Publicação dos dados 
+
+    **Atividades:**
+    Organização e padronização das planilhas para disponibilização;
+	Conferência dos dados;
+	Envio para publicação do Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dez/2017
+	Atualização anual, sempre em março
+    **Responsável:** IBRAM/CPAI
+
+* ##### **IBRAM11  -  Exposições no Brasil **
+    **Produtos:**
+    1) Planilha com informações sobre exposições realizadas no Brasil em formato aberto
+2) Publicação dos dados 
+
+    **Atividades:**
+    Organização e padronização das planilhas para disponibilização;
+	Conferência dos dados;
+	Envio para publicação do Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: março/2018
+	Atualização anual, sempre em março
+    **Responsável:** IBRAM/CPAI
+
+* ##### **IBRAM12  -  Pesquisa de Impacto da Semana Nacional de Museus **
+    **Produtos:**
+    1) Planilha com dados da Pesquisa de Impacto da Semana Nacional de Museus em formato aberto
+	2) Publicação dos dados
+ 
+    **Atividades:**
+    Limpeza e ajuste das tabelas para disponibilização;
+	Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+	Conferência dos Dados;
+	Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017
+	Atualização anual, sempre em dezembro.
+    **Responsável:** IBRAM/CES/ DDFEM
+
+* ##### **IBRAM13  -  Pesquisa de Investimentos no Setor Museal **
+    **Produtos:**
+    1) Planilha com dados da Pesquisa de Investimento no Setor Museal em formato aberto
+	2) Publicação dos dados
+ 
+    **Atividades:**
+    Limpeza e ajuste das tabelas para disponibilização;
+	Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+	Conferência dos Dados;
+	Envio para publicação no Dados.cultura.gov.br.
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017
+	Atualização anual, sempre em dezembro.
+    **Responsável:** IBRAM/CES/ DDFEM
+
+* ##### **IBRAM14  -  Curadoria **
+    **Produtos:**
+    Curadoria permanente;
+Cadastro dos mantenedores dos metadados no portal (DTI). 
+
+    **Atividades:**
+    Verificar, para efeitos de publicação, se os dados enviados para publicação estão de acordo com os padrões da INDA e/ou INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados e recurso);
+	Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível.
+	Coordenar o processo de catalogação.
+    **Prazo Final:** Durante toda a vigência do PDA
+    **Responsável:** IBRAM/CTINF
+
+* ##### **IBRAM15  -  Monitoramento e Controle **
+    **Produtos:**
+    Relatório de acompanhamento 
+
+    **Atividades:**
+    Acompanhamento do cumprimento do plano de ação do IBRAM para abertura de dados, bem como atualização de suas metas, prazos, indicadores e produtos.
+    **Prazo Final:** Durante toda a vigência do PDA
+    **Responsável:** IBRAM/NRI
+
+* ##### **IBRAM16  -  Participação Social **
+    **Produtos:**
+    Dirimir dúvidas e enviar as sugestões recebidas para as áreas. 
+
+    **Atividades:**
+    Receber os pedidos de informação dos usuários pelos canais de comunicação do IBRAM.
+    **Prazo Final:** Durante toda a vigência do PDA
+    **Responsável:** IBRAM/Setorial
+
 ----------
 
 
