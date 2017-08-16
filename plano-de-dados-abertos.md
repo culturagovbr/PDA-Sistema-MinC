@@ -418,7 +418,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Outubro de 2017
     **Responsável:** Funarte
 
-* ##### **FUNARTE03 - [Funarte] Abertura dos dados dos editais e prêmios da Funarte**
+* ##### **FUNARTE03 - Abertura dos dados dos editais e prêmios da Funarte**
     * Conexão Artes Visuais Funarte
     * Prêmio Funarte Marc Ferrez de fotografia
     * Prêmio de artes plásticas Marcantonio Vilaça
