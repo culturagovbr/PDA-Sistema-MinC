@@ -423,10 +423,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     * Prêmio Funarte Marc Ferrez de fotografia
     * Prêmio de artes plásticas Marcantonio Vilaça
     * Prêmio de arte contemporânea
-    * Edital Prêmio Funarte Carequinha de Estímulo ao Circo
-    * Edital Prêmio Funarte de Teatro Myriam Muniz
-    * Edital Prêmio Funarte de Dança Klauss Vianna
-    * Outros editais para concessão de bolsas e prêmios
+    * Prêmio Funarte Carequinha de Estímulo ao Circo
+    * Prêmio Funarte de Teatro Myriam Muniz
+    * Prêmio Funarte de Dança Klauss Vianna
 
     **Atividades:**
     a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)
