@@ -400,13 +400,13 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 ##### Funarte
 
 * ##### **FUNARTE01 - Abertura dos dados do Mapa do teatro**
-    Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil", os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
+    Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil". Os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
 
     **Atividades:**
     a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)
     b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)
-    **Prazo Final:** Setembro de 2017
+    c) Disponibilização do serviço em uma instância do Mapa Cultural (para 2018)
+    **Prazo Final:** Outubro de 2017
     **Responsável:** Funarte
 
 * ##### **FUNARTE02 - Publicação dos dados do Mapa da música**
@@ -415,7 +415,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Prazo Final:** Outubro de 2017
+    **Prazo Final:** Novembro de 2017
     **Responsável:** Funarte
 
 * ##### **FUNARTE03 - [Funarte] Abertura dos dados dos editais e prêmios da Funarte**
@@ -432,7 +432,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)
     b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     c) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Prazo Final:** Novembro de 2017
+    **Prazo Final:** Dezembro de 2017
     **Responsável:** Funarte
 
 * ##### **FUNARTE04 - Abertura do catálogo do acervo  da Funarte**
