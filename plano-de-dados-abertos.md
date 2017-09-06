@@ -393,6 +393,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR
     **Prazo Final:** Agosto de 2017
     **Responsável:** FCBR e OUV/MinC
+    
 ----------
 
 #### Ações das Entidades Vinculadas:
