@@ -406,7 +406,6 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)
     b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)
-    **Frequência de Atualização:** inicialmente estático (única vez). Após item c, atualizaçes dinâmicas (online)
     **Prazo Final:** Setembro de 2017
     **Responsável:** Funarte
 
@@ -416,7 +415,6 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Frequência de Atualização:** anual.
     **Prazo Final:** Outubro de 2017
     **Responsável:** Funarte
 
@@ -433,7 +431,6 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)
     b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     c) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Frequência de Atualização:** anual.
     **Prazo Final:** Novembro de 2017
     **Responsável:** Funarte
 
@@ -447,13 +444,12 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Frequência de Atualização:** anual.
     **Prazo Final:** Dezembro de 2017
     **Responsável:** Funarte
 
 ##### IBRAM
 
-* ##### **IBRAM01  -  Abertura dos dados do Formulário de Visitação Anual (FVA)**
+* ##### **IBRAM01  -  Formulário de Visitação Anual (FVA)**
     **Produtos:**
     1) Planilha com dados de visitação anual dos museus brasileiros em formato aberto
     2) Publicação dos dados
@@ -463,11 +459,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual, sempre em agosto.
-    **Prazo Final:** Primeira publicação: Dezembro/2017
+    **Prazo Final:** Primeira publicação: Dez/2017 
+    Atualização anual, sempre em agosto.
     **Responsável:** IBRAM/CPAI
 
-* ##### **IBRAM02  -  Abertura dos dados do Formulário de Visitação Mensal (FVM)**
+* ##### **IBRAM02  -  Formulário de Visitação Mensal (FVM)**
     **Produtos:**
     1) Planilha com dados de visitação mensal dos museus do Ibram em formato aberto
     2) Publicação dos dados
@@ -477,11 +473,12 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** Atualização semestral, sempre em março e agosto.
-    **Prazo Final:** Primeira publicação: Dezembro/2017 
+    **Prazo Final:** Primeira publicação: Dez/2017 
+    Atualização semestral, sempre em março e agosto.
+
     **Responsável:** IBRAM/CPAI
 
-* ##### **IBRAM03  -  Catalogação Museusbr**
+* ##### **IBRAM03  -  Museusbr**
     **Produtos:**
     Publicação de link em Dados.cultura.gov.br para acesso à plataforma Museusbr (já construída em formato aberto). 
 
@@ -490,11 +487,12 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Realização de testes para verificação do correto funcionamento da ferramenta;
     Disponibilização da funcionalidade na plataforma Museusbr;
     Divulgação da plataforma com a publicação de link em Dados.cultura.gov.br.
-    **Frequência de Atualização:** contínua
-    **Prazo Final:** Primeira publicação: setembro/2017
+    **Prazo Final:** Primeira publicação:
+    Agosto/2017
+    Atualização contínua
     **Responsável:** IBRAM/CPAI
 
-* ##### **IBRAM04  -  Abertura dos dados do Cadastro de Bens Culturais Musealizados Desaparecidos - CBMD**
+* ##### **IBRAM04  -  Cadastro de Bens Culturais Musealizados Desaparecidos - CBMD**
     **Produtos:**
     Lista de bens culturais musealizados desaparecidos – CBMD publicados em Dados.cultura.gov.br 
 
@@ -502,11 +500,13 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Solicitação à CTINF para geração de relatório a partir da indicação dos campos. 
     Conferência dos Dados
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** Anual - dezembro.
-    **Prazo Final:** Primeira publicação: Dezembro 2018
+    **Prazo Final:** Primeira publicação: 
+    Dezembro 2018
+    Atualização: Anual - dezembro.
+
     **Responsável:** IBRAM/COPRES
 
-* ##### **IBRAM05  -  Abertura dos dados do Pontos de Memória**
+* ##### **IBRAM05  -  Pontos de Memória**
     **Produtos:**
     Publicação em Dados.cultura.gov.br de link para acesso à plataforma Culturabr (já construída em formato aberto). 
 
@@ -515,11 +515,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Definição do layout
     Atualização e complementação dos dados pelos Pontos de Memória
     Envio para publicação do Dados.cultura.gov.br.
-    **Frequência de Atualização:**  contínua
     **Prazo Final:** Primeira publicação: Dezembro/2017
+    Atualização contínua
     **Responsável:** IBRAM/COMUSE
 
-* ##### **IBRAM06  -  Abertura dos dados da Semana Nacional de Museus (Número de museus e municípios participantes, e eventos realizados)**
+* ##### **IBRAM06  -  Semana Nacional de Museus (Número de museus e municípios participantes, e eventos realizados)**
     **Produtos:**
     1) Planilha com dados da Semana Nacional de Museus em formato aberto
     2) Publicação dos dados
@@ -528,11 +528,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual sempre em Julho
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
+    Atualização anual sempre em Julho
     **Responsável:** IBRAM/CPGII/ DDFEM
 
-* ##### **IBRAM07  -  Abertura dos dados da Primavera dos Museus (Número de museus e municípios participantes e eventos realizados)**
+* ##### **IBRAM07  -  Primavera dos Museus (Número de museus e municípios participantes e eventos realizados)**
     **Produtos:**
     1) Planilha com dados da Primavera de Museus em formato aberto
     2) Publicação dos dados
@@ -541,11 +541,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual sempre Dezembro/ 2017.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
+    Atualização anual sempre Dezembro/ 2017.
     **Responsável:** IBRAM/CPGII/ DDFEM
 
-* ##### **IBRAM08  -  Abertura dos dados do Fórum Nacional de Museus: Número de participantes (dados da inscrição - participante, cidade/ estado, instituição em que atua, escolaridade)**
+* ##### **IBRAM08  -  Fórum Nacional de Museus: Número de participantes (dados da inscrição - participante, cidade/ estado, instituição em que atua, escolaridade)**
     **Produtos:**
     1) Planilha com dados do Fórum Nacional de Museus em formato aberto
     2) Publicação dos dados
@@ -555,11 +555,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual, sempre em dezembro.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
+    Atualização anual, sempre em dezembro.
     **Responsável:** IBRAM/CPGII/ DDFEM
 
-* ##### **IBRAM09  -  Abertura dos dados de Estatísticas do serviços de Biblioteca do IBRAM**
+* ##### **IBRAM09  -  Estatísticas do serviços de Biblioteca do IBRAM**
     **Produtos:**
     1) Planilha com estatísticas dos serviços da Biblioteca central do IBRAM em formato aberto
     2) Publicação dos dados  
@@ -569,11 +569,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos dados;
     Envio para publicação do Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual, sempre em março.
     **Prazo Final:** Primeira publicação: Mar/2018
+    Atualização anual, sempre em março.
     **Responsável:** IBRAM/CAB
 
-* ##### **IBRAM10  -  Abertura dos dados do Cadastro Nacional de Museus**
+* ##### **IBRAM10  -  Cadastro Nacional de Museus**
     **Produtos:**
     Planilha com informações cadastrais dos museus brasileiros em formato aberto
     Publicação dos dados 
@@ -582,8 +582,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Organização e padronização das planilhas para disponibilização;
     Conferência dos dados;
     Envio para publicação do Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual, sempre em março
     **Prazo Final:** Primeira publicação: Dez/2017
+    Atualização anual, sempre em março
     **Responsável:** IBRAM/CPAI
 
 * ##### **IBRAM11  -  Exposições no Brasil**
@@ -595,11 +595,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Organização e padronização das planilhas para disponibilização;
     Conferência dos dados;
     Envio para publicação do Dados.cultura.gov.br.
-    **Frequência de Atualização:**  anual, sempre em março
     **Prazo Final:** Primeira publicação: março/2018
+    Atualização anual, sempre em março
     **Responsável:** IBRAM/CPAI
 
-* ##### **IBRAM12  -  Abertura dos dados da Pesquisa de Impacto da Semana Nacional de Museus**
+* ##### **IBRAM12  -  Pesquisa de Impacto da Semana Nacional de Museus**
     **Produtos:**
     1) Planilha com dados da Pesquisa de Impacto da Semana Nacional de Museus em formato aberto
     2) Publicação dos dados
@@ -609,11 +609,11 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual, sempre em dezembro.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
+    Atualização anual, sempre em dezembro.
     **Responsável:** IBRAM/CES/ DDFEM
 
-* ##### **IBRAM13  -  Abertura dos dados da Pesquisa de Investimentos no Setor Museal**
+* ##### **IBRAM13  -  Pesquisa de Investimentos no Setor Museal**
     **Produtos:**
     1) Planilha com dados da Pesquisa de Investimento no Setor Museal em formato aberto
     2) Publicação dos dados
@@ -623,8 +623,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual, sempre em dezembro.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
+    Atualização anual, sempre em dezembro.
     **Responsável:** IBRAM/CES/ DDFEM
 
 * ##### **IBRAM14  -  Curadoria**
@@ -635,7 +635,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     Verificar, para efeitos de publicação, se os dados enviados para publicação estão de acordo com os padrões da INDA e/ou INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados e recurso);
     Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível.
-    Coordenar o processo de catalogação
+    Coordenar o processo de catalogação.
     **Prazo Final:** Durante toda a vigência do PDA
     **Responsável:** IBRAM/CTINF
 
