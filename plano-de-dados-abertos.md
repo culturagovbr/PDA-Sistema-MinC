@@ -658,6 +658,48 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Durante toda a vigência do PDA
     **Responsável:** IBRAM/Setorial
 
+##### FBN
+
+* ##### **FBN01 - Abertura dos dados da base Real Biblioteca**
+    A Real Biblioteca teve origem na Livraria do rei D. José, refeita após o grande terremoto de 1755, em Lisboa. Sob orientação do Abade Diogo Barbosa Machado, novas coleções foram incorporadas ao que restou da biblioteca incendiada, como a do próprio Barbosa Machado, as coleções de Francisco José da Serra, Brunelli, Simoni, arquiteto José da Costa e Silva e outros. Com a vinda de D. João e sua corte em 1808 para o Brasil, a Real Biblioteca foi embalada para ser encaminhada ao mesmo destino da família real. Este conjunto de dados é referente a descrição bibliográfica dos volumes já identificados pertencentes à Coleção Real Biblioteca.
+
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
+    **Frequência de Atualização:** estático (única vez)
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** FBN
+
+* ##### **FBN02 - Abertura dos dados da base Divisão de Informação Documental (DINF)**
+    A Divisão de Informação Documental – DINF – é responsável pelo atendimento dos pesquisadores residentes fora da região metropolitana do Rio de Janeiro.  Esses pesquisadores, em sua maioria universitários, pós-graduandos e doutorandos, atendidos à distância, solicitam pesquisas no acervo da instituição e a partir dos levantamentos e compilações realizadas em atendimento a estas demandas foi criada uma base de dados com referências bibliográficas dos vários acervos da FBN, inclusive periódicos, e com assuntos variados. O Catálogo de Registros Bibliográficos – Biblio DINF – reúne hoje cerca de 65.000 registros em sua base de dados.
+
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
+    **Frequência de Atualização:** estático (única vez)
+    **Prazo Final:** Fevereiro de 2018
+    **Responsável:** FBN
+
+* ##### **FBN03 - Abertura dos dados da  base Mário Pedrosa**
+    O arquivo pessoal de Mário Pedrosa é composto por correspondências com diversas personalidades como André Breton e várias gerações de artistas brasileiros e internacionais, documentos pessoais, documentos administrativos, palestras, projetos, documentos dos exílios e sobre a censura, fichas de aulas, recortes de jornais, convites de exposições, mensagens cifradas enviadas a líderes soviéticos, termo de adesão ao Partido dos Trabalhadores, projeto do Museu das Origens, etc. Livros, periódicos e documentos iconográficos podem ser localizados nas respectivas áreas de guarda. O acervo total está estimado em cerca de 23 mil peças. Este conjunto de dados é referente a descrição bibliográfica dos documentos doados pela Família de Mario Pedrosa sob a guarda da Biblioteca Nacional.
+
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
+    **Frequência de Atualização:** estático (única vez)
+    **Prazo Final:** Abril de 2018
+    **Responsável:** FBN
+
+* ##### **FBN04 - Abertura dos dados da base Slave Trade**
+    A Biblioteca Nacional guarda um grande número de documentos sobre tráfico de escravos e escravidão. São mapas estatísticos, correspondência, gravuras e desenhos, periódicos, livros raros, material informativo arquivado de acordo com sua característica nos setores de Manuscritos, Iconografia, Periódicos, Obras Raras e Obras Gerais. Este conjunto de dados é referente a descrição bibliográfica dos documentos identificados e selecionados pelo projeto Slave Trade, parte de um projeto global patrocinado pela UNESCO.
+
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
+    **Frequência de Atualização:** estático (única vez)
+    **Prazo Final:** Junho de 2018
+    **Responsável:** FBN
+
+* ##### **FBN05 - Abertura dos dados da base Memória dos Presidentes**
+    A Lei nº 8.394, de 30 de dezembro de 1991, que dispõe sobre a preservação, organização e proteção dos acervos documentais privados dos presidentes da República, determina que estes acervos integrem o patrimônio cultural brasileiro e cria, para sua proteção, o SISTEMA DOS ACERVOS DOCUMENTAIS PRIVADOS DOS PRESIDENTES DA REPÚBLICA. Este conjunto de dados é referente ao levantamento dos acervos privados do Presidentes da República no âmbito da FBN.
+
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
+    **Frequência de Atualização:** estático (única vez)
+    **Prazo Final:** Agosto de 2018
+    **Responsável:** FBN
+  
 ----------
 
 
