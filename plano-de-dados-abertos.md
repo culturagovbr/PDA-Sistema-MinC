@@ -376,7 +376,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Junho de 2017
     **Responsável:** Funarte e OUV/MinC
 
-* ##### **MINC15 - Planejamento das Iniciativas de Dados Abertos da FBN**
+* ##### **MINC15 - Planejamento das Iniciativas de Dados Abertos da Fundação Biblioteca Nacional - FBN**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
 
     **Atividades:**  
@@ -385,7 +385,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Agosto de 2017
     **Responsável:** FBN e OUV/MinC
 
-* ##### **MINC16 - Planejamento das Iniciativas de Dados Abertos da FCRB**
+* ##### **MINC16 - Planejamento das Iniciativas de Dados Abertos da Fundação Casa de Rui Barbosa - FCRB**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Casa de Rui Barbosa - FCRB.
 
     **Atividades:**  
@@ -398,7 +398,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 #### Ações das Entidades Vinculadas:
 
-##### Funarte
+##### Fundação Nacional de Artes - Funarte
 
 * ##### **FUNARTE01 - Abertura dos dados do Mapa do teatro**
     Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil", os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
@@ -452,7 +452,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Dezembro de 2017
     **Responsável:** Funarte
 
-##### IBRAM
+##### Instituto Brasileiro de Museus - IBRAM
 
 * ##### **IBRAM01  -  Abertura dos dados do Formulário de Visitação Anual (FVA)**
     **Produtos:**
@@ -658,7 +658,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Durante toda a vigência do PDA
     **Responsável:** IBRAM/Setorial
 
-##### FBN
+##### Fundação Biblioteca Nacional - FBN
 
 * ##### **FBN01 - Abertura dos dados da base Real Biblioteca**
     A Real Biblioteca teve origem na Livraria do rei D. José, refeita após o grande terremoto de 1755, em Lisboa. Sob orientação do Abade Diogo Barbosa Machado, novas coleções foram incorporadas ao que restou da biblioteca incendiada, como a do próprio Barbosa Machado, as coleções de Francisco José da Serra, Brunelli, Simoni, arquiteto José da Costa e Silva e outros. Com a vinda de D. João e sua corte em 1808 para o Brasil, a Real Biblioteca foi embalada para ser encaminhada ao mesmo destino da família real. Este conjunto de dados é referente a descrição bibliográfica dos volumes já identificados pertencentes à Coleção Real Biblioteca.
