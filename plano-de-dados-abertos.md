@@ -1,7 +1,7 @@
 **Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
 ----------
 
-Versão [1.3.0](https://github.com/culturagovbr/PDA-Sistema-MinC/releases/tag/v1.3.0) de novembro/17 - Vigência 2017/2018
+Versão [1.4.0](https://github.com/culturagovbr/PDA-Sistema-MinC/releases/tag/v1.3.0) de novembro/17 - Vigência 2017/2018
 
 
 ## **Sumário**
@@ -429,6 +429,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     * Prêmio Funarte Carequinha de Estímulo ao Circo
     * Prêmio Funarte de Teatro Myriam Muniz
     * Prêmio Funarte de Dança Klauss Vianna
+    * Prêmio Funarte Artes na Rua (Circo, Dança e Teatro)
+    * Mostra Funarte de Festivais (Circo, Dança e Teatro) - Olimpíadas/2016
+    * Circuito Funarte Cena Pública - Olimpíadas/2016
 
     **Atividades:**
     a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)
