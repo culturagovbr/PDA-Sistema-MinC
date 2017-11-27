@@ -737,6 +737,41 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Outubro de 2019
     **Responsável:** ANCINE/SAM/COB, GTI e responsável setorial
 
+* ##### **ANCINE06 - Implantação da seção de dados abertos em ambiente de produção**
+    Acesso restrito à rede interna da ANCINE para testes e validações dos conjuntos de dados indexados e arquivos.
+
+    **Atividades:** Seção disponibilizada em ambiente de produção, restrita à rede interna.
+    **Prazo Final:** Novembro de 2017
+    **Responsável:** ANCINE/GTI/CIS
+
+* ##### **ANCINE07 - Indexação e disponibilização em formato aberto da seção de Dados Abertos do OCA**
+    A primeira disponibilização ocorrerá em, no máximo, 1 ano após a publicação do PDA e será executada continuamente.
+
+    **Atividades:** Publicação dos metadados e dos arquivos.
+    **Prazo Final:** Outubro de 2018
+    **Responsável:** ANCINE/SAM/COB
+
+* ##### **ANCINE08 - Definição da licença de dados abertos**
+    A GTI apresentará estudo com as opções de licenças para auxiliar a definição.
+
+    **Atividades:** Licença definida.
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI
+
+* ##### **ANCINE09 - Disponibilização da seção de dados abertos ao público externo**
+    Em até 1 ano da data de publicação do PDA haverá a primeira disponibilização de dados ao público externo. A totalidade das bases serão disponibilizadas na seção para acesso ao público externo até o fim da vigência do Plano.
+
+    **Atividades:** Seção de dados abertos do OCA liberada ao público externo.
+    **Prazo Final:** Outubro de 2018
+    **Responsável:** ANCINE/SAM/COB e GTI
+
+* ##### **ANCINE10 - Disponibilização dos dados abertos nos portais de governo.**
+    Em até 1 ano da data de publicação do PDA haverá a primeira disponibilização de dados nos portais de governo. A totalidade das bases serão disponibilizadas até o fim da vigência do Plano.
+
+    **Atividades:** Publicação dos dados e dos metadados nos portais de dados abertos do Governo.
+    **Prazo Final:** Outubro de 2018
+    **Responsável:** ANCINE/SEC/CGI e GTI 
+
 ----------  
 ## **VIII ) Disposições Finais**
 
