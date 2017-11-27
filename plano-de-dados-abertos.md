@@ -393,7 +393,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR
     **Prazo Final:** Agosto de 2017
     **Responsável:** FCBR e OUV/MinC
-    
+
 ----------
 
 #### Ações das Entidades Vinculadas:
@@ -461,7 +461,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Produtos:**
     1) Planilha com dados de visitação anual dos museus brasileiros em formato aberto
     2) Publicação dos dados
- 
+
     **Atividades:**
     Limpeza e ajuste do banco de dados para disponibilização;
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
@@ -475,19 +475,19 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Produtos:**
     1) Planilha com dados de visitação mensal dos museus do Ibram em formato aberto
     2) Publicação dos dados
- 
+
     **Atividades:**
     Limpeza e ajuste do banco de dados para disponibilização;
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
     Envio para publicação no Dados.cultura.gov.br.
     **Frequência de Atualização:** Atualização semestral, sempre em março e agosto.
-    **Prazo Final:** Primeira publicação: Dezembro/2017 
+    **Prazo Final:** Primeira publicação: Dezembro/2017
     **Responsável:** IBRAM/CPAI
 
 * ##### **IBRAM03  -  Catalogação Museusbr**
     **Produtos:**
-    Publicação de link em Dados.cultura.gov.br para acesso à plataforma Museusbr (já construída em formato aberto). 
+    Publicação de link em Dados.cultura.gov.br para acesso à plataforma Museusbr (já construída em formato aberto).
 
     **Atividades:**
     Ajustes na ferramenta tecnológica para possibilitar download de dados em formato aberto;
@@ -500,10 +500,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 * ##### **IBRAM04  -  Abertura dos dados do Cadastro de Bens Culturais Musealizados Desaparecidos - CBMD**
     **Produtos:**
-    Lista de bens culturais musealizados desaparecidos – CBMD publicados em Dados.cultura.gov.br 
+    Lista de bens culturais musealizados desaparecidos – CBMD publicados em Dados.cultura.gov.br
 
     **Atividades:**
-    Solicitação à CTINF para geração de relatório a partir da indicação dos campos. 
+    Solicitação à CTINF para geração de relatório a partir da indicação dos campos.
     Conferência dos Dados
     Envio para publicação no Dados.cultura.gov.br.
     **Frequência de Atualização:** Anual - dezembro.
@@ -512,7 +512,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 * ##### **IBRAM05  -  Abertura dos dados do Pontos de Memória**
     **Produtos:**
-    Publicação em Dados.cultura.gov.br de link para acesso à plataforma Culturabr (já construída em formato aberto). 
+    Publicação em Dados.cultura.gov.br de link para acesso à plataforma Culturabr (já construída em formato aberto).
 
     **Atividades:**
     Inclusão dos dados na plataforma Culturabr
@@ -527,7 +527,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Produtos:**
     1) Planilha com dados da Semana Nacional de Museus em formato aberto
     2) Publicação dos dados
- 
+
     **Atividades:**
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
@@ -540,7 +540,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Produtos:**
     1) Planilha com dados da Primavera de Museus em formato aberto
     2) Publicação dos dados
- 
+
     **Atividades:**
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
     Conferência dos Dados;
@@ -553,7 +553,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Produtos:**
     1) Planilha com dados do Fórum Nacional de Museus em formato aberto
     2) Publicação dos dados
- 
+
     **Atividades:**
     Limpeza e ajuste das tabelas para disponibilização;
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
@@ -580,7 +580,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 * ##### **IBRAM10  -  Abertura dos dados do Cadastro Nacional de Museus**
     **Produtos:**
     Planilha com informações cadastrais dos museus brasileiros em formato aberto
-    Publicação dos dados 
+    Publicação dos dados
 
     **Atividades:**
     Organização e padronização das planilhas para disponibilização;
@@ -593,7 +593,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 * ##### **IBRAM11  -  Exposições no Brasil**
     **Produtos:**
     1) Planilha com informações sobre exposições realizadas no Brasil em formato aberto
-    2) Publicação dos dados 
+    2) Publicação dos dados
 
     **Atividades:**
     Organização e padronização das planilhas para disponibilização;
@@ -607,7 +607,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Produtos:**
     1) Planilha com dados da Pesquisa de Impacto da Semana Nacional de Museus em formato aberto
     2) Publicação dos dados
- 
+
     **Atividades:**
     Limpeza e ajuste das tabelas para disponibilização;
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
@@ -621,7 +621,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Produtos:**
     1) Planilha com dados da Pesquisa de Investimento no Setor Museal em formato aberto
     2) Publicação dos dados
- 
+
     **Atividades:**
     Limpeza e ajuste das tabelas para disponibilização;
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
@@ -634,7 +634,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 * ##### **IBRAM14  -  Curadoria**
     **Produtos:**
     Curadoria permanente;
-    Cadastro dos mantenedores dos metadados no portal (DTI). 
+    Cadastro dos mantenedores dos metadados no portal (DTI).
 
     **Atividades:**
     Verificar, para efeitos de publicação, se os dados enviados para publicação estão de acordo com os padrões da INDA e/ou INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados e recurso);
@@ -645,7 +645,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 * ##### **IBRAM15  -  Monitoramento e Controle**
     **Produtos:**
-    Relatório de acompanhamento 
+    Relatório de acompanhamento
 
     **Atividades:**
     Acompanhamento do cumprimento do plano de ação do IBRAM para abertura de dados, bem como atualização de suas metas, prazos, indicadores e produtos.
@@ -654,7 +654,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 * ##### **IBRAM16  -  Participação Social**
     **Produtos:**
-    Dirimir dúvidas e enviar as sugestões recebidas para as áreas. 
+    Dirimir dúvidas e enviar as sugestões recebidas para as áreas.
 
     **Atividades:**
     Receber os pedidos de informação dos usuários pelos canais de comunicação do IBRAM.
@@ -702,10 +702,80 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Frequência de Atualização:** estático (única vez)
     **Prazo Final:** Agosto de 2018
     **Responsável:** FBN
-  
-----------
 
+##### Agência Nacional do Cinema - ANCINE
 
+* ##### **ANCINE01 - Disponibilização de parte do conteúdo publicado no portal do OCA também em formato não proprietário**
+    Uma parcela dos dados publicados antes da vigência do PDA será disponibilizada em formato não proprietário. A atividade será finalizada em até 1 ano da data de publicação do PDA. Somente serão selecionados os documentos disponibilizados em planilhas e aqueles em que não haja análise da ANCINE.
+
+    **Atividades:** Publicação dos arquivos no portal do OCA.
+    **Prazo Final:** Outubro de 2018
+    **Responsável:** ANCINE/SAM/COB
+
+* ##### **ANCINE02 - Priorização dos conjuntos de dados a serem abertos**
+    A definição do que é importante está relacionada ao valor percebido pelo consumidor dos dados e ao prazo para disponibilização dos dados.
+
+    **Atividades:** Ordem de prioridade definida.
+    **Prazo Final:** Novembro de 2017
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI
+
+* ##### **ANCINE03 - Detalhamento dos conjuntos de dados selecionados para abertura**
+    Os dados devem estar em seu formato mais bruto possível, ou seja, sem cruzamentos ou agregações.
+
+    **Atividades:** Indicação dos campos e origem de cada conjunto de dados.
+    **Prazo Final:** Abril de 2018
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB, GTI e responsável setorial
+
+* ##### **ANCINE04 - Definição dos formatos de dados abertos**
+    A decisão do formato deve ser baseada no equilíbrio entre as limitações de infraestrutura e a quantidade de valor agregado desejado para os dados.
+
+    **Atividades:** Formatos definidos.
+    **Prazo Final:** Novembro de 2017
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI
+
+* ##### **ANCINE05 - Preparação, validação e criação da arquitetura de extração de dados abertos**
+    Antes que os dados sejam preparados e efetivamente publicados, é preciso encontrá-los, mapeá-los, simplificá-los e criar uma arquitetura técnica referencial para extração dos dados armazenados em bancos de dados ou sistemas. A arquitetura de extração poderá ser implementada de modo contínuo e incremental, por meio da disponibilização de módulos incrementais de dados abertos.
+
+    **Atividades:** Conjuntos de dados em formato aberto.
+    **Prazo Final:** Outubro de 2019
+    **Responsável:** ANCINE/SAM/COB, GTI e responsável setorial
+
+* ##### **ANCINE06 - Implantação da seção de dados abertos em ambiente de produção**
+    Acesso restrito à rede interna da ANCINE para testes e validações dos conjuntos de dados indexados e arquivos.
+
+    **Atividades:** Seção disponibilizada em ambiente de produção, restrita à rede interna.
+    **Prazo Final:** Novembro de 2017
+    **Responsável:** ANCINE/GTI/CIS
+
+* ##### **ANCINE07 - Indexação e disponibilização em formato aberto da seção de Dados Abertos do OCA**
+    A primeira disponibilização ocorrerá em, no máximo, 1 ano após a publicação do PDA e será executada continuamente.
+
+    **Atividades:** Publicação dos metadados e dos arquivos.
+    **Prazo Final:** Outubro de 2018
+    **Responsável:** ANCINE/SAM/COB
+
+* ##### **ANCINE08 - Definição da licença de dados abertos**
+    A GTI apresentará estudo com as opções de licenças para auxiliar a definição.
+
+    **Atividades:** Licença definida.
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI
+
+* ##### **ANCINE09 - Disponibilização da seção de dados abertos ao público externo**
+    Em até 1 ano da data de publicação do PDA haverá a primeira disponibilização de dados ao público externo. A totalidade das bases serão disponibilizadas na seção para acesso ao público externo até o fim da vigência do Plano.
+
+    **Atividades:** Seção de dados abertos do OCA liberada ao público externo.
+    **Prazo Final:** Outubro de 2018
+    **Responsável:** ANCINE/SAM/COB e GTI
+
+* ##### **ANCINE10 - Disponibilização dos dados abertos nos portais de governo.**
+    Em até 1 ano da data de publicação do PDA haverá a primeira disponibilização de dados nos portais de governo. A totalidade das bases serão disponibilizadas até o fim da vigência do Plano.
+
+    **Atividades:** Publicação dos dados e dos metadados nos portais de dados abertos do Governo.
+    **Prazo Final:** Outubro de 2018
+    **Responsável:** ANCINE/SEC/CGI e GTI 
+
+----------  
 ## **VIII ) Disposições Finais**
 
 O Plano de Dados Abertos do Ministério da Cultura será revisado a cada 6 (seis) meses, ou quando houver necessidade.
