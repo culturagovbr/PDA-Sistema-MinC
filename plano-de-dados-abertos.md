@@ -702,6 +702,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 ##### Agência Nacional do Cinema - ANCINE
 
+- https://www.ancine.gov.br/sites/default/files/PDA%20ANCINE%202017-VF.pdf
+
 * ##### **ANCINE01 - Disponibilização de parte do conteúdo publicado no portal do OCA também em formato não proprietário**
     Uma parcela dos dados publicados antes da vigência do PDA será disponibilizada em formato não proprietário. A atividade será finalizada em até 1 ano da data de publicação do PDA. Somente serão selecionados os documentos disponibilizados em planilhas e aqueles em que não haja análise da ANCINE.
 
