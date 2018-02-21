@@ -1,7 +1,7 @@
 **Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
 ----------
 
-Versão [1.5.0](https://github.com/culturagovbr/PDA-Sistema-MinC/releases/tag/v1.5.0) de novembro/17 - Vigência 2017/2018
+Versão [1.6.0](https://github.com/culturagovbr/PDA-Sistema-MinC/releases/tag/v1.6.0) de fevereiro/18 - Vigência 2017/2018
 
 
 ## **Sumário**
