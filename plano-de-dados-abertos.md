@@ -777,6 +777,40 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Outubro de 2018
     **Responsável:** ANCINE/SEC/CGI e GTI 
 
+##### Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN
+
+- http://links.iphan.gov.br/pda
+
+* ##### **IPHAN01 - Aprovar o plano de dados abertos**
+
+    **Atividades:** Elaborar minuta, Aprovar minuta, Publicar o Plano, Executar o Plano de ação
+    **Prazo Final:** Outubro de 2017
+    **Responsável:** CGTI, SIC, COGESTI, GABINETE
+
+* ##### **IPHAN02 - Definir pontos focais**
+
+    **Atividades:** Solicitar indicação de pontos focais nos Departamentos, Realizar Oficinas de ação para abertura de dados
+    **Prazo Final:** Julho de 2017
+    **Responsável:** COGESTI
+
+* ##### **IPHAN03 - Disponibilizar infraestrutura tecnológica para abertura de dados**
+
+    **Atividades:** Criar URL fixa para abertura de dados, Criar página de dados abertos no site institucional
+    **Prazo Final:** Julho de 2017
+    **Responsável:** CGTI
+
+* ##### **IPHAN04 - Definir os dados a serem abertos**
+
+    **Atividades:** Inventariar bases de dados, realiar diagnóstico nas bases de dados, definir escopo dos dados a serem abertos, construir e executar processo de extração e carga dos dados
+    **Prazo Final:** Julho de 2017
+    **Responsável:** CGTI
+
+* ##### **IPHAN05 - Publicar os dados selecionados**
+
+    **Atividades:** Analisar os dados a serem abertos para validação, Converter dados em formatos abertos, Catalogar dados no Portal de Dados Abertos, Sustentar dados publicados
+    **Prazo Final:** Conforme cronograma de abertura de cada base
+    **Responsável:** CGTI
+
 ----------  
 ## **VIII ) Disposições Finais**
 
