@@ -237,26 +237,26 @@ Além da abertura de bases de dados, faz parte da estratégia a realização de 
 O portal de dados abertos do MinC em **versão beta já está disponível** no endereço http://dados.cultura.gov.br e ganhará uma nova interface de navegação voltada aos desenvolvedores de software e demais especialistas em manipulação de dados.  
 
    **Atividades:**
-        a) Customizar Arquitetura da informação e Identidade visual do Portal
-        b) Realizar treinamento com administradores do Portal
-        c) Planejar formulação de termo de uso dos dados
+        a) Customizar Arquitetura da informação e Identidade visual do Portal    
+        b) Realizar treinamento com administradores do Portal     
+        c) Planejar formulação de termo de uso dos dados     
     **Etapas:**
-        - Ajustar e corrigir registros no catálogo do portal beta
-        - Desenvolvimento e Aplicação da Identidade Visual
-    **Prazo Final:** Setembro de 2017
-    **Responsável:** CGTEC
+        - Ajustar e corrigir registros no catálogo do portal beta     
+        - Desenvolvimento e Aplicação da Identidade Visual     
+    **Prazo Final:** Setembro de 2017     
+    **Responsável:** CGTEC     
 
 * ##### **MINC02 - Abertura de Dados do SALIC**
 A API permitirá acesso aos principais dados relativos à execução  da política federal de incentivo cultural, a Lei Rouanet. Serão disponibilizados os dados de Proponentes e Incentivadores, além das Propostas e Projetos com alto teor de detalhamento. A API permitirá consultas avançadas, ordenação dos resultados, navegação paginada e acesso aos recursos em vários formatos (JSON, CSV e XML).
 
    **Atividades:**
-    a) Desenvolvimento da API de Dados Abertos do Salic
+    a) Desenvolvimento da API de Dados Abertos do Salic     
     **Etapas:**
-        - Desenvolvimento da 1ª versão da API
-        - Catalogação dos Dados no Portal de Dados Abertos da Cultura
-    **Frequência de Atualização:** Em tempo real
-    **Prazo Final:** Maio de 2017
-    **Responsável:** SEFIC e CGTEC
+        - Desenvolvimento da 1ª versão da API     
+        - Catalogação dos Dados no Portal de Dados Abertos da Cultura    
+    **Frequência de Atualização:** Em tempo real    
+    **Prazo Final:** Maio de 2017    
+    **Responsável:** SEFIC e CGTEC    
 
 Resultado: [http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet](http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet)
 
@@ -267,34 +267,34 @@ A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dado
     a) Revisar modelo de abertura de dados do Vale Cultura
     b) Evolução da API de dados abertos do Vale Cultura
     c) Atualização da catalogação no Portal de Dados Abertos da Cultura
-    **Frequência de Atualização:** Em tempo real
-    **Prazo Final:** Dezembro de 2017
-    **Responsável:** SEFIC e CGTEC
+    **Frequência de Atualização:** Em tempo real    
+    **Prazo Final:** Dezembro de 2017    
+    **Responsável:** SEFIC e CGTEC     
 
 * ##### **MINC04 - Abertura de Dados do Mapa da Cultura - SNIIC**
 O Mapa da Cultura é um espaço para integrar e dar visibilidade à projetos, artistas, espaços, eventos culturais e seus produtores. Ele se propõe a ser a principal base de informações e para formulação de indicadores do Ministério da Cultura, agregando cadastros de diferentes programas e ações.
 O Mapa, disponível em http://mapas.cultura.gov.br, faz uso do software livre [Mapas Culturais](https://institutotim.org.br/project/mapas-culturais/)  que disponibiliza uma API nativa de acesso aberto aos dados. O objetivo desta ação é catalogar o conjunto de dados no portal de dados abertos da cultura, dando maior visibilidade e potencializando o valor destes dados.
 
    **Atividades:**  
-    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
-    **Frequência de Atualização:** tempo real
-    **Prazo Final:** Junho de 2017
-    **Responsável:** CGEST e CGTEC
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura    
+    **Frequência de Atualização:** tempo real    
+    **Prazo Final:** Junho de 2017    
+    **Responsável:** CGEST e CGTEC    
 
 * ##### **MINC05 - Publicação da 1ª versão da Ontologia da Gestão Cultural**
 A [Ontologia da Gestão Cultural](#v-ontologia-da-gestão-cultural) vem sendo desenvolvida por um Grupo de Trabalho multirepresentada e publicará a primeira versão no primeiro semestre de 2017. Esta ação prevê também a incorporação desta ontologia no software Mapas Culturais.
 
    **Atividades:**  
-    a) Publicar na Web documentação e OWL da Ontologia
-    b) Implementar Ontologia nativamente no Mapas Culturais
-    **Prazo Final:** Junho de 2017
-    **Responsável:** CGEST e CGTEC
+    a) Publicar na Web documentação e OWL da Ontologia    
+    b) Implementar Ontologia nativamente no Mapas Culturais     
+    **Prazo Final:** Junho de 2017     
+    **Responsável:** CGEST e CGTEC    
 
 * ##### **MINC06 - Abertura de Dados da Plataforma Rede Cultura Viva**
 A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultura-viva/) é sustentada essencialmente por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
    **Atividades:**  
-    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura     
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Junho de 2017
     **Responsável:** SCDC e CGTEC
@@ -303,7 +303,7 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
  O [SNBP](http://snbp.culturadigital.br/) possui um [Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
    **Atividades:**  
-    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura    
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Junho de 2017
     **Responsável:** DLLLB e CGTEC
@@ -312,8 +312,8 @@ A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultu
 O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://snc.cultura.gov.br/) que já disponibiliza os dados do cadastro em formato CSV e ODS.  O objetivo desta ação é o de ampliar os dados disponíveis e catalogar os metadados e documentações no portal de dados abertos da cultura.
 
   **Atividades:**  
-    a) Desenvolver novo modelo de abertura de Dados
-    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    a) Desenvolver novo modelo de abertura de Dados     
+    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura      
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Setembro de 2017
     **Responsável:** SADI e CGTEC
@@ -322,8 +322,8 @@ O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://
 A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada orientada a serviço de dados. Na prática o sistema já possui API de dados abertos. Nesse sentido o objetivo desta Ação é o de catalogar este conjunto de dados no portal de Dados da Cultura.
 
   **Atividades:**  
-    a) Criação de documentação e demais recursos para reuso dos dados
-    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    a) Criação de documentação e demais recursos para reuso dos dados     
+    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura     
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Agosto de 2017
     **Responsável:** SEINFRA e CGTEC
@@ -331,9 +331,9 @@ A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada or
 * ##### **MINC10 - Abertura de Dados do Processo Eleitoral CNPC - 2015**
 Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC através da [plataforma online](http://www.cultura.gov.br/votacultura/) que contou com mais de 70 mil eleitores. A plataforma online também possibilitou debates entre candidatos e eleitores.
 
-  **Atividades:**  
-    a) Preparar e publicar dados e dicionário de dados
-    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+  **Atividades:**    
+    a) Preparar e publicar dados e dicionário de dados    
+    b) Catalogação dos Dados no Portal de Dados Abertos da Cultura      
     **Frequência de Atualização:** dados estáticos (2015)
     **Prazo Final:** Junho de 2017
     **Responsável:** SADI e CGTEC
@@ -342,7 +342,7 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
 O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
   **Atividades:**  
-    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura     
     **Frequência de Atualização:** tempo real
     **Prazo Final:** Junho de 2017
     **Responsável:** IBRAM e CGTEC/MinC
@@ -353,8 +353,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
   Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente ao Instituto Brasileiro de Museus - IBRAM.
 
   **Atividades:**  
-  a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-  b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pelo IBRAM
+  a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações      
+  b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pelo IBRAM      
   **Prazo Final:** Julho de 2017
   **Responsável:** IBRAM e OUV/MinC
 
@@ -362,8 +362,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Agência Nacional de Cinema - ANCINE.
 
     **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela ANCINE
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações     
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela ANCINE       
     **Prazo Final:** Agosto de 2017
     **Responsável:** ANCINE e OUV/MinC
 
@@ -371,8 +371,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Nacional das Artes - Funarte.
 
     **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela Funarte
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações     
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela Funarte      
     **Prazo Final:** Junho de 2017
     **Responsável:** Funarte e OUV/MinC
 
@@ -380,8 +380,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
 
     **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações     
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN       
     **Prazo Final:** Agosto de 2017
     **Responsável:** FBN e OUV/MinC
 
@@ -412,9 +412,15 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Responsável:** Funarte
 
 * ##### **FUNARTE02 - Publicação dos dados do Mapa da música**
-    Publicação dos cadastros de bandas, orquestras musicais, escolas de música, associações e sociedades de música.
+    Publicação dosseguintes conjuntos de dados: 
+    * Bandas
+    * Orquestras musicais
+    * Escolas de música
+    * Associações e sociedades de música.
 
     **Atividades:**
+    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)     
+    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo     
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
     **Frequência de Atualização:** anual.
