@@ -240,7 +240,7 @@ O portal de dados abertos do MinC em **versão beta já está disponível** no e
         a) Customizar Arquitetura da informação e Identidade visual do Portal    
         b) Realizar treinamento com administradores do Portal     
         c) Planejar formulação de termo de uso dos dados     
-    **Etapas:**
+    **Etapas:**       
         - Ajustar e corrigir registros no catálogo do portal beta     
         - Desenvolvimento e Aplicação da Identidade Visual     
     **Prazo Final:** Setembro de 2017     
@@ -249,13 +249,13 @@ O portal de dados abertos do MinC em **versão beta já está disponível** no e
 * ##### **MINC02 - Abertura de Dados do SALIC**
 A API permitirá acesso aos principais dados relativos à execução  da política federal de incentivo cultural, a Lei Rouanet. Serão disponibilizados os dados de Proponentes e Incentivadores, além das Propostas e Projetos com alto teor de detalhamento. A API permitirá consultas avançadas, ordenação dos resultados, navegação paginada e acesso aos recursos em vários formatos (JSON, CSV e XML).
 
-   **Atividades:**
+   **Atividades:**      
     a) Desenvolvimento da API de Dados Abertos do Salic     
-    **Etapas:**
-        - Desenvolvimento da 1ª versão da API     
+    **Etapas:**      
+        - Desenvolvimento da 1ª versão da API      
         - Catalogação dos Dados no Portal de Dados Abertos da Cultura    
     **Frequência de Atualização:** Em tempo real    
-    **Prazo Final:** Maio de 2017    
+    **Prazo Final:** Maio de 2017     
     **Responsável:** SEFIC e CGTEC    
 
 Resultado: [http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet](http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet)
@@ -263,13 +263,13 @@ Resultado: [http://dados.cultura.gov.br/dataset/incentivos-da-lei-rouanet](http:
 * ##### **MINC03 - Abertura de Dados do Vale Cultura**
 A primeira atividade desta ação tem por objetivo detalhar os conjuntos de dados que serão ser abertos, levando em consideração o parecer nº 486/2016/CONJUR-MinC/CGU/AGU que trata sobre a abertura de dados das empresas beneficiárias da política.
 
-   **Atividades:**  
-    a) Revisar modelo de abertura de dados do Vale Cultura
-    b) Evolução da API de dados abertos do Vale Cultura
-    c) Atualização da catalogação no Portal de Dados Abertos da Cultura
-    **Frequência de Atualização:** Em tempo real    
-    **Prazo Final:** Dezembro de 2017    
-    **Responsável:** SEFIC e CGTEC     
+   **Atividades:**    
+    a) Revisar modelo de abertura de dados do Vale Cultura        
+    b) Evolução da API de dados abertos do Vale Cultura    
+    c) Atualização da catalogação no Portal de Dados Abertos da Cultura      
+    **Frequência de Atualização:** Em tempo real       
+    **Prazo Final:** Dezembro de 2017     
+    **Responsável:** SEFIC e CGTEC      
 
 * ##### **MINC04 - Abertura de Dados do Mapa da Cultura - SNIIC**
 O Mapa da Cultura é um espaço para integrar e dar visibilidade à projetos, artistas, espaços, eventos culturais e seus produtores. Ele se propõe a ser a principal base de informações e para formulação de indicadores do Ministério da Cultura, agregando cadastros de diferentes programas e ações.
@@ -284,39 +284,39 @@ O Mapa, disponível em http://mapas.cultura.gov.br, faz uso do software livre [M
 * ##### **MINC05 - Publicação da 1ª versão da Ontologia da Gestão Cultural**
 A [Ontologia da Gestão Cultural](#v-ontologia-da-gestão-cultural) vem sendo desenvolvida por um Grupo de Trabalho multirepresentada e publicará a primeira versão no primeiro semestre de 2017. Esta ação prevê também a incorporação desta ontologia no software Mapas Culturais.
 
-   **Atividades:**  
-    a) Publicar na Web documentação e OWL da Ontologia    
-    b) Implementar Ontologia nativamente no Mapas Culturais     
-    **Prazo Final:** Junho de 2017     
-    **Responsável:** CGEST e CGTEC    
+   **Atividades:**    
+    a) Publicar na Web documentação e OWL da Ontologia     
+    b) Implementar Ontologia nativamente no Mapas Culturais      
+    **Prazo Final:** Junho de 2017      
+    **Responsável:** CGEST e CGTEC     
 
 * ##### **MINC06 - Abertura de Dados da Plataforma Rede Cultura Viva**
 A Plataforma da [Rede Cultura Viva](http://culturaviva.gov.br/sobre-a-rede-cultura-viva/) é sustentada essencialmente por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
-   **Atividades:**  
-    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura     
-    **Frequência de Atualização:** tempo real
-    **Prazo Final:** Junho de 2017
-    **Responsável:** SCDC e CGTEC
+   **Atividades:**    
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura       
+    **Frequência de Atualização:** tempo real       
+    **Prazo Final:** Junho de 2017         
+    **Responsável:** SCDC e CGTEC        
 
 * ##### **MINC07 - Abertura de Dados do Sistema Nacional de Bibliotecas Públicas - SNBP**
  O [SNBP](http://snbp.culturadigital.br/) possui um [Cadastro Nacional de Bibliotecas](http://bibliotecas.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
    **Atividades:**  
-    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura    
-    **Frequência de Atualização:** tempo real
-    **Prazo Final:** Junho de 2017
-    **Responsável:** DLLLB e CGTEC
+    a) Catalogação dos Dados no Portal de Dados Abertos da Cultura     
+    **Frequência de Atualização:** tempo real         
+    **Prazo Final:** Junho de 2017       
+    **Responsável:** DLLLB e CGTEC         
 
 * ##### **MINC08 - Abertura de Dados do Sistema Nacional de Cultura - SNC**
 O [SNC](http://www.cultura.gov.br/snc) possui um [Plataforma de Gestão](http://snc.cultura.gov.br/) que já disponibiliza os dados do cadastro em formato CSV e ODS.  O objetivo desta ação é o de ampliar os dados disponíveis e catalogar os metadados e documentações no portal de dados abertos da cultura.
 
   **Atividades:**  
-    a) Desenvolver novo modelo de abertura de Dados     
+    a) Desenvolver novo modelo de abertura de Dados      
     b) Catalogação dos Dados no Portal de Dados Abertos da Cultura      
-    **Frequência de Atualização:** tempo real
-    **Prazo Final:** Setembro de 2017
-    **Responsável:** SADI e CGTEC
+    **Frequência de Atualização:** tempo real       
+    **Prazo Final:** Setembro de 2017     
+    **Responsável:** SADI e CGTEC       
 
 * ##### **MINC09 - Abertura dos Dados do Cadastro de Centros de Artes e Esportes Unificados - CEUS**
 A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada orientada a serviço de dados. Na prática o sistema já possui API de dados abertos. Nesse sentido o objetivo desta Ação é o de catalogar este conjunto de dados no portal de Dados da Cultura.
@@ -324,9 +324,9 @@ A plataforma de gestão dos CEUs foi desenvolvida sob arquitetura desacoplada or
   **Atividades:**  
     a) Criação de documentação e demais recursos para reuso dos dados     
     b) Catalogação dos Dados no Portal de Dados Abertos da Cultura     
-    **Frequência de Atualização:** tempo real
-    **Prazo Final:** Agosto de 2017
-    **Responsável:** SEINFRA e CGTEC
+    **Frequência de Atualização:** tempo real       
+    **Prazo Final:** Agosto de 2017         
+    **Responsável:** SEINFRA e CGTEC      
 
 * ##### **MINC10 - Abertura de Dados do Processo Eleitoral CNPC - 2015**
 Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC através da [plataforma online](http://www.cultura.gov.br/votacultura/) que contou com mais de 70 mil eleitores. A plataforma online também possibilitou debates entre candidatos e eleitores.
@@ -334,18 +334,18 @@ Em 2015 o MinC realizou a eleição dos conselheiros que compõem o CNPC atravé
   **Atividades:**    
     a) Preparar e publicar dados e dicionário de dados    
     b) Catalogação dos Dados no Portal de Dados Abertos da Cultura      
-    **Frequência de Atualização:** dados estáticos (2015)
-    **Prazo Final:** Junho de 2017
-    **Responsável:** SADI e CGTEC
+    **Frequência de Atualização:** dados estáticos (2015)        
+    **Prazo Final:** Junho de 2017        
+    **Responsável:** SADI e CGTEC       
 
 * ##### **MINC11 - Abertura de Dados da Plataforma Museus BR**
 O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Registro de Museus](http://museus.cultura.gov.br/) que é sustentado por uma instalação customizada do Mapas Culturais desenvolvida e mantida pelo MinC. Assim como para a Ação 04, esta ação se destina a catalogar o conjunto de dados no portal de dados abertos da cultura.
 
   **Atividades:**  
     a) Catalogação dos Dados no Portal de Dados Abertos da Cultura     
-    **Frequência de Atualização:** tempo real
-    **Prazo Final:** Junho de 2017
-    **Responsável:** IBRAM e CGTEC/MinC
+    **Frequência de Atualização:** tempo real         
+    **Prazo Final:** Junho de 2017         
+    **Responsável:** IBRAM e CGTEC/MinC           
 
 #### Ações de planejamento para as Entidades Vinculadas:
 
@@ -355,8 +355,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
   **Atividades:**  
   a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações      
   b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pelo IBRAM      
-  **Prazo Final:** Julho de 2017
-  **Responsável:** IBRAM e OUV/MinC
+  **Prazo Final:** Julho de 2017         
+  **Responsável:** IBRAM e OUV/MinC           
 
 * ##### **MINC13 - Planejamento das Iniciativas de Dados Abertos da ANCINE**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Agência Nacional de Cinema - ANCINE.
@@ -364,8 +364,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações     
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela ANCINE       
-    **Prazo Final:** Agosto de 2017
-    **Responsável:** ANCINE e OUV/MinC
+    **Prazo Final:** Agosto de 2017          
+    **Responsável:** ANCINE e OUV/MinC          
 
 * ##### **MINC14 - Planejamento das Iniciativas de Dados Abertos da Funarte**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Nacional das Artes - Funarte.
@@ -373,8 +373,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações     
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela Funarte      
-    **Prazo Final:** Junho de 2017
-    **Responsável:** Funarte e OUV/MinC
+    **Prazo Final:** Junho de 2017         
+    **Responsável:** Funarte e OUV/MinC         
 
 * ##### **MINC15 - Planejamento das Iniciativas de Dados Abertos da Fundação Biblioteca Nacional - FBN**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
@@ -382,8 +382,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações       
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN        
-    **Prazo Final:** Agosto de 2017
-    **Responsável:** FBN e OUV/MinC
+    **Prazo Final:** Agosto de 2017            
+    **Responsável:** FBN e OUV/MinC         
 
 * ##### **MINC16 - Planejamento das Iniciativas de Dados Abertos da Fundação Casa de Rui Barbosa - FCRB**
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Casa de Rui Barbosa - FCRB.
@@ -391,8 +391,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**  
     a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações    
     b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR      
-    **Prazo Final:** Agosto de 2017
-    **Responsável:** FCBR e OUV/MinC
+    **Prazo Final:** Agosto de 2017         
+    **Responsável:** FCBR e OUV/MinC       
 
 ----------
 
@@ -407,9 +407,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)    
     b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)      
     c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)     
-    **Frequência de Atualização:** inicialmente estático (única vez). Após item c, atualizaçes dinâmicas (online)
-    **Prazo Final:** Setembro de 2017
-    **Responsável:** Funarte
+    **Frequência de Atualização:** inicialmente estático (única vez). Após item c, atualizaçes dinâmicas (online)          
+    **Prazo Final:** Setembro de 2017      
+    **Responsável:** Funarte           
 
 * ##### **FUNARTE02 - Publicação dos dados do Mapa da música**
     Publicação dosseguintes conjuntos de dados:    
@@ -421,9 +421,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)     
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo     
-    **Frequência de Atualização:** anual.
-    **Prazo Final:** Outubro de 2017
-    **Responsável:** Funarte
+    **Frequência de Atualização:** anual.          
+    **Prazo Final:** Outubro de 2017        
+    **Responsável:** Funarte         
 
 * ##### **FUNARTE03 - Abertura dos dados dos editais e prêmios da Funarte**
     * Conexão Artes Visuais Funarte
@@ -441,9 +441,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)     
     b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)     
     c) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo     
-    **Frequência de Atualização:** anual.
-    **Prazo Final:** Novembro de 2017
-    **Responsável:** Funarte
+    **Frequência de Atualização:** anual.            
+    **Prazo Final:** Novembro de 2017           
+    **Responsável:** Funarte            
 
 * ##### **FUNARTE04 - Abertura do catálogo do acervo  da Funarte**
     * Cerca de 70.000 títulos distribuídos entre o Acervo geral, coleções especiais: Paschoal, Carlos Magno, João Angelo Labanca, Roberto Pontual, Roberto Wagner Pereira, Martinez Corrêa; obras raras   
@@ -455,8 +455,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)     
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo      
-    **Prazo Final:** Dezembro de 2017
-    **Responsável:** Funarte
+    **Prazo Final:** Dezembro de 2017          
+    **Responsável:** Funarte        
 
 ##### Instituto Brasileiro de Museus - IBRAM
 
@@ -470,9 +470,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;     
     Conferência dos Dados;     
     Envio para publicação no Dados.cultura.gov.br.     
-    **Frequência de Atualização:** anual, sempre em agosto.
-    **Prazo Final:** Primeira publicação: Dezembro/2017
-    **Responsável:** IBRAM/CPAI
+    **Frequência de Atualização:** anual, sempre em agosto.         
+    **Prazo Final:** Primeira publicação: Dezembro/2017        
+    **Responsável:** IBRAM/CPAI         
 
 * ##### **IBRAM02  -  Abertura dos dados do Formulário de Visitação Mensal (FVM)**
     **Produtos:**
@@ -484,9 +484,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;     
     Conferência dos Dados;     
     Envio para publicação no Dados.cultura.gov.br.      
-    **Frequência de Atualização:** Atualização semestral, sempre em março e agosto.
-    **Prazo Final:** Primeira publicação: Dezembro/2017
-    **Responsável:** IBRAM/CPAI
+    **Frequência de Atualização:** Atualização semestral, sempre em março e agosto.        
+    **Prazo Final:** Primeira publicação: Dezembro/2017          
+    **Responsável:** IBRAM/CPAI         
 
 * ##### **IBRAM03  -  Catalogação Museusbr**
     **Produtos:**
@@ -496,10 +496,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Ajustes na ferramenta tecnológica para possibilitar download de dados em formato aberto;     
     Realização de testes para verificação do correto funcionamento da ferramenta;         
     Disponibilização da funcionalidade na plataforma Museusbr;          
-    Divulgação da plataforma com a publicação de link em Dados.cultura.gov.br.          
-    **Frequência de Atualização:** contínua
-    **Prazo Final:** Primeira publicação: setembro/2017
-    **Responsável:** IBRAM/CPAI
+    Divulgação da plataforma com a publicação de link em Dados.cultura.gov.br.                 
+    **Frequência de Atualização:** contínua           
+    **Prazo Final:** Primeira publicação: setembro/2017        
+    **Responsável:** IBRAM/CPAI         
 
 * ##### **IBRAM04  -  Abertura dos dados do Cadastro de Bens Culturais Musealizados Desaparecidos - CBMD**
     **Produtos:**
@@ -509,9 +509,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Solicitação à CTINF para geração de relatório a partir da indicação dos campos.      
     Conferência dos Dados       
     Envio para publicação no Dados.cultura.gov.br.      
-    **Frequência de Atualização:** Anual - dezembro.
-    **Prazo Final:** Primeira publicação: Dezembro 2018
-    **Responsável:** IBRAM/COPRES
+    **Frequência de Atualização:** Anual - dezembro.          
+    **Prazo Final:** Primeira publicação: Dezembro 2018        
+    **Responsável:** IBRAM/COPRES        
 
 * ##### **IBRAM05  -  Abertura dos dados do Pontos de Memória**
     **Produtos:**
@@ -522,9 +522,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Definição do layout        
     Atualização e complementação dos dados pelos Pontos de Memória       
     Envio para publicação do Dados.cultura.gov.br.          
-    **Frequência de Atualização:**  contínua
-    **Prazo Final:** Primeira publicação: Dezembro/2017
-    **Responsável:** IBRAM/COMUSE
+    **Frequência de Atualização:**  contínua          
+    **Prazo Final:** Primeira publicação: Dezembro/2017        
+    **Responsável:** IBRAM/COMUSE          
 
 * ##### **IBRAM06  -  Abertura dos dados da Semana Nacional de Museus (Número de museus e municípios participantes, e eventos realizados)**
     **Produtos:**
@@ -535,10 +535,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;     
     Conferência dos Dados;       
     Envio para publicação no Dados.cultura.gov.br.          
-    **Frequência de Atualização:** anual sempre em Julho
-    **Prazo Final:** Primeira publicação: Dezembro/ 2017
-    **Responsável:** IBRAM/CPGII/ DDFEM
-
+    **Frequência de Atualização:** anual sempre em Julho           
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017        
+    **Responsável:** IBRAM/CPGII/ DDFEM          
+ 
 * ##### **IBRAM07  -  Abertura dos dados da Primavera dos Museus (Número de museus e municípios participantes e eventos realizados)**
     **Produtos:**
     1) Planilha com dados da Primavera de Museus em formato aberto
@@ -548,9 +548,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;          
     Conferência dos Dados;         
     Envio para publicação no Dados.cultura.gov.br.            
-    **Frequência de Atualização:** anual sempre Dezembro/ 2017.
-    **Prazo Final:** Primeira publicação: Dezembro/ 2017
-    **Responsável:** IBRAM/CPGII/ DDFEM
+    **Frequência de Atualização:** anual sempre Dezembro/ 2017.           
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017        
+    **Responsável:** IBRAM/CPGII/ DDFEM           
 
 * ##### **IBRAM08  -  Abertura dos dados do Fórum Nacional de Museus: Número de participantes (dados da inscrição - participante, cidade/ estado, instituição em que atua, escolaridade)**
     **Produtos:**
@@ -562,10 +562,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;       
     Conferência dos Dados;        
     Envio para publicação no Dados.cultura.gov.br.          
-    **Frequência de Atualização:** anual, sempre em dezembro.
-    **Prazo Final:** Primeira publicação: Dezembro/ 2017
-    **Responsável:** IBRAM/CPGII/ DDFEM
-
+    **Frequência de Atualização:** anual, sempre em dezembro.       
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017         
+    **Responsável:** IBRAM/CPGII/ DDFEM            
+ 
 * ##### **IBRAM09  -  Abertura dos dados de Estatísticas do serviços de Biblioteca do IBRAM**
     **Produtos:**
     1) Planilha com estatísticas dos serviços da Biblioteca central do IBRAM em formato aberto
@@ -576,9 +576,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;      
     Conferência dos dados;       
     Envio para publicação do Dados.cultura.gov.br.         
-    **Frequência de Atualização:** anual, sempre em março. 
-    **Prazo Final:** Primeira publicação: Mar/2018
-    **Responsável:** IBRAM/CAB
+    **Frequência de Atualização:** anual, sempre em março.           
+    **Prazo Final:** Primeira publicação: Mar/2018         
+    **Responsável:** IBRAM/CAB         
 
 * ##### **IBRAM10  -  Abertura dos dados do Cadastro Nacional de Museus**
     **Produtos:**
@@ -589,10 +589,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Organização e padronização das planilhas para disponibilização;   
     Conferência dos dados;      
     Envio para publicação do Dados.cultura.gov.br.         
-    **Frequência de Atualização:** anual, sempre em março
-    **Prazo Final:** Primeira publicação: Dez/2017
-    **Responsável:** IBRAM/CPAI
-
+    **Frequência de Atualização:** anual, sempre em março            
+    **Prazo Final:** Primeira publicação: Dez/2017       
+    **Responsável:** IBRAM/CPAI          
+ 
 * ##### **IBRAM11  -  Exposições no Brasil**
     **Produtos:**
     1) Planilha com informações sobre exposições realizadas no Brasil em formato aberto 
@@ -602,9 +602,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Organização e padronização das planilhas para disponibilização;  
     Conferência dos dados;    
     Envio para publicação do Dados.cultura.gov.br.        
-    **Frequência de Atualização:**  anual, sempre em março
-    **Prazo Final:** Primeira publicação: março/2018
-    **Responsável:** IBRAM/CPAI
+    **Frequência de Atualização:**  anual, sempre em março        
+    **Prazo Final:** Primeira publicação: março/2018         
+    **Responsável:** IBRAM/CPAI          
 
 * ##### **IBRAM12  -  Abertura dos dados da Pesquisa de Impacto da Semana Nacional de Museus**
     **Produtos:**
@@ -616,9 +616,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;       
     Conferência dos Dados;     
     Envio para publicação no Dados.cultura.gov.br.         
-    **Frequência de Atualização:** anual, sempre em dezembro.
-    **Prazo Final:** Primeira publicação: Dezembro/ 2017
-    **Responsável:** IBRAM/CES/ DDFEM
+    **Frequência de Atualização:** anual, sempre em dezembro.         
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017         
+    **Responsável:** IBRAM/CES/ DDFEM         
 
 * ##### **IBRAM13  -  Abertura dos dados da Pesquisa de Investimentos no Setor Museal**
     **Produtos:**
@@ -630,9 +630,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Formatação dos dados conforme metodologia padronizada estabelecida no PDA;       
     Conferência dos Dados;         
     Envio para publicação no Dados.cultura.gov.br.           
-    **Frequência de Atualização:** anual, sempre em dezembro.
-    **Prazo Final:** Primeira publicação: Dezembro/ 2017
-    **Responsável:** IBRAM/CES/ DDFEM
+    **Frequência de Atualização:** anual, sempre em dezembro.            
+    **Prazo Final:** Primeira publicação: Dezembro/ 2017          
+    **Responsável:** IBRAM/CES/ DDFEM          
 
 * ##### **IBRAM14  -  Curadoria**
     **Produtos:**
@@ -643,68 +643,68 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Verificar, para efeitos de publicação, se os dados enviados para publicação estão de acordo com os padrões da INDA e/ou INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados e recurso);      
     Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível.             
     Coordenar o processo de catalogação      
-    **Prazo Final:** Durante toda a vigência do PDA
-    **Responsável:** IBRAM/CTINF
+    **Prazo Final:** Durante toda a vigência do PDA        
+    **Responsável:** IBRAM/CTINF          
 
 * ##### **IBRAM15  -  Monitoramento e Controle**
     **Produtos:**
-    Relatório de acompanhamento
+    Relatório de acompanhamento        
 
     **Atividades:**
     Acompanhamento do cumprimento do plano de ação do IBRAM para abertura de dados, bem como atualização de suas metas, prazos, indicadores e produtos.       
-    **Prazo Final:** Durante toda a vigência do PDA
-    **Responsável:** IBRAM/NRI
+    **Prazo Final:** Durante toda a vigência do PDA        
+    **Responsável:** IBRAM/NRI            
 
 * ##### **IBRAM16  -  Participação Social**
     **Produtos:**
     Dirimir dúvidas e enviar as sugestões recebidas para as áreas.
 
     **Atividades:**
-    Receber os pedidos de informação dos usuários pelos canais de comunicação do IBRAM.
-    **Prazo Final:** Durante toda a vigência do PDA
-    **Responsável:** IBRAM/Setorial
+    Receber os pedidos de informação dos usuários pelos canais de comunicação do IBRAM.        
+    **Prazo Final:** Durante toda a vigência do PDA       
+    **Responsável:** IBRAM/Setorial          
 
 ##### Fundação Biblioteca Nacional - FBN
 
 * ##### **FBN01 - Abertura dos dados da base Real Biblioteca**
     A Real Biblioteca teve origem na Livraria do rei D. José, refeita após o grande terremoto de 1755, em Lisboa. Sob orientação do Abade Diogo Barbosa Machado, novas coleções foram incorporadas ao que restou da biblioteca incendiada, como a do próprio Barbosa Machado, as coleções de Francisco José da Serra, Brunelli, Simoni, arquiteto José da Costa e Silva e outros. Com a vinda de D. João e sua corte em 1808 para o Brasil, a Real Biblioteca foi embalada para ser encaminhada ao mesmo destino da família real. Este conjunto de dados é referente a descrição bibliográfica dos volumes já identificados pertencentes à Coleção Real Biblioteca.
 
-    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
-    **Frequência de Atualização:** estático (única vez)
-    **Prazo Final:** Dezembro de 2017
-    **Responsável:** FBN
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.             
+    **Frequência de Atualização:** estático (única vez)       
+    **Prazo Final:** Dezembro de 2017         
+    **Responsável:** FBN           
 
 * ##### **FBN02 - Abertura dos dados da base Divisão de Informação Documental (DINF)**
     A Divisão de Informação Documental – DINF – é responsável pelo atendimento dos pesquisadores residentes fora da região metropolitana do Rio de Janeiro.  Esses pesquisadores, em sua maioria universitários, pós-graduandos e doutorandos, atendidos à distância, solicitam pesquisas no acervo da instituição e a partir dos levantamentos e compilações realizadas em atendimento a estas demandas foi criada uma base de dados com referências bibliográficas dos vários acervos da FBN, inclusive periódicos, e com assuntos variados. O Catálogo de Registros Bibliográficos – Biblio DINF – reúne hoje cerca de 65.000 registros em sua base de dados.
 
-    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
-    **Frequência de Atualização:** estático (única vez)
-    **Prazo Final:** Fevereiro de 2018
-    **Responsável:** FBN
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.       
+    **Frequência de Atualização:** estático (única vez)      
+    **Prazo Final:** Fevereiro de 2018     
+    **Responsável:** FBN        
 
 * ##### **FBN03 - Abertura dos dados da  base Mário Pedrosa**
     O arquivo pessoal de Mário Pedrosa é composto por correspondências com diversas personalidades como André Breton e várias gerações de artistas brasileiros e internacionais, documentos pessoais, documentos administrativos, palestras, projetos, documentos dos exílios e sobre a censura, fichas de aulas, recortes de jornais, convites de exposições, mensagens cifradas enviadas a líderes soviéticos, termo de adesão ao Partido dos Trabalhadores, projeto do Museu das Origens, etc. Livros, periódicos e documentos iconográficos podem ser localizados nas respectivas áreas de guarda. O acervo total está estimado em cerca de 23 mil peças. Este conjunto de dados é referente a descrição bibliográfica dos documentos doados pela Família de Mario Pedrosa sob a guarda da Biblioteca Nacional.
-
-    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
-    **Frequência de Atualização:** estático (única vez)
-    **Prazo Final:** Abril de 2018
-    **Responsável:** FBN
+ 
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.       
+    **Frequência de Atualização:** estático (única vez)       
+    **Prazo Final:** Abril de 2018         
+    **Responsável:** FBN    
 
 * ##### **FBN04 - Abertura dos dados da base Slave Trade**
     A Biblioteca Nacional guarda um grande número de documentos sobre tráfico de escravos e escravidão. São mapas estatísticos, correspondência, gravuras e desenhos, periódicos, livros raros, material informativo arquivado de acordo com sua característica nos setores de Manuscritos, Iconografia, Periódicos, Obras Raras e Obras Gerais. Este conjunto de dados é referente a descrição bibliográfica dos documentos identificados e selecionados pelo projeto Slave Trade, parte de um projeto global patrocinado pela UNESCO.
 
-    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
-    **Frequência de Atualização:** estático (única vez)
-    **Prazo Final:** Junho de 2018
-    **Responsável:** FBN
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.           
+    **Frequência de Atualização:** estático (única vez)       
+    **Prazo Final:** Junho de 2018          
+    **Responsável:** FBN      
 
 * ##### **FBN05 - Abertura dos dados da base Memória dos Presidentes**
     A Lei nº 8.394, de 30 de dezembro de 1991, que dispõe sobre a preservação, organização e proteção dos acervos documentais privados dos presidentes da República, determina que estes acervos integrem o patrimônio cultural brasileiro e cria, para sua proteção, o SISTEMA DOS ACERVOS DOCUMENTAIS PRIVADOS DOS PRESIDENTES DA REPÚBLICA. Este conjunto de dados é referente ao levantamento dos acervos privados do Presidentes da República no âmbito da FBN.
 
-    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.
-    **Frequência de Atualização:** estático (única vez)
-    **Prazo Final:** Agosto de 2018
-    **Responsável:** FBN
+    **Atividades:** Conversão dos dados para formato XML e CSV. Produção da documentação referente aos formatos.       
+    **Frequência de Atualização:** estático (única vez)       
+    **Prazo Final:** Agosto de 2018        
+    **Responsável:** FBN        
 
 ##### Agência Nacional do Cinema - ANCINE
 
@@ -713,72 +713,72 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 * ##### **ANCINE01 - Disponibilização de parte do conteúdo publicado no portal do OCA também em formato não proprietário**
     Uma parcela dos dados publicados antes da vigência do PDA será disponibilizada em formato não proprietário. A atividade será finalizada em até 1 ano da data de publicação do PDA. Somente serão selecionados os documentos disponibilizados em planilhas e aqueles em que não haja análise da ANCINE.
 
-    **Atividades:** Publicação dos arquivos no portal do OCA.
-    **Prazo Final:** Outubro de 2018
-    **Responsável:** ANCINE/SAM/COB
-
+    **Atividades:** Publicação dos arquivos no portal do OCA.       
+    **Prazo Final:** Outubro de 2018      
+    **Responsável:** ANCINE/SAM/COB         
+ 
 * ##### **ANCINE02 - Priorização dos conjuntos de dados a serem abertos**
     A definição do que é importante está relacionada ao valor percebido pelo consumidor dos dados e ao prazo para disponibilização dos dados.
 
-    **Atividades:** Ordem de prioridade definida.
-    **Prazo Final:** Novembro de 2017
-    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI
+    **Atividades:** Ordem de prioridade definida.     
+    **Prazo Final:** Novembro de 2017      
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI           
 
 * ##### **ANCINE03 - Detalhamento dos conjuntos de dados selecionados para abertura**
     Os dados devem estar em seu formato mais bruto possível, ou seja, sem cruzamentos ou agregações.
 
-    **Atividades:** Indicação dos campos e origem de cada conjunto de dados.
-    **Prazo Final:** Abril de 2018
-    **Responsável:** ANCINE/SEC/CGI, SAM/COB, GTI e responsável setorial
+    **Atividades:** Indicação dos campos e origem de cada conjunto de dados.       
+    **Prazo Final:** Abril de 2018       
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB, GTI e responsável setorial      
 
 * ##### **ANCINE04 - Definição dos formatos de dados abertos**
     A decisão do formato deve ser baseada no equilíbrio entre as limitações de infraestrutura e a quantidade de valor agregado desejado para os dados.
 
-    **Atividades:** Formatos definidos.
-    **Prazo Final:** Novembro de 2017
-    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI
+    **Atividades:** Formatos definidos.       
+    **Prazo Final:** Novembro de 2017        
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI        
 
 * ##### **ANCINE05 - Preparação, validação e criação da arquitetura de extração de dados abertos**
     Antes que os dados sejam preparados e efetivamente publicados, é preciso encontrá-los, mapeá-los, simplificá-los e criar uma arquitetura técnica referencial para extração dos dados armazenados em bancos de dados ou sistemas. A arquitetura de extração poderá ser implementada de modo contínuo e incremental, por meio da disponibilização de módulos incrementais de dados abertos.
 
-    **Atividades:** Conjuntos de dados em formato aberto.
-    **Prazo Final:** Outubro de 2019
-    **Responsável:** ANCINE/SAM/COB, GTI e responsável setorial
+    **Atividades:** Conjuntos de dados em formato aberto.         
+    **Prazo Final:** Outubro de 2019        
+    **Responsável:** ANCINE/SAM/COB, GTI e responsável setorial          
 
 * ##### **ANCINE06 - Implantação da seção de dados abertos em ambiente de produção**
     Acesso restrito à rede interna da ANCINE para testes e validações dos conjuntos de dados indexados e arquivos.
 
-    **Atividades:** Seção disponibilizada em ambiente de produção, restrita à rede interna.
-    **Prazo Final:** Novembro de 2017
-    **Responsável:** ANCINE/GTI/CIS
+    **Atividades:** Seção disponibilizada em ambiente de produção, restrita à rede interna.      
+    **Prazo Final:** Novembro de 2017         
+    **Responsável:** ANCINE/GTI/CIS       
 
 * ##### **ANCINE07 - Indexação e disponibilização em formato aberto da seção de Dados Abertos do OCA**
     A primeira disponibilização ocorrerá em, no máximo, 1 ano após a publicação do PDA e será executada continuamente.
 
-    **Atividades:** Publicação dos metadados e dos arquivos.
-    **Prazo Final:** Outubro de 2018
-    **Responsável:** ANCINE/SAM/COB
+    **Atividades:** Publicação dos metadados e dos arquivos.         
+    **Prazo Final:** Outubro de 2018      
+    **Responsável:** ANCINE/SAM/COB         
 
 * ##### **ANCINE08 - Definição da licença de dados abertos**
     A GTI apresentará estudo com as opções de licenças para auxiliar a definição.
 
-    **Atividades:** Licença definida.
-    **Prazo Final:** Dezembro de 2017
-    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI
+    **Atividades:** Licença definida.       
+    **Prazo Final:** Dezembro de 2017       
+    **Responsável:** ANCINE/SEC/CGI, SAM/COB e GTI            
 
 * ##### **ANCINE09 - Disponibilização da seção de dados abertos ao público externo**
     Em até 1 ano da data de publicação do PDA haverá a primeira disponibilização de dados ao público externo. A totalidade das bases serão disponibilizadas na seção para acesso ao público externo até o fim da vigência do Plano.
 
-    **Atividades:** Seção de dados abertos do OCA liberada ao público externo.
-    **Prazo Final:** Outubro de 2018
-    **Responsável:** ANCINE/SAM/COB e GTI
-
+    **Atividades:** Seção de dados abertos do OCA liberada ao público externo.       
+    **Prazo Final:** Outubro de 2018       
+    **Responsável:** ANCINE/SAM/COB e GTI          
+      
 * ##### **ANCINE10 - Disponibilização dos dados abertos nos portais de governo.**
     Em até 1 ano da data de publicação do PDA haverá a primeira disponibilização de dados nos portais de governo. A totalidade das bases serão disponibilizadas até o fim da vigência do Plano.
 
-    **Atividades:** Publicação dos dados e dos metadados nos portais de dados abertos do Governo.
-    **Prazo Final:** Outubro de 2018
-    **Responsável:** ANCINE/SEC/CGI e GTI 
+    **Atividades:** Publicação dos dados e dos metadados nos portais de dados abertos do Governo.      
+    **Prazo Final:** Outubro de 2018     
+    **Responsável:** ANCINE/SEC/CGI e GTI         
 
 ##### Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN
 
@@ -786,33 +786,33 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 * ##### **IPHAN01 - Aprovar o plano de dados abertos**
 
-    **Atividades:** Elaborar minuta, Aprovar minuta, Publicar o Plano, Executar o Plano de ação
-    **Prazo Final:** Outubro de 2017
-    **Responsável:** CGTI, SIC, COGESTI, GABINETE
-
+    **Atividades:** Elaborar minuta, Aprovar minuta, Publicar o Plano, Executar o Plano de ação   
+    **Prazo Final:** Outubro de 2017     
+    **Responsável:** CGTI, SIC, COGESTI, GABINETE        
+ 
 * ##### **IPHAN02 - Definir pontos focais**
 
-    **Atividades:** Solicitar indicação de pontos focais nos Departamentos, Realizar Oficinas de ação para abertura de dados
-    **Prazo Final:** Julho de 2017
-    **Responsável:** COGESTI
+    **Atividades:** Solicitar indicação de pontos focais nos Departamentos, Realizar Oficinas de ação para abertura de dados   
+    **Prazo Final:** Julho de 2017          
+    **Responsável:** COGESTI     
 
 * ##### **IPHAN03 - Disponibilizar infraestrutura tecnológica para abertura de dados**
 
-    **Atividades:** Criar URL fixa para abertura de dados, Criar página de dados abertos no site institucional
-    **Prazo Final:** Julho de 2017
-    **Responsável:** CGTI
+    **Atividades:** Criar URL fixa para abertura de dados, Criar página de dados abertos no site institucional        
+    **Prazo Final:** Julho de 2017         
+    **Responsável:** CGTI        
 
 * ##### **IPHAN04 - Definir os dados a serem abertos**
 
-    **Atividades:** Inventariar bases de dados, realiar diagnóstico nas bases de dados, definir escopo dos dados a serem abertos, construir e executar processo de extração e carga dos dados
-    **Prazo Final:** Julho de 2017
-    **Responsável:** CGTI
+    **Atividades:** Inventariar bases de dados, realiar diagnóstico nas bases de dados, definir escopo dos dados a serem abertos, construir e executar processo de extração e carga dos dados       
+    **Prazo Final:** Julho de 2017     
+    **Responsável:** CGTI         
 
 * ##### **IPHAN05 - Publicar os dados selecionados**
 
-    **Atividades:** Analisar os dados a serem abertos para validação, Converter dados em formatos abertos, Catalogar dados no Portal de Dados Abertos, Sustentar dados publicados
-    **Prazo Final:** Conforme cronograma de abertura de cada base
-    **Responsável:** CGTI
+    **Atividades:** Analisar os dados a serem abertos para validação, Converter dados em formatos abertos, Catalogar dados no Portal de Dados Abertos, Sustentar dados publicados       
+    **Prazo Final:** Conforme cronograma de abertura de cada base  
+    **Responsável:** CGTI            
 
 ----------  
 ## **VIII ) Disposições Finais**
