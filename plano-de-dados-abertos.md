@@ -380,8 +380,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Biblioteca Nacional - FBN.
 
     **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações     
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN       
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações       
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FBN        
     **Prazo Final:** Agosto de 2017
     **Responsável:** FBN e OUV/MinC
 
@@ -389,8 +389,8 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Seguindo a estratégia de consolidação das iniciativas dos órgãos vinculados para atendimento à Política de Dados Abertos em um único Plano de Dados Abertos para todo o Sistema MinC, esta Ação detalhará o escopo referente à Fundação Casa de Rui Barbosa - FCRB.
 
     **Atividades:**  
-    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações
-    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR
+    a) Levantamento do Portfólio de bases de dados, priorização e definição de Cronograma de Ações    
+    b) Lançar nova versão do PDA do Sistema MinC incluindo escopo definido pela FCBR      
     **Prazo Final:** Agosto de 2017
     **Responsável:** FCBR e OUV/MinC
 
@@ -404,15 +404,15 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Disponibilização dos dados do Centro Técnico de Artes Cênicas "Teatros do Brasil", os dados contam com a localidade (CEP e endereço), o número de lugares, o tipo de espaço cênico e o telefone de contato.
 
     **Atividades:**
-    a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)
-    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)
+    a) Transcrição das informações do formato HTML para outros formatos processáveis por máquina (planilha, json etc)    
+    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)      
+    c) Disponibilização do serviço em uma instância do Mapas Culturais (para 2018)     
     **Frequência de Atualização:** inicialmente estático (única vez). Após item c, atualizaçes dinâmicas (online)
     **Prazo Final:** Setembro de 2017
     **Responsável:** Funarte
 
 * ##### **FUNARTE02 - Publicação dos dados do Mapa da música**
-    Publicação dosseguintes conjuntos de dados: 
+    Publicação dosseguintes conjuntos de dados:    
     * Bandas
     * Orquestras musicais
     * Escolas de música
@@ -421,8 +421,6 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:**
     a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)     
     b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo     
-    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
     **Frequência de Atualização:** anual.
     **Prazo Final:** Outubro de 2017
     **Responsável:** Funarte
@@ -440,24 +438,23 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     * Circuito Funarte Cena Pública - Olimpíadas/2016
 
     **Atividades:**
-    a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)
-    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    c) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
+    a) Transcrição das informações dos documentos para formatos processáveis por máquina (planilha, json etc)     
+    b) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)     
+    c) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo     
     **Frequência de Atualização:** anual.
     **Prazo Final:** Novembro de 2017
     **Responsável:** Funarte
 
 * ##### **FUNARTE04 - Abertura do catálogo do acervo  da Funarte**
-    * Cerca de 70.000 títulos distribuídos entre o Acervo geral, coleções especiais: Paschoal, Carlos Magno, João Angelo Labanca, Roberto Pontual, Roberto Wagner Pereira, Martinez Corrêa; obras raras
+    * Cerca de 70.000 títulos distribuídos entre o Acervo geral, coleções especiais: Paschoal, Carlos Magno, João Angelo Labanca, Roberto Pontual, Roberto Wagner Pereira, Martinez Corrêa; obras raras   
     * Cerca de 4.000 exemplares distribuídos entre o acervo geral, coleções especiais
     * Aproximadamente 29.200 dossiês contendo material de divulgação, artigos de periódicos, programas, etc.
     * 10.236 textos do teatro brasileiro
     * 1.699 documentos musicais
 
     **Atividades:**
-    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)
-    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo
-    **Frequência de Atualização:** anual.
+    a) Cadastramento das planilhas no [catálogo de dados abertos do Ministério da Cultura](http://dados.cultura.gov.br)     
+    b) Publicação dessas informações em um endereço fixo da web e referenciamento no catálogo      
     **Prazo Final:** Dezembro de 2017
     **Responsável:** Funarte
 
@@ -465,14 +462,14 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
 
 * ##### **IBRAM01  -  Abertura dos dados do Formulário de Visitação Anual (FVA)**
     **Produtos:**
-    1) Planilha com dados de visitação anual dos museus brasileiros em formato aberto
+    1) Planilha com dados de visitação anual dos museus brasileiros em formato aberto 
     2) Publicação dos dados
 
     **Atividades:**
-    Limpeza e ajuste do banco de dados para disponibilização;
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos Dados;
-    Envio para publicação no Dados.cultura.gov.br.
+    Limpeza e ajuste do banco de dados para disponibilização;     
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;     
+    Conferência dos Dados;     
+    Envio para publicação no Dados.cultura.gov.br.     
     **Frequência de Atualização:** anual, sempre em agosto.
     **Prazo Final:** Primeira publicação: Dezembro/2017
     **Responsável:** IBRAM/CPAI
@@ -483,10 +480,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     2) Publicação dos dados
 
     **Atividades:**
-    Limpeza e ajuste do banco de dados para disponibilização;
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos Dados;
-    Envio para publicação no Dados.cultura.gov.br.
+    Limpeza e ajuste do banco de dados para disponibilização;     
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;     
+    Conferência dos Dados;     
+    Envio para publicação no Dados.cultura.gov.br.      
     **Frequência de Atualização:** Atualização semestral, sempre em março e agosto.
     **Prazo Final:** Primeira publicação: Dezembro/2017
     **Responsável:** IBRAM/CPAI
@@ -496,10 +493,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Publicação de link em Dados.cultura.gov.br para acesso à plataforma Museusbr (já construída em formato aberto).
 
     **Atividades:**
-    Ajustes na ferramenta tecnológica para possibilitar download de dados em formato aberto;
-    Realização de testes para verificação do correto funcionamento da ferramenta;
-    Disponibilização da funcionalidade na plataforma Museusbr;
-    Divulgação da plataforma com a publicação de link em Dados.cultura.gov.br.
+    Ajustes na ferramenta tecnológica para possibilitar download de dados em formato aberto;     
+    Realização de testes para verificação do correto funcionamento da ferramenta;         
+    Disponibilização da funcionalidade na plataforma Museusbr;          
+    Divulgação da plataforma com a publicação de link em Dados.cultura.gov.br.          
     **Frequência de Atualização:** contínua
     **Prazo Final:** Primeira publicação: setembro/2017
     **Responsável:** IBRAM/CPAI
@@ -509,9 +506,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Lista de bens culturais musealizados desaparecidos – CBMD publicados em Dados.cultura.gov.br
 
     **Atividades:**
-    Solicitação à CTINF para geração de relatório a partir da indicação dos campos.
-    Conferência dos Dados
-    Envio para publicação no Dados.cultura.gov.br.
+    Solicitação à CTINF para geração de relatório a partir da indicação dos campos.      
+    Conferência dos Dados       
+    Envio para publicação no Dados.cultura.gov.br.      
     **Frequência de Atualização:** Anual - dezembro.
     **Prazo Final:** Primeira publicação: Dezembro 2018
     **Responsável:** IBRAM/COPRES
@@ -521,10 +518,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Publicação em Dados.cultura.gov.br de link para acesso à plataforma Culturabr (já construída em formato aberto).
 
     **Atividades:**
-    Inclusão dos dados na plataforma Culturabr
-    Definição do layout
-    Atualização e complementação dos dados pelos Pontos de Memória
-    Envio para publicação do Dados.cultura.gov.br.
+    Inclusão dos dados na plataforma Culturabr      
+    Definição do layout        
+    Atualização e complementação dos dados pelos Pontos de Memória       
+    Envio para publicação do Dados.cultura.gov.br.          
     **Frequência de Atualização:**  contínua
     **Prazo Final:** Primeira publicação: Dezembro/2017
     **Responsável:** IBRAM/COMUSE
@@ -535,9 +532,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     2) Publicação dos dados
 
     **Atividades:**
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos Dados;
-    Envio para publicação no Dados.cultura.gov.br.
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;     
+    Conferência dos Dados;       
+    Envio para publicação no Dados.cultura.gov.br.          
     **Frequência de Atualização:** anual sempre em Julho
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
     **Responsável:** IBRAM/CPGII/ DDFEM
@@ -548,9 +545,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     2) Publicação dos dados
 
     **Atividades:**
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos Dados;
-    Envio para publicação no Dados.cultura.gov.br.
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;          
+    Conferência dos Dados;         
+    Envio para publicação no Dados.cultura.gov.br.            
     **Frequência de Atualização:** anual sempre Dezembro/ 2017.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
     **Responsável:** IBRAM/CPGII/ DDFEM
@@ -561,10 +558,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     2) Publicação dos dados
 
     **Atividades:**
-    Limpeza e ajuste das tabelas para disponibilização;
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos Dados;
-    Envio para publicação no Dados.cultura.gov.br.
+    Limpeza e ajuste das tabelas para disponibilização;        
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;       
+    Conferência dos Dados;        
+    Envio para publicação no Dados.cultura.gov.br.          
     **Frequência de Atualização:** anual, sempre em dezembro.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
     **Responsável:** IBRAM/CPGII/ DDFEM
@@ -575,36 +572,36 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     2) Publicação dos dados  
 
     **Atividades:**
-    Organização dos dados para disponibilização;
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos dados;
-    Envio para publicação do Dados.cultura.gov.br.
-    **Frequência de Atualização:** anual, sempre em março.
+    Organização dos dados para disponibilização;        
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;      
+    Conferência dos dados;       
+    Envio para publicação do Dados.cultura.gov.br.         
+    **Frequência de Atualização:** anual, sempre em março. 
     **Prazo Final:** Primeira publicação: Mar/2018
     **Responsável:** IBRAM/CAB
 
 * ##### **IBRAM10  -  Abertura dos dados do Cadastro Nacional de Museus**
     **Produtos:**
-    Planilha com informações cadastrais dos museus brasileiros em formato aberto
-    Publicação dos dados
+    Planilha com informações cadastrais dos museus brasileiros em formato aberto 
+    Publicação dos dados   
 
     **Atividades:**
-    Organização e padronização das planilhas para disponibilização;
-    Conferência dos dados;
-    Envio para publicação do Dados.cultura.gov.br.
+    Organização e padronização das planilhas para disponibilização;   
+    Conferência dos dados;      
+    Envio para publicação do Dados.cultura.gov.br.         
     **Frequência de Atualização:** anual, sempre em março
     **Prazo Final:** Primeira publicação: Dez/2017
     **Responsável:** IBRAM/CPAI
 
 * ##### **IBRAM11  -  Exposições no Brasil**
     **Produtos:**
-    1) Planilha com informações sobre exposições realizadas no Brasil em formato aberto
+    1) Planilha com informações sobre exposições realizadas no Brasil em formato aberto 
     2) Publicação dos dados
 
     **Atividades:**
-    Organização e padronização das planilhas para disponibilização;
-    Conferência dos dados;
-    Envio para publicação do Dados.cultura.gov.br.
+    Organização e padronização das planilhas para disponibilização;  
+    Conferência dos dados;    
+    Envio para publicação do Dados.cultura.gov.br.        
     **Frequência de Atualização:**  anual, sempre em março
     **Prazo Final:** Primeira publicação: março/2018
     **Responsável:** IBRAM/CPAI
@@ -615,10 +612,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     2) Publicação dos dados
 
     **Atividades:**
-    Limpeza e ajuste das tabelas para disponibilização;
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos Dados;
-    Envio para publicação no Dados.cultura.gov.br.
+    Limpeza e ajuste das tabelas para disponibilização;    
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;       
+    Conferência dos Dados;     
+    Envio para publicação no Dados.cultura.gov.br.         
     **Frequência de Atualização:** anual, sempre em dezembro.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
     **Responsável:** IBRAM/CES/ DDFEM
@@ -629,10 +626,10 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     2) Publicação dos dados
 
     **Atividades:**
-    Limpeza e ajuste das tabelas para disponibilização;
-    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-    Conferência dos Dados;
-    Envio para publicação no Dados.cultura.gov.br.
+    Limpeza e ajuste das tabelas para disponibilização;     
+    Formatação dos dados conforme metodologia padronizada estabelecida no PDA;       
+    Conferência dos Dados;         
+    Envio para publicação no Dados.cultura.gov.br.           
     **Frequência de Atualização:** anual, sempre em dezembro.
     **Prazo Final:** Primeira publicação: Dezembro/ 2017
     **Responsável:** IBRAM/CES/ DDFEM
@@ -643,9 +640,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Cadastro dos mantenedores dos metadados no portal (DTI).
 
     **Atividades:**
-    Verificar, para efeitos de publicação, se os dados enviados para publicação estão de acordo com os padrões da INDA e/ou INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados e recurso);
-    Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível.
-    Coordenar o processo de catalogação
+    Verificar, para efeitos de publicação, se os dados enviados para publicação estão de acordo com os padrões da INDA e/ou INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados e recurso);      
+    Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível.             
+    Coordenar o processo de catalogação      
     **Prazo Final:** Durante toda a vigência do PDA
     **Responsável:** IBRAM/CTINF
 
@@ -654,7 +651,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     Relatório de acompanhamento
 
     **Atividades:**
-    Acompanhamento do cumprimento do plano de ação do IBRAM para abertura de dados, bem como atualização de suas metas, prazos, indicadores e produtos.
+    Acompanhamento do cumprimento do plano de ação do IBRAM para abertura de dados, bem como atualização de suas metas, prazos, indicadores e produtos.       
     **Prazo Final:** Durante toda a vigência do PDA
     **Responsável:** IBRAM/NRI
 
