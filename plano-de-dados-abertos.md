@@ -566,7 +566,7 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Primeira publicação: Dezembro/ 2017         
     **Responsável:** IBRAM/CPGII/ DDFEM            
  
-* ##### **IBRAM09  -  Abertura dos dados de Estatísticas do serviços de Biblioteca do IBRAM**
+* ##### **IBRAM09  -  Abertura dos dados de Estatísticas do serviços de Biblioteca do IBRAM - CANCELADA**
     **Produtos:**
     1) Planilha com estatísticas dos serviços da Biblioteca central do IBRAM em formato aberto
     2) Publicação dos dados  
@@ -579,6 +579,9 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Frequência de Atualização:** anual, sempre em março.           
     **Prazo Final:** Primeira publicação: Mar/2018         
     **Responsável:** IBRAM/CAB         
+    **Justificativa Cancelamento**      
+    Sistema de informações não tem previsão para ser desenvolvido.
+    
 
 * ##### **IBRAM10  -  Abertura dos dados do Cadastro Nacional de Museus**
     **Produtos:**
