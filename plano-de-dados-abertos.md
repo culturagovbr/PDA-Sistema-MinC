@@ -817,6 +817,106 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Prazo Final:** Conforme cronograma de abertura de cada base  
     **Responsável:** CGTI            
 
+##### Fundação Casa de Rui
+
+- http://www.casaruibarbosa.gov.br/arquivos/file/Portaria_57_2017_Aprovacao_Politica_Dados_Abertos.pdf
+
+* ##### **RB01 - Publicar Dados sobre a Estrutura de Governança**
+
+    **Atividades:** Elaboração de relação contendo dados dos dirigentes. Disponibilização do organograma. Aplicação das normas do e-Ping.
+    **Prazo Final:** Julho de 2017
+    **Responsável:** Gabinete da presidência e Serviço de Informática    
+
+* ##### **RB02 - Publicar Dados sobre a Gestão Documental**
+
+    **Atividades:** Elaboração  de  relação  contendo  os  procedimentos  de  gestão de documentos e a Tabela de temporalidade. Aplicação das normas do e-Ping.
+    **Prazo Final:** Fevereiro de 2018
+    **Responsável:** Serviço  de  Arquivo  Histórico  e  Institucional  e  Serviço  de Informática.
+
+* ##### **RB03 - Publicar Dados sobre a Unidade Organizacional.**
+
+    **Atividades:** Elaboração  de  relação  contendo  endereço, telefone,  e-mail,  CNPJ, UASG. Aplicação das normas do e-Ping.
+    **Prazo Final:** Julho de 2017
+    **Responsável:** Gabinete da presidência e Serviço de Informática.
+
+* ##### **RB04 - Publicar Dados sobre Acesso aos Acervos.**
+
+    **Atividades:** Elaboração de relação contendo o acesso aos acervos. Elaboração  de  relação  contendo  dados  sobre  os  fundos  e coleções. Aplicação das normas do e-Ping.
+    **Prazo Final:** Julho de 2018
+    **Responsável:** Arquivo  Museu  de  Literatura,  Serviço  de  Arquivo  Histórico e Institucional e Serviço de Informática.
+
+* ##### **RB05 - Publicar Dados sobre Ensino de Pós-Graduação.**
+
+    **Atividades:** Elaboração de relação contendo o edital e o rol dos docentes e discentes. Aplicação das normas do e-Ping.
+    **Prazo Final:** Julho de 2017
+    **Responsável:** Coordenação  do  Programa  de  Pós  Graduação  e  Memória  e Acervos e Serviço de informática.
+
+* ##### **RB06 - Publicar Dados sobre Gestão da Tecnologia da Informação**
+
+    **Atividades:** Elaboração  de  Tabelas  com  os  principais  assuntos  do  PDTI, PoSIC e dos atendimentos de HelpDesk. Aplicação das normas do e-Ping.
+    **Prazo Final:** Setembro de 2017
+    **Responsável:** Comitê  Interno  de  Governança,  Comitê  de  Tecnologia  da Informação, Serviço de informática, Comissão de Elaboração do PDTI.
+
+* ##### **RB07 - Publicar Dados sobre Gestão de Pessoas**
+
+    **Atividades:** Elaboração de relação contendo o rol sobre os servidores da FCRB, terceirizados e concurso público. Aplicação das normas do e-Ping.
+    **Prazo Final:** Setembro de 2017
+    **Responsável:** Coordenação-Geral de Administração e Serviço de Informática.
+
+* ##### **RB08 - Publicar Dados sobre Gestão do Patrimônio**
+
+    **Atividades:** Elaboração  de  relação  contendo  o  rol  dos  bens  tangíveis  e intangíveis. Aplicação das normas do e-Ping.
+    **Prazo Final:** Junho de 2018
+    **Responsável:** Serviço  de  Administração  de  Recursos  Gerais  e  Serviço  de Informática.
+
+* ##### **RB09 - Publicar Dados sobre o Desempenho Orçamentário-Financeiro**
+
+    **Atividades:** Elaboração  de  relação  contendo  os  dados  sobre  a  execução do orçamento da FCRB. Aplicação das normas do e-Ping.
+    **Prazo Final:** Julho de 2017
+    **Responsável:** Divisão de Planejamento e Orçamento e Serviço de Informática.
+
+* ##### **RB10 - Publicar Dados sobre o Sistema de Informação ao Cidadão**
+
+    **Atividades:** Elaboração  de  relação  contendo  dados  sobre  os  pedidos feitos por meio do SIC e as consultas nele realizadas. Aplicação das normas do e-Ping.
+    **Prazo Final:** Outubro de 2017
+    **Responsável:** Secretaria  do  Gabinete,  Serviço  de  Arquivo  e  Serviço  de Informática.
+
+* ##### **RB11 - Publicar Dados sobre o Programa de Bolsas**
+
+    **Atividades:** Elaboração   de   relação   contendo   dados   quantitativos e financeiros  sobre  as  bolsas  oferecidas  na  FCRB  para  a realização de pesquisa. Aplicação das normas do e-Ping.
+    **Prazo Final:** Outubro de 2017
+    **Responsável:** Centro de Pesquisa e Serviço de Informática
+
+* ##### **RB12 - Publicar Dados sobre Eventos**
+
+    **Atividades:** Elaboração  de  relação  contendo  todos  os  eventos  realizados pela FCRB. Aplicação das normas do e-Ping.
+    **Prazo Final:** Setembro de 2017
+    **Responsável:** Divisão   de   Difusão   e   Política   cultural   e   Serviço   de Informática.
+
+* ##### **RB13 - Publicar Dados sobre Pesquisas em Desenvolvimento**
+
+    **Atividades:** Elaboração de relação contendo dados sobre as pesquisas do mestrado. Elaboração de relação contendo dados sobre as pesquisas dos programas de bolsas da FCRB. Elaboração  de  relação  contendo  dados  sobre  as  pesquisas desenvolvidas  pelos  pesquisadores,  tecnologistas  e  demais servidores. Aplicação das normas do e-Ping.
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** Coordenação  do  PPGMA,  Centro  de  Pesquisa, Centro  de Memória e Informação, Coordenação-Geral de Administração e Serviço de Informática.
+
+* ##### **RB14 - Publicar Dados sobre Preservação**
+
+    **Atividades:** Elaboração   de   relação   contendo   o   tratamento   técnico realizado  nos  acervos  para  sua  conservação,  restauração, microfilmagem e digitalização. Elaboração   de   relação   contendo   as orientações   técnicas, pareceres  e  assistências  técnicas  executados  para  os  setores da FCRB e outras instituições. Elaboração de relação contendo os cursos ministrados. Elaboração de relação contendo os eventos organizados e as visitas técnicas atendidas. Elaboração de relação contendo os dados sobre a cooperação técnica com outras instituições. Aplicação das normas do e-Ping.
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** Serviço de Preservação e Serviço de informática.
+
+* ##### **RB15 - Publicar Dados sobre Publicações**
+
+    **Atividades:** Elaboração de relação sobre as obras editadas pela FCRB. Aplicação das normas do e-Ping.
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** Coordenação  do PPGMA,  Centro  de  Pesquisa  e  Serviço  de Informática.
+
+* ##### **RB16 - Publicar Dados sobre Contratos**
+
+    **Atividades:** Elaboração   de   relação   contendo   o   nome   das   empresas contratadas e serviços por elas realizados. Aplicação das normas do e-Ping.
+    **Prazo Final:** Dezembro de 2017
+    **Responsável:** Serviço de Licitações e Contratos e Serviço de Informática.
+
 ----------  
 ## **VIII ) Disposições Finais**
 
