@@ -1,7 +1,7 @@
 **Plano de Dados Abertos do Sistema MinC - Ministério da Cultura e Órgãos Vinculados**
 ----------
 
-Versão [1.7.0](https://github.com/culturagovbr/PDA-Sistema-MinC/releases/tag/v1.7.0) de agosto/18 - Vigência 2017/2018
+Versão [1.8.0](https://github.com/culturagovbr/PDA-Sistema-MinC/releases/tag/v1.8.0) de agosto/18 - Vigência 2017/2018
 
 
 ## **Sumário**
@@ -915,6 +915,76 @@ O [MuseusBR](http://renim.museus.gov.br/museusbr/) possui um [Plataforma de Regi
     **Atividades:** Elaboração   de   relação   contendo   o   nome   das   empresas contratadas e serviços por elas realizados. Aplicação das normas do e-Ping.     
     **Prazo Final:** Dezembro de 2017     
     **Responsável:** Serviço de Licitações e Contratos e Serviço de Informática.     
+
+##### Fundação Cultural Palmares
+
+- http://www.palmares.gov.br/quilombo/uploads/2017/04/PORTARIA-156-2018-COM-ANEXO.pdf
+
+* ##### **PALMARES01 - Estabelecer a governança da Política de Dados Abertos**
+
+    **Atividades:** Elaboração do Plano.      
+    **Prazo Final:** Março de 2017     
+    **Responsável:** Comitê PDA     
+
+* ##### **PALMARES02 - Aprovar o Plano de Dados Abertos**
+
+    **Atividades:** Avaliar informações contidas no Plano de Dados Abertos, para aprovação.      
+    **Prazo Final:** Abril de 2017     
+    **Responsável:** Comitê PDA     
+
+* ##### **PALMARES03 - Elaboração    do    PDTI 2017/2019**
+
+    **Atividades:** Elaboração  de  Portaria,  definição  do Plano de Trabalho, realização de análise SWOT,  definição  de  inventário  de necessidades,  elaboração  do Plano  de Metas  e  ações,  estimativa  de  recursos, identificação  de  Riscos,  publicação  do PDTI.      
+    **Prazo Final:** Julho de 2017     
+    **Responsável:** Divisão   de   Tecnologia   da Informação/Coordenação-Geral de Gestão Interna/ Comitê PDA     
+
+* ##### **PALMARES04 - Construção  e  Implantação do Planejamento Estratégico**
+
+    **Atividades:** Finalização   da   revisão   do   Mapa Estratégico,  elaboração  dos  indicadores de   desempenho   e  implantação   do Planejamento Estratégico.      
+    **Prazo Final:** Dezembro de 2017     
+    **Responsável:** Coordenação-Geral  de  Gestão Estratégica
+
+* ##### **PALMARES05 - Estudo de Viabilidade para definir arquitetura tecnológica para publicação de dados abertos**
+
+    **Atividades:** Definição  de  arquitetura  tecnológica  da plataforma  da  FCP  para  divulgação  de base  de  dados  em  formatos  abertos, baseada em padrões INDA e INDE.      
+    **Prazo Final:** Agosto de 2018     
+    **Responsável:** Divisão   de   Tecnologia   da Informação/ Gabinete-FCP     
+
+* ##### **PALMARES06 - Estudo de viabilidade  para desenvolver o Portal de Dados Abertos próprio da FCP**
+
+    **Atividades:** Criação de portal de dados abertos próprio da FCP, ligado ao site da FCP.      
+    **Prazo Final:** Setembro de 2017     
+    **Responsável:** Divisão   de   Tecnologia   da Informação/ Gabinete-FCP     
+
+* ##### **PALMARES07 - Publicar o primeiro conjunto de dados abertos da FCP**
+
+    **Atividades:** Indicação  dos  conjuntos  de  dados  que serão publicados.      
+    **Prazo Final:** Setembro de 2018     
+    **Responsável:** Divisão   de   Tecnologia   da Informação/   Gabinete-FCP   / Coordenação-Geral  de  Gestão Estratégica.    
+
+* ##### **PALMARES08 - Catalogar  os  conjuntos  de dados  abertos  da  FCP  no Portal  Brasileiro  de  Dados Abertos**
+
+    **Atividades:** Definição  e  execução  de  procedimentos para  atualizar  o  catálogo  do  Portal Brasileiro de Dados Abertos com as bases de dados divulgadas em formato aberto no portal da FCP.      
+    **Prazo Final:** Outubro de 2018     
+    **Responsável:** Comitê PDA    
+
+* ##### **PALMARES09 - Revisar o conjunto de dados abertos   com   base   no processo automatizado**
+
+    **Atividades:** Executar  e  manter  em  operação  as soluções  de  extração  e  publicação automática de dados no formato de dados abertos.      
+    **Prazo Final:** Dezembro de 2018     
+    **Responsável:** Comitê PDA    
+
+* ##### **PALMARES10 - Atualizar o Plano de Dados Abertos**
+
+    **Atividades:** Promover a atualização do PDA com base nas  lições  aprendidas  da  execução  do plano no período anterior.      
+    **Prazo Final:** Março de 2019     
+    **Responsável:** Comitê PDA    
+
+* ##### **PALMARES11 - Elaborar novo PDA**
+
+    **Atividades:** Elaboração  de  novo  Plano  de  Dados Abertos para o período de 2020 a 2022.           
+    **Prazo Final:** Outubro de 2019     
+    **Responsável:** Comitê PDA    
 
 ----------  
 ## **VIII ) Disposições Finais**
